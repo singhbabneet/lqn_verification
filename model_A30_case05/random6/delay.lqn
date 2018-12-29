@@ -1,0 +1,6936 @@
+G
+""
+1.0E-4
+50
+1
+0.9
+-1
+
+P 0
+p c00 i
+p delayP i
+p NF5280M4_6_2627 s 30 m 1 R 0.676642858
+p NF5280M4_6_2628 s 30 m 2 R 0.676642858
+p NF5280M4_6_2629 s 30 m 2 R 0.676642858
+p NF5280M4_6_2630 s 30 m 1 R 0.676642858
+p NF5280M4_6_2631 s 30 m 1 R 0.676642858
+p NF5280M4_6_2632 s 30 m 2 R 0.676642858
+p NF5280M4_6_2633 s 30 m 1 R 0.676642858
+p NF5280M4_6_2634 s 30 m 1 R 0.676642858
+p NF5280M4_6_2635 s 30 m 2 R 0.676642858
+p NF5280M4_6_2636 s 30 m 1 R 0.676642858
+p NF5280M4_6_2637 s 30 m 1 R 0.676642858
+p NF5280M4_6_2638 s 30 m 2 R 0.676642858
+p NF5280M4_6_2639 s 30 m 1 R 0.676642858
+p NF5280M4_6_2640 s 30 m 2 R 0.676642858
+p NF5280M4_6_2641 s 30 m 1 R 0.676642858
+p NF5280M4_6_2642 s 30 m 2 R 0.676642858
+p NF5280M4_6_2643 s 30 m 1 R 0.676642858
+p NF5280M4_6_2644 s 30 m 2 R 0.676642858
+p NF5280M4_6_2645 s 30 m 2 R 0.676642858
+p NF5280M4_6_2646 s 30 m 2 R 0.676642858
+p NF5280M4_6_2647 s 30 m 1 R 0.676642858
+p NF5280M4_6_2648 s 30 m 3 R 0.676642858
+p NF5280M4_6_2649 s 30 m 2 R 0.676642858
+p NF5280M4_6_2650 s 30 m 1 R 0.676642858
+p NF5280M4_6_2651 s 30 m 2 R 0.676642858
+p NF5280M4_6_2652 s 30 m 1 R 0.676642858
+p NF5280M4_6_2653 s 30 m 1 R 0.676642858
+p NF5280M4_6_2654 s 30 m 1 R 0.676642858
+p NF5280M4_6_2655 s 30 m 2 R 0.676642858
+p NF5280M4_6_2656 s 30 m 3 R 0.676642858
+p NF5280M4_6_2657 s 30 m 2 R 0.676642858
+p NF5280M4_6_2658 s 30 m 1 R 0.676642858
+p NF5280M4_6_2659 s 30 m 1 R 0.676642858
+p NF5280M4_6_2660 s 30 m 2 R 0.676642858
+p NF5280M4_6_2661 s 30 m 3 R 0.676642858
+p NF5280M4_6_2662 s 30 m 3 R 0.676642858
+p NF5280M4_6_2663 s 30 m 2 R 0.676642858
+p NF5280M4_6_2664 s 30 m 1 R 0.676642858
+p NF5280M4_6_2665 s 30 m 2 R 0.676642858
+p NF5280M4_6_2666 s 30 m 2 R 0.676642858
+p NF5280M4_6_2667 s 30 m 1 R 0.676642858
+p NF5280M4_6_2668 s 30 m 1 R 0.676642858
+p NF5280M4_6_2669 s 30 m 3 R 0.676642858
+p NF5280M4_6_2670 s 30 m 2 R 0.676642858
+p NF5280M4_6_2671 s 30 m 1 R 0.676642858
+p NF5280M4_6_2672 s 30 m 2 R 0.676642858
+p NF5280M4_6_2673 s 30 m 2 R 0.676642858
+p NF5280M4_6_2674 s 30 m 1 R 0.676642858
+p NF5280M4_6_2675 s 30 m 1 R 0.676642858
+p NF5280M4_6_2676 s 30 m 2 R 0.676642858
+p NF5280M4_6_2677 s 30 m 2 R 0.676642858
+p NF5280M4_6_2678 s 30 m 2 R 0.676642858
+p NF5280M4_6_2679 s 30 m 2 R 0.676642858
+p NF5280M4_6_2680 s 30 m 1 R 0.676642858
+p NF5280M4_6_2681 s 30 m 1 R 0.676642858
+p NF5280M4_6_2682 s 30 m 1 R 0.676642858
+p NF5280M4_6_2683 s 30 m 2 R 0.676642858
+p NF5280M4_6_2684 s 30 m 2 R 0.676642858
+p NF5280M4_6_2685 s 30 m 2 R 0.676642858
+p NF5280M4_6_2686 s 30 m 1 R 0.676642858
+p NF5280M4_6_2687 s 30 m 1 R 0.676642858
+p NF5280M4_6_2688 s 30 m 2 R 0.676642858
+p NF5280M4_6_2689 s 30 m 2 R 0.676642858
+p NF5280M4_6_2690 s 30 m 2 R 0.676642858
+p NF5280M4_6_2691 s 30 m 1 R 0.676642858
+p NF5280M4_6_2692 s 30 m 2 R 0.676642858
+p NF5280M4_6_2693 s 30 m 1 R 0.676642858
+p NF5280M4_6_2694 s 30 m 2 R 0.676642858
+p NF5280M4_6_2695 s 30 m 1 R 0.676642858
+p NF5280M4_6_2696 s 30 m 1 R 0.676642858
+p NF5280M4_6_2697 s 30 m 1 R 0.676642858
+p NF5280M4_6_2698 s 30 m 1 R 0.676642858
+p NF5280M4_6_2699 s 30 m 1 R 0.676642858
+p NF5280M4_6_2700 s 30 m 2 R 0.676642858
+p NF5280M4_6_2701 s 30 m 1 R 0.676642858
+p NF5280M4_6_2702 s 30 m 3 R 0.676642858
+p NF5280M4_6_2703 s 30 m 1 R 0.676642858
+p NF5280M4_6_2704 s 30 m 2 R 0.676642858
+p NF5280M4_6_2705 s 30 m 2 R 0.676642858
+p NF5280M4_6_2706 s 30 m 1 R 0.676642858
+p TX1330M2_3_2707 s 30 m 1 R 1.011723844
+p RX1330M3_4_2708 s 30 m 1 R 1.226663072
+p RX1330M1_1_2709 s 30 m 2 R 1.061651536
+p TX1330M2_3_2710 s 30 m 2 R 1.011723844
+p RX1330M3_4_2711 s 30 m 1 R 1.226663072
+p RX1330M1_1_2712 s 30 m 2 R 1.061651536
+p RX1330M3_4_2713 s 30 m 1 R 1.226663072
+p TX1330M2_3_2714 s 30 m 2 R 1.011723844
+p TX1330M2_3_2715 s 30 m 2 R 1.011723844
+p RX1330M1_1_2716 s 30 m 2 R 1.061651536
+p RX1330M3_4_2717 s 30 m 1 R 1.226663072
+p TX1320M2_1_2718 s 30 m 1
+p TX1330M2_7_2719 s 30 m 1 R 1.011723844
+p S31A1U_8_2720 s 30 m 2 R 0.991964674
+p TX1330M2_5_2721 s 30 m 2 R 1.011723844
+p TX1330M2_6_2722 s 30 m 2 R 1.011723844
+p S31A1U_10_2723 s 30 m 2 R 0.991964674
+p TX1330M2_7_2724 s 30 m 2 R 1.011723844
+p S31A1U_10_2725 s 30 m 2 R 0.991964674
+p TX1330M2_7_2726 s 30 m 1 R 1.011723844
+p TX1330M2_7_2727 s 30 m 2 R 1.011723844
+p TX1330M2_5_2728 s 30 m 2 R 1.011723844
+p TX1330M2_4_2729 s 30 m 1 R 1.011723844
+p TX1320M2_1_2730 s 30 m 1
+p TX1330M2_7_2731 s 30 m 1 R 1.011723844
+p TX1320M2_2_2732 s 30 m 1
+p TX1330M2_7_2733 s 30 m 2 R 1.011723844
+p S31A1U_10_2734 s 30 m 2 R 0.991964674
+p TX1320M2_2_2735 s 30 m 1
+p TX1320M2_1_2736 s 30 m 1
+p S31A1U_8_2737 s 30 m 1 R 0.991964674
+p TX1320M2_1_2738 s 30 m 2
+p TX1330M2_4_2739 s 30 m 1 R 1.011723844
+p S31A1U_8_2740 s 30 m 1 R 0.991964674
+p TX1330M2_5_2741 s 30 m 1 R 1.011723844
+p TX1320M2_2_2742 s 30 m 2
+p TX1330M2_7_2743 s 30 m 1 R 1.011723844
+p TX1330M2_4_2744 s 30 m 1 R 1.011723844
+p TX1330M2_6_2745 s 30 m 2 R 1.011723844
+p TX1320M2_2_2746 s 30 m 2
+p S31A1U_8_2747 s 30 m 1 R 0.991964674
+p S31A1U_8_2748 s 30 m 1 R 0.991964674
+p S31A1U_8_2749 s 30 m 2 R 0.991964674
+p TX1330M2_7_2750 s 30 m 1 R 1.011723844
+p TX1320M2_1_2751 s 30 m 1
+p S31A1U_10_2752 s 30 m 2 R 0.991964674
+p TX1330M2_4_2753 s 30 m 1 R 1.011723844
+p TX1330M2_7_2754 s 30 m 1 R 1.011723844
+p S31A1U_10_2755 s 30 m 2 R 0.991964674
+p TX1320M2_2_2756 s 30 m 2
+p TX1330M2_6_2757 s 30 m 2 R 1.011723844
+p TX1330M2_4_2758 s 30 m 1 R 1.011723844
+p TX1320M2_1_2759 s 30 m 2
+p TX1330M2_5_2760 s 30 m 1 R 1.011723844
+p TX1330M2_7_2761 s 30 m 1 R 1.011723844
+p S31A1U_8_2762 s 30 m 2 R 0.991964674
+p TX1330M2_6_2763 s 30 m 2 R 1.011723844
+p TX1330M2_6_2764 s 30 m 1 R 1.011723844
+p S31A1U_8_2765 s 30 m 2 R 0.991964674
+p S31A1U_9_2766 s 30 m 2 R 0.991964674
+p TX1330M2_6_2767 s 30 m 2 R 1.011723844
+p TX1330M2_6_2768 s 30 m 1 R 1.011723844
+p TX1330M2_6_2769 s 30 m 1 R 1.011723844
+p TX1330M2_5_2770 s 30 m 1 R 1.011723844
+p TX1320M2_1_2771 s 30 m 1
+p TX1330M2_7_2772 s 30 m 1 R 1.011723844
+p S31A1U_9_2773 s 30 m 2 R 0.991964674
+p TX1330M2_6_2774 s 30 m 2 R 1.011723844
+p TX1330M2_5_2775 s 30 m 1 R 1.011723844
+p S31A1U_8_2776 s 30 m 1 R 0.991964674
+p TX1330M2_7_2777 s 30 m 2 R 1.011723844
+p S31A1U_9_2778 s 30 m 2 R 0.991964674
+p S31A1U_9_2779 s 30 m 2 R 0.991964674
+p TX1330M2_7_2780 s 30 m 1 R 1.011723844
+p TX1330M2_7_2781 s 30 m 1 R 1.011723844
+p TX1330M2_4_2782 s 30 m 1 R 1.011723844
+p TX1330M2_7_2783 s 30 m 1 R 1.011723844
+p TX1330M2_6_2784 s 30 m 1 R 1.011723844
+p TX1320M2_2_2785 s 30 m 2
+p TX1330M2_4_2786 s 30 m 1 R 1.011723844
+p S31A1U_9_2787 s 30 m 2 R 0.991964674
+p TX1320M2_1_2788 s 30 m 2
+p TX1330M2_7_2789 s 30 m 2 R 1.011723844
+p TX1330M2_5_2790 s 30 m 1 R 1.011723844
+p TX1330M2_7_2791 s 30 m 2 R 1.011723844
+p TX1330M2_4_2792 s 30 m 1 R 1.011723844
+p TX1330M2_5_2793 s 30 m 1 R 1.011723844
+p S31A1U_9_2794 s 30 m 2 R 0.991964674
+p TX1330M2_6_2795 s 30 m 2 R 1.011723844
+p TX1320M2_1_2796 s 30 m 1
+p S31A1U_9_2797 s 30 m 2 R 0.991964674
+p TX1330M2_4_2798 s 30 m 2 R 1.011723844
+p S31A1U_8_2799 s 30 m 2 R 0.991964674
+p TX1330M2_5_2800 s 30 m 2 R 1.011723844
+p TX1330M2_4_2801 s 30 m 1 R 1.011723844
+p TX1330M2_4_2802 s 30 m 2 R 1.011723844
+p TX1320M2_1_2803 s 30 m 2
+p TX1330M2_4_2804 s 30 m 1 R 1.011723844
+p S31A1U_8_2805 s 30 m 2 R 0.991964674
+p S31A1U_10_2806 s 30 m 2 R 0.991964674
+p TX1330M2_5_2807 s 30 m 1 R 1.011723844
+p TX1330M2_5_2808 s 30 m 2 R 1.011723844
+p TX1330M2_6_2809 s 30 m 1 R 1.011723844
+p TX1320M2_1_2810 s 30 m 3
+p TX1320M2_2_2811 s 30 m 1
+p TX1330M2_4_2812 s 30 m 3 R 1.011723844
+p RX1330M3_5_2813 s 30 m 1 R 1.226663072
+p RX1330M3_5_2814 s 30 m 1 R 1.226663072
+p TX1320M2_2_2815 s 30 m 2
+p RX1330M3_5_2816 s 30 m 1 R 1.226663072
+p RX1330M3_5_2817 s 30 m 1 R 1.226663072
+p RX1330M3_5_2818 s 30 m 1 R 1.226663072
+p RX1330M3_5_2819 s 30 m 2 R 1.226663072
+p RX1330M3_5_2820 s 30 m 1 R 1.226663072
+p TX1320M2_2_2821 s 30 m 2
+p TX1330M2_4_2822 s 30 m 1 R 1.011723844
+p TX1320M2_2_2823 s 30 m 1
+p TX1330M2_4_2824 s 30 m 2 R 1.011723844
+p RX1330M3_5_2825 s 30 m 2 R 1.226663072
+p RX1330M3_5_2826 s 30 m 1 R 1.226663072
+p TX1320M2_1_2827 s 30 m 2
+p TX1320M2_2_2828 s 30 m 2
+-1
+
+T 0
+t c00 r c00 -1 c00 m 852
+t t27_5 n t27_5 -1 NF5280M4_6_2627 m 852
+t t23_1 n t23_1 -1 NF5280M4_6_2628 m 852
+t t23_4 n t23_4 -1 NF5280M4_6_2629 m 852
+t t21_1 n t21_1 -1 NF5280M4_6_2630 m 852
+t t21_6 n t21_6 -1 NF5280M4_6_2631 m 852
+t t23_18 n t23_18 -1 NF5280M4_6_2632 m 852
+t t24_6 n t24_6 -1 NF5280M4_6_2633 m 852
+t t27_1 n t27_1 -1 NF5280M4_6_2634 m 852
+t t29_5 n t29_5 -1 NF5280M4_6_2635 m 852
+t t27_15 n t27_15 -1 NF5280M4_6_2636 m 852
+t t27_12 n t27_12 -1 NF5280M4_6_2637 m 852
+t t23_11 n t23_11 -1 NF5280M4_6_2638 m 852
+t t21_5 n t21_5 -1 NF5280M4_6_2639 m 852
+t t29_6 n t29_6 -1 NF5280M4_6_2640 m 852
+t t24_5 n t24_5 -1 NF5280M4_6_2641 m 852
+t t23_26 n t23_26 -1 NF5280M4_6_2642 m 852
+t t02 n t02 -1 NF5280M4_6_2643 m 852
+t t23_14 n t23_14 -1 NF5280M4_6_2644 m 852
+t t23_19 n t23_19 -1 NF5280M4_6_2645 m 852
+t t15_1 n t15_1 -1 NF5280M4_6_2646 m 852
+t t27_6 n t27_6 -1 NF5280M4_6_2647 m 852
+t t16_1 n t16_1 -1 NF5280M4_6_2648 m 852
+t t07 n t07 -1 NF5280M4_6_2649 m 852
+t t27_14 n t27_14 -1 NF5280M4_6_2650 m 852
+t t23_31 n t23_31 -1 NF5280M4_6_2651 m 852
+t t27_11 n t27_11 -1 NF5280M4_6_2652 m 852
+t t27_7 n t27_7 -1 NF5280M4_6_2653 m 852
+t t27_4 n t27_4 -1 NF5280M4_6_2654 m 852
+t t29_7 n t29_7 -1 NF5280M4_6_2655 m 852
+t t14_2 n t14_2 -1 NF5280M4_6_2656 m 852
+t t18 n t18 -1 NF5280M4_6_2657 m 852
+t t27_2 n t27_2 -1 NF5280M4_6_2658 m 852
+t t05 n t05 -1 NF5280M4_6_2659 m 852
+t t15_4 n t15_4 -1 NF5280M4_6_2660 m 852
+t t14_4 n t14_4 -1 NF5280M4_6_2661 m 852
+t t16_3 n t16_3 -1 NF5280M4_6_2662 m 852
+t t15_5 n t15_5 -1 NF5280M4_6_2663 m 852
+t t27_9 n t27_9 -1 NF5280M4_6_2664 m 852
+t t23_2 n t23_2 -1 NF5280M4_6_2665 m 852
+t t23_12 n t23_12 -1 NF5280M4_6_2666 m 852
+t t03 n t03 -1 NF5280M4_6_2667 m 852
+t t21_2 n t21_2 -1 NF5280M4_6_2668 m 852
+t t17 n t17 -1 NF5280M4_6_2669 m 852
+t t13_2 n t13_2 -1 NF5280M4_6_2670 m 852
+t t24_12 n t24_12 -1 NF5280M4_6_2671 m 852
+t t23_30 n t23_30 -1 NF5280M4_6_2672 m 852
+t t23_17 n t23_17 -1 NF5280M4_6_2673 m 852
+t t26_2 n t26_2 -1 NF5280M4_6_2674 m 852
+t t26_3 n t26_3 -1 NF5280M4_6_2675 m 852
+t t15_3 n t15_3 -1 NF5280M4_6_2676 m 852
+t t25_14 n t25_14 -1 NF5280M4_6_2677 m 852
+t t23_21 n t23_21 -1 NF5280M4_6_2678 m 852
+t t23_7 n t23_7 -1 NF5280M4_6_2679 m 852
+t t27_3 n t27_3 -1 NF5280M4_6_2680 m 852
+t t00 n t00 -1 NF5280M4_6_2681 m 852
+t t29_2 n t29_2 -1 NF5280M4_6_2682 m 852
+t t23_23 n t23_23 -1 NF5280M4_6_2683 m 852
+t t25_34 n t25_34 -1 NF5280M4_6_2684 m 852
+t t08_2 n t08_2 -1 NF5280M4_6_2685 m 852
+t t10 n t10 -1 NF5280M4_6_2686 m 852
+t t21_4 n t21_4 -1 NF5280M4_6_2687 m 852
+t t25_2 n t25_2 -1 NF5280M4_6_2688 m 852
+t t23_22 n t23_22 -1 NF5280M4_6_2689 m 852
+t t23_15 n t23_15 -1 NF5280M4_6_2690 m 852
+t t24_1 n t24_1 -1 NF5280M4_6_2691 m 852
+t t23_27 n t23_27 -1 NF5280M4_6_2692 m 852
+t t27_8 n t27_8 -1 NF5280M4_6_2693 m 852
+t t29_3 n t29_3 -1 NF5280M4_6_2694 m 852
+t t28_32 n t28_32 -1 NF5280M4_6_2695 m 852
+t t28_29 n t28_29 -1 NF5280M4_6_2696 m 852
+t t29_1 n t29_1 -1 NF5280M4_6_2697 m 852
+t t28_2 n t28_2 -1 NF5280M4_6_2698 m 852
+t t27_10 n t27_10 -1 NF5280M4_6_2699 m 852
+t t15_2 n t15_2 -1 NF5280M4_6_2700 m 852
+t t27_13 n t27_13 -1 NF5280M4_6_2701 m 852
+t t13_1 n t13_1 -1 NF5280M4_6_2702 m 852
+t t21_3 n t21_3 -1 NF5280M4_6_2703 m 852
+t t29_4 n t29_4 -1 NF5280M4_6_2704 m 852
+t t25_20 n t25_20 -1 NF5280M4_6_2705 m 852
+t t01 n t01 -1 NF5280M4_6_2706 m 852
+t t12 n t12 -1 TX1330M2_3_2707 m 852
+t t09_3 n t09_3 -1 RX1330M3_4_2708 m 852
+t t23_24 n t23_24 -1 RX1330M1_1_2709 m 852
+t t23_3 n t23_3 -1 TX1330M2_3_2710 m 852
+t t23_6 n t23_6 -1 RX1330M3_4_2711 m 852
+t t16_2 n t16_2 -1 RX1330M1_1_2712 m 852
+t t23_13 n t23_13 -1 RX1330M3_4_2713 m 852
+t t23_25 n t23_25 -1 TX1330M2_3_2714 m 852
+t t23_5 n t23_5 -1 TX1330M2_3_2715 m 852
+t t14_1 n t14_1 -1 RX1330M1_1_2716 m 852
+t t23_32 n t23_32 -1 RX1330M3_4_2717 m 852
+t t28_26 n t28_26 -1 TX1320M2_1_2718 m 852
+t t28_18 n t28_18 -1 TX1330M2_7_2719 m 852
+t t25_21 n t25_21 -1 S31A1U_8_2720 m 852
+t t25_32 n t25_32 -1 TX1330M2_5_2721 m 852
+t t25_18 n t25_18 -1 TX1330M2_6_2722 m 852
+t t25_45 n t25_45 -1 S31A1U_10_2723 m 852
+t t25_11 n t25_11 -1 TX1330M2_7_2724 m 852
+t t25_22 n t25_22 -1 S31A1U_10_2725 m 852
+t t28_9 n t28_9 -1 TX1330M2_7_2726 m 852
+t t25_4 n t25_4 -1 TX1330M2_7_2727 m 852
+t t25_19 n t25_19 -1 TX1330M2_5_2728 m 852
+t t21_7 n t21_7 -1 TX1330M2_4_2729 m 852
+t t28_31 n t28_31 -1 TX1320M2_1_2730 m 852
+t t28_13 n t28_13 -1 TX1330M2_7_2731 m 852
+t t28_35 n t28_35 -1 TX1320M2_2_2732 m 852
+t t25_47 n t25_47 -1 TX1330M2_7_2733 m 852
+t t25_15 n t25_15 -1 S31A1U_10_2734 m 852
+t t24_3 n t24_3 -1 TX1320M2_2_2735 m 852
+t t22 n t22 -1 TX1320M2_1_2736 m 852
+t t24_10 n t24_10 -1 S31A1U_8_2737 m 852
+t t25_41 n t25_41 -1 TX1320M2_1_2738 m 852
+t t28_17 n t28_17 -1 TX1330M2_4_2739 m 852
+t t28_3 n t28_3 -1 S31A1U_8_2740 m 852
+t t28_28 n t28_28 -1 TX1330M2_5_2741 m 852
+t t23_10 n t23_10 -1 TX1320M2_2_2742 m 852
+t t28_25 n t28_25 -1 TX1330M2_7_2743 m 852
+t t28_37 n t28_37 -1 TX1330M2_4_2744 m 852
+t t25_6 n t25_6 -1 TX1330M2_6_2745 m 852
+t t25_8 n t25_8 -1 TX1320M2_2_2746 m 852
+t t28_14 n t28_14 -1 S31A1U_8_2747 m 852
+t t28_10 n t28_10 -1 S31A1U_8_2748 m 852
+t t25_23 n t25_23 -1 S31A1U_8_2749 m 852
+t t28_38 n t28_38 -1 TX1330M2_7_2750 m 852
+t t19_1 n t19_1 -1 TX1320M2_1_2751 m 852
+t t25_5 n t25_5 -1 S31A1U_10_2752 m 852
+t t28_20 n t28_20 -1 TX1330M2_4_2753 m 852
+t t28_21 n t28_21 -1 TX1330M2_7_2754 m 852
+t t25_26 n t25_26 -1 S31A1U_10_2755 m 852
+t t25_1 n t25_1 -1 TX1320M2_2_2756 m 852
+t t25_16 n t25_16 -1 TX1330M2_6_2757 m 852
+t t19_2 n t19_2 -1 TX1330M2_4_2758 m 852
+t t23_8 n t23_8 -1 TX1320M2_1_2759 m 852
+t t28_16 n t28_16 -1 TX1330M2_5_2760 m 852
+t t28_1 n t28_1 -1 TX1330M2_7_2761 m 852
+t t25_27 n t25_27 -1 S31A1U_8_2762 m 852
+t t25_28 n t25_28 -1 TX1330M2_6_2763 m 852
+t t19_3 n t19_3 -1 TX1330M2_6_2764 m 852
+t t25_9 n t25_9 -1 S31A1U_8_2765 m 852
+t t25_37 n t25_37 -1 S31A1U_9_2766 m 852
+t t25_30 n t25_30 -1 TX1330M2_6_2767 m 852
+t t28_6 n t28_6 -1 TX1330M2_6_2768 m 852
+t t28_33 n t28_33 -1 TX1330M2_6_2769 m 852
+t t28_23 n t28_23 -1 TX1330M2_5_2770 m 852
+t t28_24 n t28_24 -1 TX1320M2_1_2771 m 852
+t t26_4 n t26_4 -1 TX1330M2_7_2772 m 852
+t t25_43 n t25_43 -1 S31A1U_9_2773 m 852
+t t25_44 n t25_44 -1 TX1330M2_6_2774 m 852
+t t28_7 n t28_7 -1 TX1330M2_5_2775 m 852
+t t26_1 n t26_1 -1 S31A1U_8_2776 m 852
+t t25_10 n t25_10 -1 TX1330M2_7_2777 m 852
+t t25_33 n t25_33 -1 S31A1U_9_2778 m 852
+t t25_35 n t25_35 -1 S31A1U_9_2779 m 852
+t t28_19 n t28_19 -1 TX1330M2_7_2780 m 852
+t t28_12 n t28_12 -1 TX1330M2_7_2781 m 852
+t t24_4 n t24_4 -1 TX1330M2_4_2782 m 852
+t t28_8 n t28_8 -1 TX1330M2_7_2783 m 852
+t t28_36 n t28_36 -1 TX1330M2_6_2784 m 852
+t t25_25 n t25_25 -1 TX1320M2_2_2785 m 852
+t t28_30 n t28_30 -1 TX1330M2_4_2786 m 852
+t t25_42 n t25_42 -1 S31A1U_9_2787 m 852
+t t25_40 n t25_40 -1 TX1320M2_1_2788 m 852
+t t25_12 n t25_12 -1 TX1330M2_7_2789 m 852
+t t28_5 n t28_5 -1 TX1330M2_5_2790 m 852
+t t25_39 n t25_39 -1 TX1330M2_7_2791 m 852
+t t28_22 n t28_22 -1 TX1330M2_4_2792 m 852
+t t28_11 n t28_11 -1 TX1330M2_5_2793 m 852
+t t25_46 n t25_46 -1 S31A1U_9_2794 m 852
+t t25_13 n t25_13 -1 TX1330M2_6_2795 m 852
+t t28_34 n t28_34 -1 TX1320M2_1_2796 m 852
+t t25_29 n t25_29 -1 S31A1U_9_2797 m 852
+t t23_9 n t23_9 -1 TX1330M2_4_2798 m 852
+t t25_38 n t25_38 -1 S31A1U_8_2799 m 852
+t t25_36 n t25_36 -1 TX1330M2_5_2800 m 852
+t t28_15 n t28_15 -1 TX1330M2_4_2801 m 852
+t t25_24 n t25_24 -1 TX1330M2_4_2802 m 852
+t t25_31 n t25_31 -1 TX1320M2_1_2803 m 852
+t t28_27 n t28_27 -1 TX1330M2_4_2804 m 852
+t t25_7 n t25_7 -1 S31A1U_8_2805 m 852
+t t25_17 n t25_17 -1 S31A1U_10_2806 m 852
+t t28_4 n t28_4 -1 TX1330M2_5_2807 m 852
+t t25_3 n t25_3 -1 TX1330M2_5_2808 m 852
+t t20 n t20 -1 TX1330M2_6_2809 m 852
+t t06_1 n t06_1 -1 TX1320M2_1_2810 m 852
+t t24_8 n t24_8 -1 TX1320M2_2_2811 m 852
+t t06_2 n t06_2 -1 TX1330M2_4_2812 m 852
+t t23_28 n t23_28 -1 RX1330M3_5_2813 m 852
+t t08_1 n t08_1 -1 RX1330M3_5_2814 m 852
+t t23_16 n t23_16 -1 TX1320M2_2_2815 m 852
+t t26_6 n t26_6 -1 RX1330M3_5_2816 m 852
+t t26_5 n t26_5 -1 RX1330M3_5_2817 m 852
+t t24_2 n t24_2 -1 RX1330M3_5_2818 m 852
+t t11 n t11 -1 RX1330M3_5_2819 m 852
+t t04 n t04 -1 RX1330M3_5_2820 m 852
+t t09_1 n t09_1 -1 TX1320M2_2_2821 m 852
+t t24_7 n t24_7 -1 TX1330M2_4_2822 m 852
+t t24_9 n t24_9 -1 TX1320M2_2_2823 m 852
+t t09_2 n t09_2 -1 TX1330M2_4_2824 m 852
+t t14_3 n t14_3 -1 RX1330M3_5_2825 m 852
+t t24_11 n t24_11 -1 RX1330M3_5_2826 m 852
+t t23_29 n t23_29 -1 TX1320M2_1_2827 m 852
+t t23_20 n t23_20 -1 TX1320M2_2_2828 m 852
+
+t delay_t22_t29_1 n delay_t22_t29_1 -1 delayP i
+t delay_t25_25_t28_32 n delay_t25_25_t28_32 -1 delayP i
+t delay_t19_1_t25_20 n delay_t19_1_t25_20 -1 delayP i
+t delay_t25_8_t28_32 n delay_t25_8_t28_32 -1 delayP i
+t delay_t25_14_t28_27 n delay_t25_14_t28_27 -1 delayP i
+t delay_t25_45_t28_29 n delay_t25_45_t28_29 -1 delayP i
+t delay_t25_26_t28_32 n delay_t25_26_t28_32 -1 delayP i
+t delay_t19_3_t26_2 n delay_t19_3_t26_2 -1 delayP i
+t delay_t25_33_t28_32 n delay_t25_33_t28_32 -1 delayP i
+t delay_t19_1_t23_19 n delay_t19_1_t23_19 -1 delayP i
+t delay_t19_3_t23_22 n delay_t19_3_t23_22 -1 delayP i
+t delay_t22_t29_4 n delay_t22_t29_4 -1 delayP i
+t delay_t00_t04 n delay_t00_t04 -1 delayP i
+t delay_t25_2_t28_20 n delay_t25_2_t28_20 -1 delayP i
+t delay_t15_4_t19_2 n delay_t15_4_t19_2 -1 delayP i
+t delay_t19_3_t24_8 n delay_t19_3_t24_8 -1 delayP i
+t delay_t25_12_t28_2 n delay_t25_12_t28_2 -1 delayP i
+t delay_t19_1_t23_3 n delay_t19_1_t23_3 -1 delayP i
+t delay_t25_14_t28_22 n delay_t25_14_t28_22 -1 delayP i
+t delay_t19_2_t23_22 n delay_t19_2_t23_22 -1 delayP i
+t delay_t25_20_t28_13 n delay_t25_20_t28_13 -1 delayP i
+t delay_t19_1_t24_9 n delay_t19_1_t24_9 -1 delayP i
+t delay_t25_31_t28_29 n delay_t25_31_t28_29 -1 delayP i
+t delay_t25_2_t28_37 n delay_t25_2_t28_37 -1 delayP i
+t delay_t19_1_t23_28 n delay_t19_1_t23_28 -1 delayP i
+t delay_t06_1_t10 n delay_t06_1_t10 -1 delayP i
+t delay_t15_5_t19_3 n delay_t15_5_t19_3 -1 delayP i
+t delay_t25_21_t28_2 n delay_t25_21_t28_2 -1 delayP i
+t delay_t25_34_t28_10 n delay_t25_34_t28_10 -1 delayP i
+t delay_t19_3_t21_3 n delay_t19_3_t21_3 -1 delayP i
+t delay_t25_20_t28_22 n delay_t25_20_t28_22 -1 delayP i
+t delay_t25_26_t28_29 n delay_t25_26_t28_29 -1 delayP i
+t delay_t25_2_t28_23 n delay_t25_2_t28_23 -1 delayP i
+t delay_t25_7_t28_29 n delay_t25_7_t28_29 -1 delayP i
+t delay_t19_1_t23_16 n delay_t19_1_t23_16 -1 delayP i
+t delay_t19_3_t23_16 n delay_t19_3_t23_16 -1 delayP i
+t delay_t25_2_t28_36 n delay_t25_2_t28_36 -1 delayP i
+t delay_t25_24_t28_32 n delay_t25_24_t28_32 -1 delayP i
+t delay_t19_2_t24_12 n delay_t19_2_t24_12 -1 delayP i
+t delay_t21_7_t27_11 n delay_t21_7_t27_11 -1 delayP i
+t delay_t19_1_t26_3 n delay_t19_1_t26_3 -1 delayP i
+t delay_t21_7_t27_12 n delay_t21_7_t27_12 -1 delayP i
+t delay_t25_32_t28_29 n delay_t25_32_t28_29 -1 delayP i
+t delay_t19_2_t23_23 n delay_t19_2_t23_23 -1 delayP i
+t delay_t25_2_t28_26 n delay_t25_2_t28_26 -1 delayP i
+t delay_t25_20_t28_16 n delay_t25_20_t28_16 -1 delayP i
+t delay_t25_39_t28_2 n delay_t25_39_t28_2 -1 delayP i
+t delay_t19_2_t23_4 n delay_t19_2_t23_4 -1 delayP i
+t delay_t25_2_t28_22 n delay_t25_2_t28_22 -1 delayP i
+t delay_t21_7_t27_13 n delay_t21_7_t27_13 -1 delayP i
+t delay_t19_3_t23_31 n delay_t19_3_t23_31 -1 delayP i
+t delay_t19_1_t21_1 n delay_t19_1_t21_1 -1 delayP i
+t delay_t25_18_t28_29 n delay_t25_18_t28_29 -1 delayP i
+t delay_t25_20_t28_36 n delay_t25_20_t28_36 -1 delayP i
+t delay_t25_10_t28_29 n delay_t25_10_t28_29 -1 delayP i
+t delay_t25_10_t28_32 n delay_t25_10_t28_32 -1 delayP i
+t delay_t14_3_t16_2 n delay_t14_3_t16_2 -1 delayP i
+t delay_t25_14_t28_33 n delay_t25_14_t28_33 -1 delayP i
+t delay_t25_27_t28_29 n delay_t25_27_t28_29 -1 delayP i
+t delay_t19_3_t25_2 n delay_t19_3_t25_2 -1 delayP i
+t delay_t21_7_t27_14 n delay_t21_7_t27_14 -1 delayP i
+t delay_t25_14_t28_1 n delay_t25_14_t28_1 -1 delayP i
+t delay_t25_46_t28_29 n delay_t25_46_t28_29 -1 delayP i
+t delay_t21_7_t27_4 n delay_t21_7_t27_4 -1 delayP i
+t delay_t25_27_t28_2 n delay_t25_27_t28_2 -1 delayP i
+t delay_t25_28_t28_2 n delay_t25_28_t28_2 -1 delayP i
+t delay_t19_1_t23_25 n delay_t19_1_t23_25 -1 delayP i
+t delay_t25_20_t28_5 n delay_t25_20_t28_5 -1 delayP i
+t delay_c00_t00 n delay_c00_t00 -1 delayP i
+t delay_t19_3_t26_5 n delay_t19_3_t26_5 -1 delayP i
+t delay_t25_34_t28_11 n delay_t25_34_t28_11 -1 delayP i
+t delay_t19_3_t23_21 n delay_t19_3_t23_21 -1 delayP i
+t delay_t25_2_t28_16 n delay_t25_2_t28_16 -1 delayP i
+t delay_t19_2_t23_24 n delay_t19_2_t23_24 -1 delayP i
+t delay_t25_14_t28_20 n delay_t25_14_t28_20 -1 delayP i
+t delay_t25_20_t28_11 n delay_t25_20_t28_11 -1 delayP i
+t delay_t25_35_t28_2 n delay_t25_35_t28_2 -1 delayP i
+t delay_t19_2_t24_7 n delay_t19_2_t24_7 -1 delayP i
+t delay_t25_20_t28_7 n delay_t25_20_t28_7 -1 delayP i
+t delay_t22_t29_5 n delay_t22_t29_5 -1 delayP i
+t delay_t19_2_t25_2 n delay_t19_2_t25_2 -1 delayP i
+t delay_t19_3_t25_34 n delay_t19_3_t25_34 -1 delayP i
+t delay_t25_46_t28_32 n delay_t25_46_t28_32 -1 delayP i
+t delay_t25_14_t28_16 n delay_t25_14_t28_16 -1 delayP i
+t delay_t19_3_t23_2 n delay_t19_3_t23_2 -1 delayP i
+t delay_t25_1_t28_29 n delay_t25_1_t28_29 -1 delayP i
+t delay_t14_1_t16_3 n delay_t14_1_t16_3 -1 delayP i
+t delay_t19_1_t24_1 n delay_t19_1_t24_1 -1 delayP i
+t delay_t19_1_t23_30 n delay_t19_1_t23_30 -1 delayP i
+t delay_t25_34_t28_31 n delay_t25_34_t28_31 -1 delayP i
+t delay_t25_42_t28_32 n delay_t25_42_t28_32 -1 delayP i
+t delay_t25_29_t28_2 n delay_t25_29_t28_2 -1 delayP i
+t delay_t19_3_t21_4 n delay_t19_3_t21_4 -1 delayP i
+t delay_t19_3_t23_29 n delay_t19_3_t23_29 -1 delayP i
+t delay_t04_t08_2 n delay_t04_t08_2 -1 delayP i
+t delay_t14_3_t16_1 n delay_t14_3_t16_1 -1 delayP i
+t delay_t25_22_t28_29 n delay_t25_22_t28_29 -1 delayP i
+t delay_t25_20_t28_20 n delay_t25_20_t28_20 -1 delayP i
+t delay_t19_3_t24_9 n delay_t19_3_t24_9 -1 delayP i
+t delay_t19_1_t23_24 n delay_t19_1_t23_24 -1 delayP i
+t delay_t21_7_t27_2 n delay_t21_7_t27_2 -1 delayP i
+t delay_t25_4_t28_29 n delay_t25_4_t28_29 -1 delayP i
+t delay_t19_2_t24_5 n delay_t19_2_t24_5 -1 delayP i
+t delay_t19_3_t23_24 n delay_t19_3_t23_24 -1 delayP i
+t delay_t04_t07 n delay_t04_t07 -1 delayP i
+t delay_t21_7_t27_9 n delay_t21_7_t27_9 -1 delayP i
+t delay_t25_14_t28_12 n delay_t25_14_t28_12 -1 delayP i
+t delay_t25_12_t28_32 n delay_t25_12_t28_32 -1 delayP i
+t delay_t25_5_t28_2 n delay_t25_5_t28_2 -1 delayP i
+t delay_t19_2_t24_11 n delay_t19_2_t24_11 -1 delayP i
+t delay_t25_36_t28_32 n delay_t25_36_t28_32 -1 delayP i
+t delay_t25_34_t28_26 n delay_t25_34_t28_26 -1 delayP i
+t delay_t19_2_t23_16 n delay_t19_2_t23_16 -1 delayP i
+t delay_t21_7_t27_6 n delay_t21_7_t27_6 -1 delayP i
+t delay_t11_t13_2 n delay_t11_t13_2 -1 delayP i
+t delay_t19_2_t23_2 n delay_t19_2_t23_2 -1 delayP i
+t delay_t19_1_t26_6 n delay_t19_1_t26_6 -1 delayP i
+t delay_t25_47_t28_29 n delay_t25_47_t28_29 -1 delayP i
+t delay_t19_1_t21_5 n delay_t19_1_t21_5 -1 delayP i
+t delay_t19_1_t23_4 n delay_t19_1_t23_4 -1 delayP i
+t delay_t19_2_t23_15 n delay_t19_2_t23_15 -1 delayP i
+t delay_t25_18_t28_32 n delay_t25_18_t28_32 -1 delayP i
+t delay_t25_34_t28_20 n delay_t25_34_t28_20 -1 delayP i
+t delay_t25_34_t28_38 n delay_t25_34_t28_38 -1 delayP i
+t delay_t19_3_t23_6 n delay_t19_3_t23_6 -1 delayP i
+t delay_t25_28_t28_29 n delay_t25_28_t28_29 -1 delayP i
+t delay_t25_34_t28_14 n delay_t25_34_t28_14 -1 delayP i
+t delay_t25_14_t28_14 n delay_t25_14_t28_14 -1 delayP i
+t delay_t25_17_t28_32 n delay_t25_17_t28_32 -1 delayP i
+t delay_t25_34_t28_28 n delay_t25_34_t28_28 -1 delayP i
+t delay_t25_2_t28_38 n delay_t25_2_t28_38 -1 delayP i
+t delay_t25_34_t28_12 n delay_t25_34_t28_12 -1 delayP i
+t delay_t25_13_t28_32 n delay_t25_13_t28_32 -1 delayP i
+t delay_t19_3_t23_13 n delay_t19_3_t23_13 -1 delayP i
+t delay_t25_14_t28_18 n delay_t25_14_t28_18 -1 delayP i
+t delay_t19_2_t21_3 n delay_t19_2_t21_3 -1 delayP i
+t delay_t25_20_t28_9 n delay_t25_20_t28_9 -1 delayP i
+t delay_t19_1_t23_31 n delay_t19_1_t23_31 -1 delayP i
+t delay_t25_3_t28_29 n delay_t25_3_t28_29 -1 delayP i
+t delay_c00_t02 n delay_c00_t02 -1 delayP i
+t delay_t15_5_t19_2 n delay_t15_5_t19_2 -1 delayP i
+t delay_t25_34_t28_33 n delay_t25_34_t28_33 -1 delayP i
+t delay_t19_2_t21_1 n delay_t19_2_t21_1 -1 delayP i
+t delay_t22_t29_6 n delay_t22_t29_6 -1 delayP i
+t delay_t19_1_t21_3 n delay_t19_1_t21_3 -1 delayP i
+t delay_t25_32_t28_2 n delay_t25_32_t28_2 -1 delayP i
+t delay_t25_15_t28_29 n delay_t25_15_t28_29 -1 delayP i
+t delay_t25_4_t28_2 n delay_t25_4_t28_2 -1 delayP i
+t delay_t11_t13_1 n delay_t11_t13_1 -1 delayP i
+t delay_t25_41_t28_29 n delay_t25_41_t28_29 -1 delayP i
+t delay_t25_40_t28_2 n delay_t25_40_t28_2 -1 delayP i
+t delay_t25_7_t28_32 n delay_t25_7_t28_32 -1 delayP i
+t delay_t25_20_t28_23 n delay_t25_20_t28_23 -1 delayP i
+t delay_t25_11_t28_29 n delay_t25_11_t28_29 -1 delayP i
+t delay_t25_32_t28_32 n delay_t25_32_t28_32 -1 delayP i
+t delay_t25_18_t28_2 n delay_t25_18_t28_2 -1 delayP i
+t delay_t19_3_t23_32 n delay_t19_3_t23_32 -1 delayP i
+t delay_t19_1_t21_2 n delay_t19_1_t21_2 -1 delayP i
+t delay_t25_44_t28_2 n delay_t25_44_t28_2 -1 delayP i
+t delay_t19_2_t23_12 n delay_t19_2_t23_12 -1 delayP i
+t delay_t19_1_t24_12 n delay_t19_1_t24_12 -1 delayP i
+t delay_t19_2_t26_3 n delay_t19_2_t26_3 -1 delayP i
+t delay_t25_34_t28_1 n delay_t25_34_t28_1 -1 delayP i
+t delay_t25_2_t28_6 n delay_t25_2_t28_6 -1 delayP i
+t delay_t25_15_t28_2 n delay_t25_15_t28_2 -1 delayP i
+t delay_t25_20_t28_30 n delay_t25_20_t28_30 -1 delayP i
+t delay_t19_1_t23_20 n delay_t19_1_t23_20 -1 delayP i
+t delay_t06_2_t09_3 n delay_t06_2_t09_3 -1 delayP i
+t delay_t25_2_t28_25 n delay_t25_2_t28_25 -1 delayP i
+t delay_t25_13_t28_29 n delay_t25_13_t28_29 -1 delayP i
+t delay_t19_1_t23_13 n delay_t19_1_t23_13 -1 delayP i
+t delay_t19_3_t24_12 n delay_t19_3_t24_12 -1 delayP i
+t delay_t19_2_t23_26 n delay_t19_2_t23_26 -1 delayP i
+t delay_t25_14_t28_3 n delay_t25_14_t28_3 -1 delayP i
+t delay_t19_2_t23_7 n delay_t19_2_t23_7 -1 delayP i
+t delay_t25_9_t28_2 n delay_t25_9_t28_2 -1 delayP i
+t delay_t25_20_t28_33 n delay_t25_20_t28_33 -1 delayP i
+t delay_t25_33_t28_29 n delay_t25_33_t28_29 -1 delayP i
+t delay_t25_22_t28_2 n delay_t25_22_t28_2 -1 delayP i
+t delay_t19_2_t25_20 n delay_t19_2_t25_20 -1 delayP i
+t delay_t25_13_t28_2 n delay_t25_13_t28_2 -1 delayP i
+t delay_t25_36_t28_2 n delay_t25_36_t28_2 -1 delayP i
+t delay_t19_1_t24_6 n delay_t19_1_t24_6 -1 delayP i
+t delay_t25_20_t28_8 n delay_t25_20_t28_8 -1 delayP i
+t delay_t25_33_t28_2 n delay_t25_33_t28_2 -1 delayP i
+t delay_t22_t29_7 n delay_t22_t29_7 -1 delayP i
+t delay_t19_2_t21_4 n delay_t19_2_t21_4 -1 delayP i
+t delay_t25_14_t28_8 n delay_t25_14_t28_8 -1 delayP i
+t delay_t25_42_t28_29 n delay_t25_42_t28_29 -1 delayP i
+t delay_t19_1_t21_6 n delay_t19_1_t21_6 -1 delayP i
+t delay_t25_34_t28_35 n delay_t25_34_t28_35 -1 delayP i
+t delay_t06_1_t09_3 n delay_t06_1_t09_3 -1 delayP i
+t delay_t25_34_t28_15 n delay_t25_34_t28_15 -1 delayP i
+t delay_t15_4_t19_3 n delay_t15_4_t19_3 -1 delayP i
+t delay_t25_14_t28_37 n delay_t25_14_t28_37 -1 delayP i
+t delay_t25_20_t28_15 n delay_t25_20_t28_15 -1 delayP i
+t delay_t19_1_t25_14 n delay_t19_1_t25_14 -1 delayP i
+t delay_t19_3_t23_18 n delay_t19_3_t23_18 -1 delayP i
+t delay_t19_2_t23_20 n delay_t19_2_t23_20 -1 delayP i
+t delay_t19_2_t23_25 n delay_t19_2_t23_25 -1 delayP i
+t delay_t25_14_t28_19 n delay_t25_14_t28_19 -1 delayP i
+t delay_t22_t29_3 n delay_t22_t29_3 -1 delayP i
+t delay_t25_2_t28_4 n delay_t25_2_t28_4 -1 delayP i
+t delay_t15_5_t19_1 n delay_t15_5_t19_1 -1 delayP i
+t delay_t25_14_t28_6 n delay_t25_14_t28_6 -1 delayP i
+t delay_t19_2_t25_34 n delay_t19_2_t25_34 -1 delayP i
+t delay_t19_2_t26_6 n delay_t19_2_t26_6 -1 delayP i
+t delay_t25_4_t28_32 n delay_t25_4_t28_32 -1 delayP i
+t delay_t25_14_t28_7 n delay_t25_14_t28_7 -1 delayP i
+t delay_t19_1_t23_22 n delay_t19_1_t23_22 -1 delayP i
+t delay_t25_16_t28_29 n delay_t25_16_t28_29 -1 delayP i
+t delay_t19_1_t24_11 n delay_t19_1_t24_11 -1 delayP i
+t delay_t25_2_t28_10 n delay_t25_2_t28_10 -1 delayP i
+t delay_t25_34_t28_27 n delay_t25_34_t28_27 -1 delayP i
+t delay_t25_34_t28_30 n delay_t25_34_t28_30 -1 delayP i
+t delay_t19_3_t24_5 n delay_t19_3_t24_5 -1 delayP i
+t delay_t25_11_t28_32 n delay_t25_11_t28_32 -1 delayP i
+t delay_t25_8_t28_29 n delay_t25_8_t28_29 -1 delayP i
+t delay_t21_7_t27_1 n delay_t21_7_t27_1 -1 delayP i
+t delay_t25_11_t28_2 n delay_t25_11_t28_2 -1 delayP i
+t delay_t11_t14_2 n delay_t11_t14_2 -1 delayP i
+t delay_t25_14_t28_24 n delay_t25_14_t28_24 -1 delayP i
+t delay_t25_14_t28_31 n delay_t25_14_t28_31 -1 delayP i
+t delay_t25_14_t28_30 n delay_t25_14_t28_30 -1 delayP i
+t delay_t25_37_t28_2 n delay_t25_37_t28_2 -1 delayP i
+t delay_t19_3_t23_25 n delay_t19_3_t23_25 -1 delayP i
+t delay_t25_2_t28_27 n delay_t25_2_t28_27 -1 delayP i
+t delay_t19_3_t24_6 n delay_t19_3_t24_6 -1 delayP i
+t delay_t25_2_t28_28 n delay_t25_2_t28_28 -1 delayP i
+t delay_t19_1_t23_11 n delay_t19_1_t23_11 -1 delayP i
+t delay_t25_20_t28_10 n delay_t25_20_t28_10 -1 delayP i
+t delay_t25_34_t28_8 n delay_t25_34_t28_8 -1 delayP i
+t delay_t25_2_t28_35 n delay_t25_2_t28_35 -1 delayP i
+t delay_c00_t01 n delay_c00_t01 -1 delayP i
+t delay_t25_22_t28_32 n delay_t25_22_t28_32 -1 delayP i
+t delay_t25_2_t28_8 n delay_t25_2_t28_8 -1 delayP i
+t delay_t25_9_t28_29 n delay_t25_9_t28_29 -1 delayP i
+t delay_t25_36_t28_29 n delay_t25_36_t28_29 -1 delayP i
+t delay_t19_3_t23_4 n delay_t19_3_t23_4 -1 delayP i
+t delay_t06_1_t12 n delay_t06_1_t12 -1 delayP i
+t delay_t25_30_t28_2 n delay_t25_30_t28_2 -1 delayP i
+t delay_t25_14_t28_17 n delay_t25_14_t28_17 -1 delayP i
+t delay_t19_1_t24_8 n delay_t19_1_t24_8 -1 delayP i
+t delay_t25_2_t28_7 n delay_t25_2_t28_7 -1 delayP i
+t delay_t25_20_t28_38 n delay_t25_20_t28_38 -1 delayP i
+t delay_t19_3_t23_15 n delay_t19_3_t23_15 -1 delayP i
+t delay_t25_2_t28_30 n delay_t25_2_t28_30 -1 delayP i
+t delay_t25_34_t28_9 n delay_t25_34_t28_9 -1 delayP i
+t delay_t25_6_t28_2 n delay_t25_6_t28_2 -1 delayP i
+t delay_t25_14_t28_10 n delay_t25_14_t28_10 -1 delayP i
+t delay_t19_1_t26_5 n delay_t19_1_t26_5 -1 delayP i
+t delay_t19_1_t23_5 n delay_t19_1_t23_5 -1 delayP i
+t delay_t25_14_t28_13 n delay_t25_14_t28_13 -1 delayP i
+t delay_t19_2_t26_5 n delay_t19_2_t26_5 -1 delayP i
+t delay_t19_3_t23_11 n delay_t19_3_t23_11 -1 delayP i
+t delay_t19_3_t23_12 n delay_t19_3_t23_12 -1 delayP i
+t delay_t19_3_t26_3 n delay_t19_3_t26_3 -1 delayP i
+t delay_t25_35_t28_32 n delay_t25_35_t28_32 -1 delayP i
+t delay_t25_20_t28_34 n delay_t25_20_t28_34 -1 delayP i
+t delay_t25_39_t28_32 n delay_t25_39_t28_32 -1 delayP i
+t delay_t19_1_t23_27 n delay_t19_1_t23_27 -1 delayP i
+t delay_t25_24_t28_2 n delay_t25_24_t28_2 -1 delayP i
+t delay_t14_4_t16_2 n delay_t14_4_t16_2 -1 delayP i
+t delay_t19_2_t21_6 n delay_t19_2_t21_6 -1 delayP i
+t delay_t25_40_t28_29 n delay_t25_40_t28_29 -1 delayP i
+t delay_t19_1_t23_26 n delay_t19_1_t23_26 -1 delayP i
+t delay_t25_20_t28_18 n delay_t25_20_t28_18 -1 delayP i
+t delay_t25_29_t28_29 n delay_t25_29_t28_29 -1 delayP i
+t delay_t25_14_t28_4 n delay_t25_14_t28_4 -1 delayP i
+t delay_t11_t14_4 n delay_t11_t14_4 -1 delayP i
+t delay_t19_3_t25_14 n delay_t19_3_t25_14 -1 delayP i
+t delay_t25_43_t28_2 n delay_t25_43_t28_2 -1 delayP i
+t delay_t19_2_t23_6 n delay_t19_2_t23_6 -1 delayP i
+t delay_t25_2_t28_24 n delay_t25_2_t28_24 -1 delayP i
+t delay_t25_38_t28_32 n delay_t25_38_t28_32 -1 delayP i
+t delay_t19_2_t23_19 n delay_t19_2_t23_19 -1 delayP i
+t delay_t19_2_t21_2 n delay_t19_2_t21_2 -1 delayP i
+t delay_t15_1_t19_1 n delay_t15_1_t19_1 -1 delayP i
+t delay_t19_3_t24_2 n delay_t19_3_t24_2 -1 delayP i
+t delay_t25_34_t28_34 n delay_t25_34_t28_34 -1 delayP i
+t delay_t21_7_t27_5 n delay_t21_7_t27_5 -1 delayP i
+t delay_t19_1_t23_15 n delay_t19_1_t23_15 -1 delayP i
+t delay_t25_30_t28_32 n delay_t25_30_t28_32 -1 delayP i
+t delay_t25_2_t28_34 n delay_t25_2_t28_34 -1 delayP i
+t delay_t25_6_t28_32 n delay_t25_6_t28_32 -1 delayP i
+t delay_t25_25_t28_2 n delay_t25_25_t28_2 -1 delayP i
+t delay_t25_2_t28_17 n delay_t25_2_t28_17 -1 delayP i
+t delay_t25_46_t28_2 n delay_t25_46_t28_2 -1 delayP i
+t delay_t15_3_t19_3 n delay_t15_3_t19_3 -1 delayP i
+t delay_t25_2_t28_33 n delay_t25_2_t28_33 -1 delayP i
+t delay_t25_47_t28_32 n delay_t25_47_t28_32 -1 delayP i
+t delay_t25_34_t28_22 n delay_t25_34_t28_22 -1 delayP i
+t delay_t21_7_t27_7 n delay_t21_7_t27_7 -1 delayP i
+t delay_t25_31_t28_32 n delay_t25_31_t28_32 -1 delayP i
+t delay_t19_1_t25_2 n delay_t19_1_t25_2 -1 delayP i
+t delay_t25_6_t28_29 n delay_t25_6_t28_29 -1 delayP i
+t delay_t25_20_t28_21 n delay_t25_20_t28_21 -1 delayP i
+t delay_t25_2_t28_12 n delay_t25_2_t28_12 -1 delayP i
+t delay_t25_41_t28_2 n delay_t25_41_t28_2 -1 delayP i
+t delay_t25_43_t28_32 n delay_t25_43_t28_32 -1 delayP i
+t delay_t19_1_t24_7 n delay_t19_1_t24_7 -1 delayP i
+t delay_t25_20_t28_17 n delay_t25_20_t28_17 -1 delayP i
+t delay_t25_43_t28_29 n delay_t25_43_t28_29 -1 delayP i
+t delay_t19_3_t21_5 n delay_t19_3_t21_5 -1 delayP i
+t delay_t25_2_t28_14 n delay_t25_2_t28_14 -1 delayP i
+t delay_t07_t22 n delay_t07_t22 -1 delayP i
+t delay_t25_21_t28_29 n delay_t25_21_t28_29 -1 delayP i
+t delay_t19_3_t24_11 n delay_t19_3_t24_11 -1 delayP i
+t delay_t25_20_t28_12 n delay_t25_20_t28_12 -1 delayP i
+t delay_t25_2_t28_5 n delay_t25_2_t28_5 -1 delayP i
+t delay_t25_20_t28_25 n delay_t25_20_t28_25 -1 delayP i
+t delay_t25_2_t28_1 n delay_t25_2_t28_1 -1 delayP i
+t delay_t25_34_t28_19 n delay_t25_34_t28_19 -1 delayP i
+t delay_t25_17_t28_2 n delay_t25_17_t28_2 -1 delayP i
+t delay_t25_3_t28_32 n delay_t25_3_t28_32 -1 delayP i
+t delay_t21_7_t27_10 n delay_t21_7_t27_10 -1 delayP i
+t delay_t25_45_t28_2 n delay_t25_45_t28_2 -1 delayP i
+t delay_t25_37_t28_32 n delay_t25_37_t28_32 -1 delayP i
+t delay_t25_23_t28_2 n delay_t25_23_t28_2 -1 delayP i
+t delay_t19_1_t23_14 n delay_t19_1_t23_14 -1 delayP i
+t delay_t15_2_t19_3 n delay_t15_2_t19_3 -1 delayP i
+t delay_t25_16_t28_32 n delay_t25_16_t28_32 -1 delayP i
+t delay_t19_2_t24_9 n delay_t19_2_t24_9 -1 delayP i
+t delay_t14_3_t16_3 n delay_t14_3_t16_3 -1 delayP i
+t delay_t25_39_t28_29 n delay_t25_39_t28_29 -1 delayP i
+t delay_t25_20_t28_35 n delay_t25_20_t28_35 -1 delayP i
+t delay_t25_2_t28_19 n delay_t25_2_t28_19 -1 delayP i
+t delay_t19_3_t23_14 n delay_t19_3_t23_14 -1 delayP i
+t delay_t25_19_t28_29 n delay_t25_19_t28_29 -1 delayP i
+t delay_t21_7_t27_8 n delay_t21_7_t27_8 -1 delayP i
+t delay_t19_2_t21_5 n delay_t19_2_t21_5 -1 delayP i
+t delay_t19_2_t23_18 n delay_t19_2_t23_18 -1 delayP i
+t delay_t19_2_t24_2 n delay_t19_2_t24_2 -1 delayP i
+t delay_t25_34_t28_36 n delay_t25_34_t28_36 -1 delayP i
+t delay_t25_37_t28_29 n delay_t25_37_t28_29 -1 delayP i
+t delay_t19_2_t24_8 n delay_t19_2_t24_8 -1 delayP i
+t delay_t19_2_t23_11 n delay_t19_2_t23_11 -1 delayP i
+t delay_t25_20_t28_1 n delay_t25_20_t28_1 -1 delayP i
+t delay_t19_2_t23_31 n delay_t19_2_t23_31 -1 delayP i
+t delay_t15_4_t19_1 n delay_t15_4_t19_1 -1 delayP i
+t delay_t25_2_t28_11 n delay_t25_2_t28_11 -1 delayP i
+t delay_t25_47_t28_2 n delay_t25_47_t28_2 -1 delayP i
+t delay_t19_3_t23_17 n delay_t19_3_t23_17 -1 delayP i
+t delay_t25_20_t28_27 n delay_t25_20_t28_27 -1 delayP i
+t delay_t19_1_t23_32 n delay_t19_1_t23_32 -1 delayP i
+t delay_t25_20_t28_37 n delay_t25_20_t28_37 -1 delayP i
+t delay_t19_2_t23_13 n delay_t19_2_t23_13 -1 delayP i
+t delay_t25_28_t28_32 n delay_t25_28_t28_32 -1 delayP i
+t delay_t25_15_t28_32 n delay_t25_15_t28_32 -1 delayP i
+t delay_t25_34_t28_23 n delay_t25_34_t28_23 -1 delayP i
+t delay_t25_5_t28_32 n delay_t25_5_t28_32 -1 delayP i
+t delay_t19_1_t23_17 n delay_t19_1_t23_17 -1 delayP i
+t delay_t25_20_t28_31 n delay_t25_20_t28_31 -1 delayP i
+t delay_t25_38_t28_29 n delay_t25_38_t28_29 -1 delayP i
+t delay_t14_1_t16_1 n delay_t14_1_t16_1 -1 delayP i
+t delay_t25_10_t28_2 n delay_t25_10_t28_2 -1 delayP i
+t delay_t25_3_t28_2 n delay_t25_3_t28_2 -1 delayP i
+t delay_t25_1_t28_2 n delay_t25_1_t28_2 -1 delayP i
+t delay_t25_27_t28_32 n delay_t25_27_t28_32 -1 delayP i
+t delay_t15_2_t19_2 n delay_t15_2_t19_2 -1 delayP i
+t delay_t19_3_t25_20 n delay_t19_3_t25_20 -1 delayP i
+t delay_t25_24_t28_29 n delay_t25_24_t28_29 -1 delayP i
+t delay_t25_12_t28_29 n delay_t25_12_t28_29 -1 delayP i
+t delay_t25_23_t28_29 n delay_t25_23_t28_29 -1 delayP i
+t delay_t19_2_t24_1 n delay_t19_2_t24_1 -1 delayP i
+t delay_t25_20_t28_19 n delay_t25_20_t28_19 -1 delayP i
+t delay_t25_5_t28_29 n delay_t25_5_t28_29 -1 delayP i
+t delay_t25_34_t28_13 n delay_t25_34_t28_13 -1 delayP i
+t delay_t19_2_t23_21 n delay_t19_2_t23_21 -1 delayP i
+t delay_t19_2_t23_14 n delay_t19_2_t23_14 -1 delayP i
+t delay_t19_3_t23_5 n delay_t19_3_t23_5 -1 delayP i
+t delay_t19_3_t23_7 n delay_t19_3_t23_7 -1 delayP i
+t delay_t25_44_t28_32 n delay_t25_44_t28_32 -1 delayP i
+t delay_t19_1_t24_2 n delay_t19_1_t24_2 -1 delayP i
+t delay_t25_34_t28_6 n delay_t25_34_t28_6 -1 delayP i
+t delay_t25_34_t28_17 n delay_t25_34_t28_17 -1 delayP i
+t delay_t19_1_t23_6 n delay_t19_1_t23_6 -1 delayP i
+t delay_t25_14_t28_23 n delay_t25_14_t28_23 -1 delayP i
+t delay_t25_34_t28_21 n delay_t25_34_t28_21 -1 delayP i
+t delay_t19_1_t23_29 n delay_t19_1_t23_29 -1 delayP i
+t delay_t25_14_t28_25 n delay_t25_14_t28_25 -1 delayP i
+t delay_t25_16_t28_2 n delay_t25_16_t28_2 -1 delayP i
+t delay_t25_2_t28_9 n delay_t25_2_t28_9 -1 delayP i
+t delay_t25_40_t28_32 n delay_t25_40_t28_32 -1 delayP i
+t delay_t19_3_t21_2 n delay_t19_3_t21_2 -1 delayP i
+t delay_t25_34_t28_16 n delay_t25_34_t28_16 -1 delayP i
+t delay_t19_2_t23_27 n delay_t19_2_t23_27 -1 delayP i
+t delay_t25_20_t28_4 n delay_t25_20_t28_4 -1 delayP i
+t delay_t19_2_t23_3 n delay_t19_2_t23_3 -1 delayP i
+t delay_t25_14_t28_38 n delay_t25_14_t28_38 -1 delayP i
+t delay_t15_1_t19_2 n delay_t15_1_t19_2 -1 delayP i
+t delay_t25_7_t28_2 n delay_t25_7_t28_2 -1 delayP i
+t delay_t19_2_t25_14 n delay_t19_2_t25_14 -1 delayP i
+t delay_t25_20_t28_24 n delay_t25_20_t28_24 -1 delayP i
+t delay_t19_1_t24_5 n delay_t19_1_t24_5 -1 delayP i
+t delay_t25_2_t28_3 n delay_t25_2_t28_3 -1 delayP i
+t delay_t25_14_t28_21 n delay_t25_14_t28_21 -1 delayP i
+t delay_t19_1_t23_12 n delay_t19_1_t23_12 -1 delayP i
+t delay_t25_26_t28_2 n delay_t25_26_t28_2 -1 delayP i
+t delay_t14_2_t16_2 n delay_t14_2_t16_2 -1 delayP i
+t delay_t06_2_t12 n delay_t06_2_t12 -1 delayP i
+t delay_t19_2_t23_29 n delay_t19_2_t23_29 -1 delayP i
+t delay_t25_21_t28_32 n delay_t25_21_t28_32 -1 delayP i
+t delay_t25_42_t28_2 n delay_t25_42_t28_2 -1 delayP i
+t delay_t25_45_t28_32 n delay_t25_45_t28_32 -1 delayP i
+t delay_t19_3_t23_28 n delay_t19_3_t23_28 -1 delayP i
+t delay_t25_14_t28_28 n delay_t25_14_t28_28 -1 delayP i
+t delay_t25_29_t28_32 n delay_t25_29_t28_32 -1 delayP i
+t delay_t25_14_t28_9 n delay_t25_14_t28_9 -1 delayP i
+t delay_t19_2_t23_32 n delay_t19_2_t23_32 -1 delayP i
+t delay_t19_3_t24_1 n delay_t19_3_t24_1 -1 delayP i
+t delay_t25_19_t28_2 n delay_t25_19_t28_2 -1 delayP i
+t delay_t06_2_t10 n delay_t06_2_t10 -1 delayP i
+t delay_t19_3_t26_6 n delay_t19_3_t26_6 -1 delayP i
+t delay_t25_20_t28_6 n delay_t25_20_t28_6 -1 delayP i
+t delay_t25_34_t28_5 n delay_t25_34_t28_5 -1 delayP i
+t delay_t19_3_t23_19 n delay_t19_3_t23_19 -1 delayP i
+t delay_t25_30_t28_29 n delay_t25_30_t28_29 -1 delayP i
+t delay_t25_14_t28_26 n delay_t25_14_t28_26 -1 delayP i
+t delay_t25_20_t28_28 n delay_t25_20_t28_28 -1 delayP i
+t delay_t25_2_t28_21 n delay_t25_2_t28_21 -1 delayP i
+t delay_t19_3_t21_1 n delay_t19_3_t21_1 -1 delayP i
+t delay_t25_34_t28_3 n delay_t25_34_t28_3 -1 delayP i
+t delay_t19_3_t24_7 n delay_t19_3_t24_7 -1 delayP i
+t delay_t25_34_t28_24 n delay_t25_34_t28_24 -1 delayP i
+t delay_t25_44_t28_29 n delay_t25_44_t28_29 -1 delayP i
+t delay_t19_3_t23_1 n delay_t19_3_t23_1 -1 delayP i
+t delay_t19_2_t23_30 n delay_t19_2_t23_30 -1 delayP i
+t delay_t25_14_t28_34 n delay_t25_14_t28_34 -1 delayP i
+t delay_t25_2_t28_13 n delay_t25_2_t28_13 -1 delayP i
+t delay_t15_3_t19_2 n delay_t15_3_t19_2 -1 delayP i
+t delay_t19_3_t21_6 n delay_t19_3_t21_6 -1 delayP i
+t delay_t25_38_t28_2 n delay_t25_38_t28_2 -1 delayP i
+t delay_t21_7_t27_15 n delay_t21_7_t27_15 -1 delayP i
+t delay_t21_7_t27_3 n delay_t21_7_t27_3 -1 delayP i
+t delay_t19_1_t23_23 n delay_t19_1_t23_23 -1 delayP i
+t delay_t19_1_t23_2 n delay_t19_1_t23_2 -1 delayP i
+t delay_t19_1_t23_7 n delay_t19_1_t23_7 -1 delayP i
+t delay_t25_2_t28_15 n delay_t25_2_t28_15 -1 delayP i
+t delay_t19_1_t25_34 n delay_t19_1_t25_34 -1 delayP i
+t delay_t25_20_t28_3 n delay_t25_20_t28_3 -1 delayP i
+t delay_t25_23_t28_32 n delay_t25_23_t28_32 -1 delayP i
+t delay_t22_t29_2 n delay_t22_t29_2 -1 delayP i
+t delay_t25_20_t28_14 n delay_t25_20_t28_14 -1 delayP i
+t delay_t25_35_t28_29 n delay_t25_35_t28_29 -1 delayP i
+t delay_t15_2_t19_1 n delay_t15_2_t19_1 -1 delayP i
+t delay_t25_19_t28_32 n delay_t25_19_t28_32 -1 delayP i
+t delay_t19_3_t23_3 n delay_t19_3_t23_3 -1 delayP i
+t delay_t25_14_t28_15 n delay_t25_14_t28_15 -1 delayP i
+t delay_t19_1_t23_21 n delay_t19_1_t23_21 -1 delayP i
+t delay_t25_34_t28_7 n delay_t25_34_t28_7 -1 delayP i
+t delay_t25_41_t28_32 n delay_t25_41_t28_32 -1 delayP i
+t delay_t25_14_t28_5 n delay_t25_14_t28_5 -1 delayP i
+t delay_t25_2_t28_18 n delay_t25_2_t28_18 -1 delayP i
+t delay_t25_2_t28_31 n delay_t25_2_t28_31 -1 delayP i
+t delay_t25_8_t28_2 n delay_t25_8_t28_2 -1 delayP i
+t delay_t19_1_t26_2 n delay_t19_1_t26_2 -1 delayP i
+t delay_t19_1_t21_4 n delay_t19_1_t21_4 -1 delayP i
+t delay_t19_1_t23_1 n delay_t19_1_t23_1 -1 delayP i
+t delay_t25_20_t28_26 n delay_t25_20_t28_26 -1 delayP i
+t delay_t25_9_t28_32 n delay_t25_9_t28_32 -1 delayP i
+t delay_t19_3_t23_23 n delay_t19_3_t23_23 -1 delayP i
+t delay_t19_2_t23_28 n delay_t19_2_t23_28 -1 delayP i
+t delay_t19_3_t23_30 n delay_t19_3_t23_30 -1 delayP i
+t delay_t15_3_t19_1 n delay_t15_3_t19_1 -1 delayP i
+t delay_t19_2_t24_6 n delay_t19_2_t24_6 -1 delayP i
+t delay_t11_t14_1 n delay_t11_t14_1 -1 delayP i
+t delay_t19_2_t23_1 n delay_t19_2_t23_1 -1 delayP i
+t delay_t25_34_t28_37 n delay_t25_34_t28_37 -1 delayP i
+t delay_t19_3_t23_27 n delay_t19_3_t23_27 -1 delayP i
+t delay_t07_t08_1 n delay_t07_t08_1 -1 delayP i
+t delay_t25_17_t28_29 n delay_t25_17_t28_29 -1 delayP i
+t delay_t19_3_t23_20 n delay_t19_3_t23_20 -1 delayP i
+t delay_t19_2_t26_2 n delay_t19_2_t26_2 -1 delayP i
+t delay_t25_34_t28_4 n delay_t25_34_t28_4 -1 delayP i
+t delay_t25_14_t28_35 n delay_t25_14_t28_35 -1 delayP i
+t delay_t15_1_t19_3 n delay_t15_1_t19_3 -1 delayP i
+t delay_t25_14_t28_11 n delay_t25_14_t28_11 -1 delayP i
+t delay_t25_25_t28_29 n delay_t25_25_t28_29 -1 delayP i
+t delay_t25_34_t28_18 n delay_t25_34_t28_18 -1 delayP i
+t delay_t25_34_t28_25 n delay_t25_34_t28_25 -1 delayP i
+t delay_t19_2_t23_17 n delay_t19_2_t23_17 -1 delayP i
+t delay_t25_1_t28_32 n delay_t25_1_t28_32 -1 delayP i
+t delay_t19_2_t23_5 n delay_t19_2_t23_5 -1 delayP i
+t delay_t25_31_t28_2 n delay_t25_31_t28_2 -1 delayP i
+t delay_t25_14_t28_36 n delay_t25_14_t28_36 -1 delayP i
+t delay_t19_3_t23_26 n delay_t19_3_t23_26 -1 delayP i
+t delay_t19_1_t23_18 n delay_t19_1_t23_18 -1 delayP i
+-1
+
+E 0
+s t27_5 0.311786909 -1
+s t23_1 2.01486 -1
+s t23_4 2.01486 -1
+s t21_1 0.514823 -1
+s t21_6 0.514823 -1
+s t23_18 2.01486 -1
+s t24_6 0.749987 -1
+s t27_1 0.311786909 -1
+s t29_5 0.566711049 -1
+s t27_15 0.311786909 -1
+s t27_12 0.311786909 -1
+s t23_11 2.01486 -1
+s t21_5 0.514823 -1
+s t29_6 0.566711049 -1
+s t24_5 0.749987 -1
+s t23_26 2.01486 -1
+s t02 0.415608 -1
+s t23_14 2.01486 -1
+s t23_19 2.01486 -1
+s t15_1 1.231196586 -1
+s t27_6 0.311786909 -1
+s t16_1 0.880969 -1
+s t07 0.618485103 -1
+s t27_14 0.311786909 -1
+s t23_31 2.01486 -1
+s t27_11 0.311786909 -1
+s t27_7 0.311786909 -1
+s t27_4 0.311786909 -1
+s t29_7 0.566711049 -1
+s t14_2 1.75158 -1
+s t18 0.191904 -1
+s t27_2 0.311786909 -1
+s t05 0.284615 -1
+s t15_4 1.231196586 -1
+s t14_4 1.75158 -1
+s t16_3 0.880969 -1
+s t15_5 1.231196586 -1
+s t27_9 0.311786909 -1
+s t23_2 2.01486 -1
+s t23_12 2.01486 -1
+s t03 0.429202 -1
+s t21_2 0.514823 -1
+s t17 0.728005 -1
+s t13_2 1.52328 -1
+s t24_12 0.749987 -1
+s t23_30 2.01486 -1
+s t23_17 2.01486 -1
+s t26_2 0.674504 -1
+s t26_3 0.674504 -1
+s t15_3 1.231196586 -1
+s t25_14 1.68569 -1
+s t23_21 2.01486 -1
+s t23_7 2.01486 -1
+s t27_3 0.311786909 -1
+s t00 1.07714 -1
+s t29_2 0.566711049 -1
+s t23_23 2.01486 -1
+s t25_34 1.68569 -1
+s t08_2 0.635931123 -1
+s t10 0.838059 -1
+s t21_4 0.514823 -1
+s t25_2 1.68569 -1
+s t23_22 2.01486 -1
+s t23_15 2.01486 -1
+s t24_1 0.749987 -1
+s t23_27 2.01486 -1
+s t27_8 0.311786909 -1
+s t29_3 0.566711049 -1
+s t28_32 0.241402 -1
+s t28_29 0.241402 -1
+s t29_1 0.566711049 -1
+s t28_2 0.241402 -1
+s t27_10 0.311786909 -1
+s t15_2 1.231196586 -1
+s t27_13 0.311786909 -1
+s t13_1 1.52328 -1
+s t21_3 0.514823 -1
+s t29_4 0.566711049 -1
+s t25_20 1.68569 -1
+s t01 0.560027 -1
+s t12 0.384527 -1
+s t09_3 1.91701 -1
+s t23_24 2.01486 -1
+s t23_3 2.01486 -1
+s t23_6 2.01486 -1
+s t16_2 0.880969 -1
+s t23_13 2.01486 -1
+s t23_25 2.01486 -1
+s t23_5 2.01486 -1
+s t14_1 1.75158 -1
+s t23_32 2.01486 -1
+s t28_26 0.241402 -1
+s t28_18 0.241402 -1
+s t25_21 1.68569 -1
+s t25_32 1.68569 -1
+s t25_18 1.68569 -1
+s t25_45 1.68569 -1
+s t25_11 1.68569 -1
+s t25_22 1.68569 -1
+s t28_9 0.241402 -1
+s t25_4 1.68569 -1
+s t25_19 1.68569 -1
+s t21_7 0.514823 -1
+s t28_31 0.241402 -1
+s t28_13 0.241402 -1
+s t28_35 0.241402 -1
+s t25_47 1.68569 -1
+s t25_15 1.68569 -1
+s t24_3 0.749987 -1
+s t22 0.311317933 -1
+s t24_10 0.749987 -1
+s t25_41 1.68569 -1
+s t28_17 0.241402 -1
+s t28_3 0.241402 -1
+s t28_28 0.241402 -1
+s t23_10 2.01486 -1
+s t28_25 0.241402 -1
+s t28_37 0.241402 -1
+s t25_6 1.68569 -1
+s t25_8 1.68569 -1
+s t28_14 0.241402 -1
+s t28_10 0.241402 -1
+s t25_23 1.68569 -1
+s t28_38 0.241402 -1
+s t19_1 0.459607 -1
+s t25_5 1.68569 -1
+s t28_20 0.241402 -1
+s t28_21 0.241402 -1
+s t25_26 1.68569 -1
+s t25_1 1.68569 -1
+s t25_16 1.68569 -1
+s t19_2 0.459607 -1
+s t23_8 2.01486 -1
+s t28_16 0.241402 -1
+s t28_1 0.241402 -1
+s t25_27 1.68569 -1
+s t25_28 1.68569 -1
+s t19_3 0.459607 -1
+s t25_9 1.68569 -1
+s t25_37 1.68569 -1
+s t25_30 1.68569 -1
+s t28_6 0.241402 -1
+s t28_33 0.241402 -1
+s t28_23 0.241402 -1
+s t28_24 0.241402 -1
+s t26_4 0.674504 -1
+s t25_43 1.68569 -1
+s t25_44 1.68569 -1
+s t28_7 0.241402 -1
+s t26_1 0.674504 -1
+s t25_10 1.68569 -1
+s t25_33 1.68569 -1
+s t25_35 1.68569 -1
+s t28_19 0.241402 -1
+s t28_12 0.241402 -1
+s t24_4 0.749987 -1
+s t28_8 0.241402 -1
+s t28_36 0.241402 -1
+s t25_25 1.68569 -1
+s t28_30 0.241402 -1
+s t25_42 1.68569 -1
+s t25_40 1.68569 -1
+s t25_12 1.68569 -1
+s t28_5 0.241402 -1
+s t25_39 1.68569 -1
+s t28_22 0.241402 -1
+s t28_11 0.241402 -1
+s t25_46 1.68569 -1
+s t25_13 1.68569 -1
+s t28_34 0.241402 -1
+s t25_29 1.68569 -1
+s t23_9 2.01486 -1
+s t25_38 1.68569 -1
+s t25_36 1.68569 -1
+s t28_15 0.241402 -1
+s t25_24 1.68569 -1
+s t25_31 1.68569 -1
+s t28_27 0.241402 -1
+s t25_7 1.68569 -1
+s t25_17 1.68569 -1
+s t28_4 0.241402 -1
+s t25_3 1.68569 -1
+s t20 0.268836 -1
+s t06_1 3.44081 -1
+s t24_8 0.749987 -1
+s t06_2 3.44081 -1
+s t23_28 2.01486 -1
+s t08_1 0.635931123 -1
+s t23_16 2.01486 -1
+s t26_6 0.674504 -1
+s t26_5 0.674504 -1
+s t24_2 0.749987 -1
+s t11 1.06868 -1
+s t04 0.377412 -1
+s t09_1 1.91701 -1
+s t24_7 0.749987 -1
+s t24_9 0.749987 -1
+s t09_2 1.91701 -1
+s t14_3 1.75158 -1
+s t24_11 0.749987 -1
+s t23_29 2.01486 -1
+s t23_20 2.01486 -1
+
+y t25_7 t28_3 0.146763421 -1
+
+y t25_7 t28_9 0.146763421 -1
+
+y t25_19 t28_38 0.146763421 -1
+
+y t19_2 t25_9 0.115614255 -1
+
+y t21_4 t27_13 0.211286 -1
+
+y t21_5 t27_12 0.211286 -1
+
+y t25_36 t28_34 0.146763421 -1
+
+s delay_t22_t29_1 75.0 -1
+y t22 delay_t22_t29_1 0.131776429 -1
+y delay_t22_t29_1 t29_1 1.0 -1
+
+y t25_38 t28_14 0.146763421 -1
+
+y t25_19 t28_17 0.146763421 -1
+
+y t25_22 t28_7 0.146763421 -1
+
+s delay_t25_25_t28_32 75.0 -1
+y t25_25 delay_t25_25_t28_32 0.146763421 -1
+y delay_t25_25_t28_32 t28_32 1.0 -1
+
+s delay_t19_1_t25_20 75.0 -1
+y t19_1 delay_t19_1_t25_20 0.115614255 -1
+y delay_t19_1_t25_20 t25_20 1.0 -1
+
+y t15_1 t27_9 0.163685333 -1
+
+s delay_t25_8_t28_32 75.0 -1
+y t25_8 delay_t25_8_t28_32 0.146763421 -1
+y delay_t25_8_t28_32 t28_32 1.0 -1
+
+s delay_t25_14_t28_27 75.0 -1
+y t25_14 delay_t25_14_t28_27 0.146763421 -1
+y delay_t25_14_t28_27 t28_27 1.0 -1
+
+y t25_44 t28_6 0.146763421 -1
+
+y t25_33 t28_28 0.146763421 -1
+
+y t15_1 t27_13 0.163685333 -1
+
+y t25_26 t28_17 0.146763421 -1
+
+y t25_41 t28_21 0.146763421 -1
+
+y t25_42 t28_13 0.146763421 -1
+
+s delay_t25_45_t28_29 75.0 -1
+y t25_45 delay_t25_45_t28_29 0.146763421 -1
+y delay_t25_45_t28_29 t28_29 1.0 -1
+
+y t25_32 t28_10 0.146763421 -1
+
+y t25_43 t28_11 0.146763421 -1
+
+y t19_1 t25_38 0.115614255 -1
+
+s delay_t25_26_t28_32 75.0 -1
+y t25_26 delay_t25_26_t28_32 0.146763421 -1
+y delay_t25_26_t28_32 t28_32 1.0 -1
+
+y t19_1 t26_1 0.260628333 -1
+
+y t15_3 t27_8 0.163685333 -1
+
+y t25_12 t28_13 0.146763421 -1
+
+y t21_6 t27_13 0.211286 -1
+
+y t25_9 t28_20 0.146763421 -1
+
+y t25_16 t28_7 0.146763421 -1
+
+s delay_t19_3_t26_2 75.0 -1
+y t19_3 delay_t19_3_t26_2 0.260628333 -1
+y delay_t19_3_t26_2 t26_2 1.0 -1
+
+y t15_5 t29_6 0.351405714 -1
+
+s delay_t25_33_t28_32 75.0 -1
+y t25_33 delay_t25_33_t28_32 0.146763421 -1
+y delay_t25_33_t28_32 t28_32 1.0 -1
+
+s delay_t19_1_t23_19 75.0 -1
+y t19_1 delay_t19_1_t23_19 0.095830938 -1
+y delay_t19_1_t23_19 t23_19 1.0 -1
+
+s delay_t19_3_t23_22 75.0 -1
+y t19_3 delay_t19_3_t23_22 0.095830938 -1
+y delay_t19_3_t23_22 t23_22 1.0 -1
+
+y t25_10 t28_23 0.146763421 -1
+
+y t15_5 t27_13 0.163685333 -1
+
+y t02 t27_9 0.078314667 -1
+
+y t25_9 t28_28 0.146763421 -1
+
+y t19_3 t25_18 0.115614255 -1
+
+y t21_5 t27_15 0.211286 -1
+
+y t21_6 t27_15 0.211286 -1
+
+y t19_3 t25_38 0.115614255 -1
+
+y t25_37 t28_12 0.146763421 -1
+
+y t25_7 t28_16 0.146763421 -1
+
+y t25_28 t28_34 0.146763421 -1
+
+y t25_42 t28_22 0.146763421 -1
+
+y t25_28 t28_28 0.146763421 -1
+
+y t25_38 t28_28 0.146763421 -1
+
+y t19_3 t25_12 0.115614255 -1
+
+y t25_46 t28_11 0.146763421 -1
+
+y t15_3 t27_4 0.163685333 -1
+
+y t25_15 t28_28 0.146763421 -1
+
+y t21_6 t27_10 0.211286 -1
+
+y t25_10 t28_19 0.146763421 -1
+
+y t25_7 t28_19 0.146763421 -1
+
+y t25_15 t28_4 0.146763421 -1
+
+y t21_3 t27_14 0.211286 -1
+
+y t25_15 t28_38 0.146763421 -1
+
+y t19_2 t25_15 0.115614255 -1
+
+y t19_1 t25_25 0.115614255 -1
+
+y t25_5 t28_8 0.146763421 -1
+
+y t25_15 t28_1 0.146763421 -1
+
+y t25_37 t28_15 0.146763421 -1
+
+y t25_12 t28_6 0.146763421 -1
+
+y t19_1 t24_10 0.2528425 -1
+
+s delay_t22_t29_4 75.0 -1
+y t22 delay_t22_t29_4 0.131776429 -1
+y delay_t22_t29_4 t29_4 1.0 -1
+
+y t25_26 t28_23 0.146763421 -1
+
+y t25_6 t28_9 0.146763421 -1
+
+y t25_17 t28_10 0.146763421 -1
+
+y t25_40 t28_13 0.146763421 -1
+
+y t25_16 t28_30 0.146763421 -1
+
+y t25_35 t28_13 0.146763421 -1
+
+s delay_t00_t04 150.0 -1
+y t00 delay_t00_t04 2.58561 -1
+y delay_t00_t04 t04 1.0 -1
+
+y t25_29 t28_7 0.146763421 -1
+
+y t25_5 t28_1 0.146763421 -1
+
+y t15_1 t27_8 0.163685333 -1
+
+s delay_t25_2_t28_20 75.0 -1
+y t25_2 delay_t25_2_t28_20 0.146763421 -1
+y delay_t25_2_t28_20 t28_20 1.0 -1
+
+s delay_t15_4_t19_2 75.0 -1
+y t15_4 delay_t15_4_t19_2 0.470326667 -1
+y delay_t15_4_t19_2 t19_2 1.0 -1
+
+y t25_33 t28_11 0.146763421 -1
+
+y t25_22 t28_13 0.146763421 -1
+
+y t25_36 t28_17 0.146763421 -1
+
+y t25_22 t28_37 0.146763421 -1
+
+y t25_23 t28_5 0.146763421 -1
+
+y t25_12 t28_38 0.146763421 -1
+
+y t25_21 t28_22 0.146763421 -1
+
+y t25_22 t28_34 0.146763421 -1
+
+y t25_27 t28_31 0.146763421 -1
+
+s delay_t19_3_t24_8 75.0 -1
+y t19_3 delay_t19_3_t24_8 0.2528425 -1
+y delay_t19_3_t24_8 t24_8 1.0 -1
+
+y t25_27 t28_13 0.146763421 -1
+
+y t25_6 t28_21 0.146763421 -1
+
+y t25_12 t28_17 0.146763421 -1
+
+y t25_40 t28_8 0.146763421 -1
+
+y t25_13 t28_12 0.146763421 -1
+
+y t25_23 t28_36 0.146763421 -1
+
+y t15_1 t27_5 0.163685333 -1
+
+y t25_26 t28_37 0.146763421 -1
+
+y t21_2 t27_12 0.211286 -1
+
+y t25_5 t28_11 0.146763421 -1
+
+y t25_40 t28_37 0.146763421 -1
+
+y t25_42 t28_38 0.146763421 -1
+
+y t25_38 t28_11 0.146763421 -1
+
+y t19_2 t25_43 0.115614255 -1
+
+s delay_t25_12_t28_2 75.0 -1
+y t25_12 delay_t25_12_t28_2 0.146763421 -1
+y delay_t25_12_t28_2 t28_2 1.0 -1
+
+y t25_47 t28_23 0.146763421 -1
+
+y t25_47 t28_38 0.146763421 -1
+
+y t15_2 t29_5 0.351405714 -1
+
+y t25_39 t28_33 0.146763421 -1
+
+s delay_t19_1_t23_3 150.0 -1
+y t19_1 delay_t19_1_t23_3 0.095830938 -1
+y delay_t19_1_t23_3 t23_3 1.0 -1
+
+y t25_38 t28_30 0.146763421 -1
+
+s delay_t25_14_t28_22 75.0 -1
+y t25_14 delay_t25_14_t28_22 0.146763421 -1
+y delay_t25_14_t28_22 t28_22 1.0 -1
+
+y t25_26 t28_13 0.146763421 -1
+
+y t14_2 t16_3 0.547273333 -1
+
+y t15_5 t29_7 0.351405714 -1
+
+y t15_2 t27_10 0.163685333 -1
+
+y t25_47 t28_5 0.146763421 -1
+
+s delay_t19_2_t23_22 75.0 -1
+y t19_2 delay_t19_2_t23_22 0.095830938 -1
+y delay_t19_2_t23_22 t23_22 1.0 -1
+
+y t25_7 t28_17 0.146763421 -1
+
+y t25_42 t28_35 0.146763421 -1
+
+y t15_2 t29_2 0.351405714 -1
+
+y t25_43 t28_9 0.146763421 -1
+
+y t25_36 t28_21 0.146763421 -1
+
+y t02 t27_12 0.078314667 -1
+
+y t25_23 t28_33 0.146763421 -1
+
+y t25_1 t28_14 0.146763421 -1
+
+y t25_7 t28_10 0.146763421 -1
+
+y t15_4 t27_13 0.163685333 -1
+
+y t25_7 t28_28 0.146763421 -1
+
+y t25_1 t28_11 0.146763421 -1
+
+y t25_47 t28_31 0.146763421 -1
+
+y t25_21 t28_25 0.146763421 -1
+
+y t25_10 t28_8 0.146763421 -1
+
+s delay_t25_20_t28_13 75.0 -1
+y t25_20 delay_t25_20_t28_13 0.146763421 -1
+y delay_t25_20_t28_13 t28_13 1.0 -1
+
+y t25_43 t28_25 0.146763421 -1
+
+y t25_12 t28_19 0.146763421 -1
+
+y t25_35 t28_1 0.146763421 -1
+
+y t25_4 t28_35 0.146763421 -1
+
+y t19_3 t25_23 0.115614255 -1
+
+y t25_28 t28_36 0.146763421 -1
+
+y t25_45 t28_4 0.146763421 -1
+
+y t25_23 t28_8 0.146763421 -1
+
+y t25_44 t28_38 0.146763421 -1
+
+s delay_t19_1_t24_9 75.0 -1
+y t19_1 delay_t19_1_t24_9 0.2528425 -1
+y delay_t19_1_t24_9 t24_9 1.0 -1
+
+y t19_3 t25_33 0.115614255 -1
+
+y t25_13 t28_22 0.146763421 -1
+
+y t25_22 t28_1 0.146763421 -1
+
+y t25_25 t28_27 0.146763421 -1
+
+y t25_25 t28_28 0.146763421 -1
+
+y t25_10 t28_30 0.146763421 -1
+
+y t25_33 t28_36 0.146763421 -1
+
+s delay_t25_31_t28_29 75.0 -1
+y t25_31 delay_t25_31_t28_29 0.146763421 -1
+y delay_t25_31_t28_29 t28_29 1.0 -1
+
+y t25_9 t28_12 0.146763421 -1
+
+y t25_13 t28_31 0.146763421 -1
+
+y t25_42 t28_27 0.146763421 -1
+
+y t25_32 t28_4 0.146763421 -1
+
+s delay_t25_2_t28_37 75.0 -1
+y t25_2 delay_t25_2_t28_37 0.146763421 -1
+y delay_t25_2_t28_37 t28_37 1.0 -1
+
+y t25_1 t28_3 0.146763421 -1
+
+y t25_35 t28_25 0.146763421 -1
+
+y t25_17 t28_22 0.146763421 -1
+
+s delay_t19_1_t23_28 75.0 -1
+y t19_1 delay_t19_1_t23_28 0.095830938 -1
+y delay_t19_1_t23_28 t23_28 1.0 -1
+
+y t25_36 t28_8 0.146763421 -1
+
+y t25_43 t28_17 0.146763421 -1
+
+y t25_6 t28_22 0.146763421 -1
+
+s delay_t06_1_t10 150.0 -1
+y t06_1 delay_t06_1_t10 1.05663 -1
+y delay_t06_1_t10 t10 1.0 -1
+
+y t25_1 t28_20 0.146763421 -1
+
+y t25_30 t28_20 0.146763421 -1
+
+s delay_t15_5_t19_3 75.0 -1
+y t15_5 delay_t15_5_t19_3 0.470326667 -1
+y delay_t15_5_t19_3 t19_3 1.0 -1
+
+y t25_8 t28_26 0.146763421 -1
+
+y t25_31 t28_37 0.146763421 -1
+
+y t25_5 t28_30 0.146763421 -1
+
+y t25_23 t28_17 0.146763421 -1
+
+y t25_45 t28_28 0.146763421 -1
+
+y t25_3 t28_3 0.146763421 -1
+
+y t25_46 t28_17 0.146763421 -1
+
+s delay_t25_21_t28_2 75.0 -1
+y t25_21 delay_t25_21_t28_2 0.146763421 -1
+y delay_t25_21_t28_2 t28_2 1.0 -1
+
+y t25_21 t28_23 0.146763421 -1
+
+s delay_t25_34_t28_10 75.0 -1
+y t25_34 delay_t25_34_t28_10 0.146763421 -1
+y delay_t25_34_t28_10 t28_10 1.0 -1
+
+y t02 t27_10 0.078314667 -1
+
+y t25_27 t28_23 0.146763421 -1
+
+y t25_15 t28_13 0.146763421 -1
+
+y t25_5 t28_22 0.146763421 -1
+
+y t21_4 t27_1 0.211286 -1
+
+y t25_11 t28_28 0.146763421 -1
+
+y t25_17 t28_11 0.146763421 -1
+
+s delay_t19_3_t21_3 75.0 -1
+y t19_3 delay_t19_3_t21_3 0.345151429 -1
+y delay_t19_3_t21_3 t21_3 1.0 -1
+
+y t25_5 t28_10 0.146763421 -1
+
+s delay_t25_20_t28_22 75.0 -1
+y t25_20 delay_t25_20_t28_22 0.146763421 -1
+y delay_t25_20_t28_22 t28_22 1.0 -1
+
+y t25_13 t28_6 0.146763421 -1
+
+y t25_19 t28_37 0.146763421 -1
+
+y t25_31 t28_35 0.146763421 -1
+
+y t25_38 t28_5 0.146763421 -1
+
+y t25_16 t28_38 0.146763421 -1
+
+s delay_t25_26_t28_29 75.0 -1
+y t25_26 delay_t25_26_t28_29 0.146763421 -1
+y delay_t25_26_t28_29 t28_29 1.0 -1
+
+s delay_t25_2_t28_23 75.0 -1
+y t25_2 delay_t25_2_t28_23 0.146763421 -1
+y delay_t25_2_t28_23 t28_23 1.0 -1
+
+s delay_t25_7_t28_29 75.0 -1
+y t25_7 delay_t25_7_t28_29 0.146763421 -1
+y delay_t25_7_t28_29 t28_29 1.0 -1
+
+s delay_t19_1_t23_16 75.0 -1
+y t19_1 delay_t19_1_t23_16 0.095830938 -1
+y delay_t19_1_t23_16 t23_16 1.0 -1
+
+y t21_1 t27_9 0.211286 -1
+
+s delay_t19_3_t23_16 75.0 -1
+y t19_3 delay_t19_3_t23_16 0.095830938 -1
+y delay_t19_3_t23_16 t23_16 1.0 -1
+
+y t19_2 t25_10 0.115614255 -1
+
+s delay_t25_2_t28_36 75.0 -1
+y t25_2 delay_t25_2_t28_36 0.146763421 -1
+y delay_t25_2_t28_36 t28_36 1.0 -1
+
+y t25_18 t28_5 0.146763421 -1
+
+y t25_19 t28_31 0.146763421 -1
+
+s delay_t25_24_t28_32 75.0 -1
+y t25_24 delay_t25_24_t28_32 0.146763421 -1
+y delay_t25_24_t28_32 t28_32 1.0 -1
+
+s delay_t19_2_t24_12 75.0 -1
+y t19_2 delay_t19_2_t24_12 0.2528425 -1
+y delay_t19_2_t24_12 t24_12 1.0 -1
+
+y t13_1 t15_4 0.433336 -1
+
+y t25_12 t28_22 0.146763421 -1
+
+y t25_5 t28_6 0.146763421 -1
+
+y t25_25 t28_17 0.146763421 -1
+
+y t25_42 t28_36 0.146763421 -1
+
+y t13_2 t15_1 0.433336 -1
+
+y t25_19 t28_1 0.146763421 -1
+
+s delay_t21_7_t27_11 75.0 -1
+y t21_7 delay_t21_7_t27_11 0.211286 -1
+y delay_t21_7_t27_11 t27_11 1.0 -1
+
+y t25_38 t28_1 0.146763421 -1
+
+y t25_24 t28_11 0.146763421 -1
+
+y t25_40 t28_33 0.146763421 -1
+
+y t25_32 t28_1 0.146763421 -1
+
+y t19_3 t24_3 0.2528425 -1
+
+y t19_1 t25_13 0.115614255 -1
+
+s delay_t19_1_t26_3 75.0 -1
+y t19_1 delay_t19_1_t26_3 0.260628333 -1
+y delay_t19_1_t26_3 t26_3 1.0 -1
+
+y t25_10 t28_38 0.146763421 -1
+
+y t25_1 t28_6 0.146763421 -1
+
+y t25_16 t28_20 0.146763421 -1
+
+y t25_8 t28_36 0.146763421 -1
+
+y t21_3 t27_3 0.211286 -1
+
+y t19_3 t25_43 0.115614255 -1
+
+y t25_26 t28_36 0.146763421 -1
+
+y t25_4 t28_15 0.146763421 -1
+
+y t25_38 t28_22 0.146763421 -1
+
+y t25_35 t28_10 0.146763421 -1
+
+y t25_32 t28_15 0.146763421 -1
+
+y t25_31 t28_8 0.146763421 -1
+
+y t25_45 t28_26 0.146763421 -1
+
+y t25_36 t28_3 0.146763421 -1
+
+y t19_1 t24_4 0.2528425 -1
+
+s delay_t21_7_t27_12 75.0 -1
+y t21_7 delay_t21_7_t27_12 0.211286 -1
+y delay_t21_7_t27_12 t27_12 1.0 -1
+
+y t25_31 t28_31 0.146763421 -1
+
+s delay_t25_32_t28_29 75.0 -1
+y t25_32 delay_t25_32_t28_29 0.146763421 -1
+y delay_t25_32_t28_29 t28_29 1.0 -1
+
+y t25_6 t28_10 0.146763421 -1
+
+y t25_19 t28_19 0.146763421 -1
+
+y t25_23 t28_11 0.146763421 -1
+
+y t25_27 t28_9 0.146763421 -1
+
+y t25_29 t28_21 0.146763421 -1
+
+y t25_35 t28_38 0.146763421 -1
+
+y t25_40 t28_11 0.146763421 -1
+
+y t25_33 t28_5 0.146763421 -1
+
+y t25_45 t28_12 0.146763421 -1
+
+s delay_t19_2_t23_23 75.0 -1
+y t19_2 delay_t19_2_t23_23 0.095830938 -1
+y delay_t19_2_t23_23 t23_23 1.0 -1
+
+s delay_t25_2_t28_26 75.0 -1
+y t25_2 delay_t25_2_t28_26 0.146763421 -1
+y delay_t25_2_t28_26 t28_26 1.0 -1
+
+s delay_t25_20_t28_16 75.0 -1
+y t25_20 delay_t25_20_t28_16 0.146763421 -1
+y delay_t25_20_t28_16 t28_16 1.0 -1
+
+y t25_28 t28_20 0.146763421 -1
+
+y t25_35 t28_36 0.146763421 -1
+
+y t25_29 t28_10 0.146763421 -1
+
+y t25_4 t28_19 0.146763421 -1
+
+y t25_4 t28_28 0.146763421 -1
+
+y t25_4 t28_34 0.146763421 -1
+
+y t15_3 t27_1 0.163685333 -1
+
+y t25_1 t28_24 0.146763421 -1
+
+s delay_t25_39_t28_2 75.0 -1
+y t25_39 delay_t25_39_t28_2 0.146763421 -1
+y delay_t25_39_t28_2 t28_2 1.0 -1
+
+y t25_45 t28_34 0.146763421 -1
+
+y t25_21 t28_38 0.146763421 -1
+
+y t19_3 t25_39 0.115614255 -1
+
+y t25_5 t28_21 0.146763421 -1
+
+s delay_t19_2_t23_4 75.0 -1
+y t19_2 delay_t19_2_t23_4 0.095830938 -1
+y delay_t19_2_t23_4 t23_4 1.0 -1
+
+s delay_t25_2_t28_22 75.0 -1
+y t25_2 delay_t25_2_t28_22 0.146763421 -1
+y delay_t25_2_t28_22 t28_22 1.0 -1
+
+y t25_18 t28_14 0.146763421 -1
+
+y t25_42 t28_28 0.146763421 -1
+
+y t25_9 t28_25 0.146763421 -1
+
+y t19_1 t25_23 0.115614255 -1
+
+s delay_t21_7_t27_13 75.0 -1
+y t21_7 delay_t21_7_t27_13 0.211286 -1
+y delay_t21_7_t27_13 t27_13 1.0 -1
+
+y t25_42 t28_19 0.146763421 -1
+
+y t25_15 t28_10 0.146763421 -1
+
+y t25_29 t28_5 0.146763421 -1
+
+y t25_5 t28_14 0.146763421 -1
+
+y t25_11 t28_15 0.146763421 -1
+
+y t25_26 t28_24 0.146763421 -1
+
+y t25_41 t28_38 0.146763421 -1
+
+y t25_9 t28_22 0.146763421 -1
+
+y t25_19 t28_6 0.146763421 -1
+
+y t25_32 t28_11 0.146763421 -1
+
+y t15_4 t27_6 0.163685333 -1
+
+y t15_2 t27_12 0.163685333 -1
+
+y t25_47 t28_16 0.146763421 -1
+
+s delay_t19_3_t23_31 75.0 -1
+y t19_3 delay_t19_3_t23_31 0.095830938 -1
+y delay_t19_3_t23_31 t23_31 1.0 -1
+
+y t19_1 t25_42 0.115614255 -1
+
+y t15_3 t27_7 0.163685333 -1
+
+s delay_t19_1_t21_1 75.0 -1
+y t19_1 delay_t19_1_t21_1 0.345151429 -1
+y delay_t19_1_t21_1 t21_1 1.0 -1
+
+y t25_45 t28_15 0.146763421 -1
+
+y t15_5 t29_2 0.351405714 -1
+
+s delay_t25_18_t28_29 75.0 -1
+y t25_18 delay_t25_18_t28_29 0.146763421 -1
+y delay_t25_18_t28_29 t28_29 1.0 -1
+
+y t25_47 t28_13 0.146763421 -1
+
+y t19_2 t25_22 0.115614255 -1
+
+y t25_44 t28_21 0.146763421 -1
+
+y t25_15 t28_34 0.146763421 -1
+
+s delay_t25_20_t28_36 75.0 -1
+y t25_20 delay_t25_20_t28_36 0.146763421 -1
+y delay_t25_20_t28_36 t28_36 1.0 -1
+
+y t25_18 t28_20 0.146763421 -1
+
+y t25_8 t28_14 0.146763421 -1
+
+y t25_13 t28_28 0.146763421 -1
+
+y t25_27 t28_25 0.146763421 -1
+
+s delay_t25_10_t28_29 75.0 -1
+y t25_10 delay_t25_10_t28_29 0.146763421 -1
+y delay_t25_10_t28_29 t28_29 1.0 -1
+
+y t25_37 t28_33 0.146763421 -1
+
+s delay_t25_10_t28_32 75.0 -1
+y t25_10 delay_t25_10_t28_32 0.146763421 -1
+y delay_t25_10_t28_32 t28_32 1.0 -1
+
+y t25_8 t28_28 0.146763421 -1
+
+y t25_1 t28_25 0.146763421 -1
+
+y t19_2 t25_8 0.115614255 -1
+
+y t25_10 t28_3 0.146763421 -1
+
+y t25_40 t28_30 0.146763421 -1
+
+y t25_7 t28_23 0.146763421 -1
+
+y t19_2 t25_3 0.115614255 -1
+
+y t19_3 t25_29 0.115614255 -1
+
+y t25_21 t28_27 0.146763421 -1
+
+y t19_3 t25_35 0.115614255 -1
+
+y t19_1 t25_4 0.115614255 -1
+
+y t15_2 t27_9 0.163685333 -1
+
+y t21_6 t27_12 0.211286 -1
+
+y t25_33 t28_24 0.146763421 -1
+
+y t25_6 t28_24 0.146763421 -1
+
+y t25_17 t28_6 0.146763421 -1
+
+y t25_44 t28_14 0.146763421 -1
+
+s delay_t14_3_t16_2 75.0 -1
+y t14_3 delay_t14_3_t16_2 0.547273333 -1
+y delay_t14_3_t16_2 t16_2 1.0 -1
+
+y t25_8 t28_6 0.146763421 -1
+
+y t25_39 t28_8 0.146763421 -1
+
+s delay_t25_14_t28_33 75.0 -1
+y t25_14 delay_t25_14_t28_33 0.146763421 -1
+y delay_t25_14_t28_33 t28_33 1.0 -1
+
+y t25_13 t28_18 0.146763421 -1
+
+y t25_15 t28_8 0.146763421 -1
+
+y t25_36 t28_19 0.146763421 -1
+
+y t25_40 t28_7 0.146763421 -1
+
+y t25_21 t28_13 0.146763421 -1
+
+y t25_17 t28_26 0.146763421 -1
+
+y t25_23 t28_28 0.146763421 -1
+
+y t25_12 t28_4 0.146763421 -1
+
+s delay_t25_27_t28_29 75.0 -1
+y t25_27 delay_t25_27_t28_29 0.146763421 -1
+y delay_t25_27_t28_29 t28_29 1.0 -1
+
+y t19_2 t21_7 0.345151429 -1
+
+y t25_25 t28_12 0.146763421 -1
+
+y t25_27 t28_12 0.146763421 -1
+
+y t25_33 t28_8 0.146763421 -1
+
+s delay_t19_3_t25_2 75.0 -1
+y t19_3 delay_t19_3_t25_2 0.115614255 -1
+y delay_t19_3_t25_2 t25_2 1.0 -1
+
+y t25_6 t28_12 0.146763421 -1
+
+s delay_t21_7_t27_14 75.0 -1
+y t21_7 delay_t21_7_t27_14 0.211286 -1
+y delay_t21_7_t27_14 t27_14 1.0 -1
+
+y t25_28 t28_12 0.146763421 -1
+
+s delay_t25_14_t28_1 75.0 -1
+y t25_14 delay_t25_14_t28_1 0.146763421 -1
+y delay_t25_14_t28_1 t28_1 1.0 -1
+
+s delay_t25_46_t28_29 75.0 -1
+y t25_46 delay_t25_46_t28_29 0.146763421 -1
+y delay_t25_46_t28_29 t28_29 1.0 -1
+
+y t25_26 t28_4 0.146763421 -1
+
+s delay_t21_7_t27_4 75.0 -1
+y t21_7 delay_t21_7_t27_4 0.211286 -1
+y delay_t21_7_t27_4 t27_4 1.0 -1
+
+y t25_9 t28_26 0.146763421 -1
+
+s delay_t25_27_t28_2 75.0 -1
+y t25_27 delay_t25_27_t28_2 0.146763421 -1
+y delay_t25_27_t28_2 t28_2 1.0 -1
+
+y t25_31 t28_5 0.146763421 -1
+
+y t25_13 t28_11 0.146763421 -1
+
+y t25_44 t28_30 0.146763421 -1
+
+y t25_44 t28_19 0.146763421 -1
+
+y t25_13 t28_35 0.146763421 -1
+
+y t25_46 t28_20 0.146763421 -1
+
+y t02 t27_11 0.078314667 -1
+
+y t25_19 t28_13 0.146763421 -1
+
+s delay_t25_28_t28_2 75.0 -1
+y t25_28 delay_t25_28_t28_2 0.146763421 -1
+y delay_t25_28_t28_2 t28_2 1.0 -1
+
+y t25_32 t28_33 0.146763421 -1
+
+y t25_40 t28_22 0.146763421 -1
+
+s delay_t19_1_t23_25 150.0 -1
+y t19_1 delay_t19_1_t23_25 0.095830938 -1
+y delay_t19_1_t23_25 t23_25 1.0 -1
+
+y t25_11 t28_26 0.146763421 -1
+
+y t25_22 t28_3 0.146763421 -1
+
+y t25_35 t28_33 0.146763421 -1
+
+y t25_10 t28_13 0.146763421 -1
+
+y t19_3 t25_30 0.115614255 -1
+
+s delay_t25_20_t28_5 75.0 -1
+y t25_20 delay_t25_20_t28_5 0.146763421 -1
+y delay_t25_20_t28_5 t28_5 1.0 -1
+
+y t25_31 t28_3 0.146763421 -1
+
+s delay_c00_t00 250.0 -1
+y c00 delay_c00_t00 1.08164 -1
+y delay_c00_t00 t00 1.0 -1
+
+y t13_2 t15_3 0.433336 -1
+
+y t25_44 t28_17 0.146763421 -1
+
+y t25_31 t28_11 0.146763421 -1
+
+y t25_8 t28_20 0.146763421 -1
+
+y t19_2 t25_38 0.115614255 -1
+
+y t25_5 t28_24 0.146763421 -1
+
+y t25_11 t28_33 0.146763421 -1
+
+y t25_10 t28_18 0.146763421 -1
+
+y t25_10 t28_33 0.146763421 -1
+
+s delay_t19_3_t26_5 75.0 -1
+y t19_3 delay_t19_3_t26_5 0.260628333 -1
+y delay_t19_3_t26_5 t26_5 1.0 -1
+
+y t19_1 t25_12 0.115614255 -1
+
+y t25_22 t28_36 0.146763421 -1
+
+y t25_37 t28_22 0.146763421 -1
+
+y t25_42 t28_16 0.146763421 -1
+
+y t25_13 t28_30 0.146763421 -1
+
+y t25_22 t28_33 0.146763421 -1
+
+y t25_21 t28_12 0.146763421 -1
+
+y t25_24 t28_36 0.146763421 -1
+
+s delay_t25_34_t28_11 75.0 -1
+y t25_34 delay_t25_34_t28_11 0.146763421 -1
+y delay_t25_34_t28_11 t28_11 1.0 -1
+
+y t19_3 t25_31 0.115614255 -1
+
+y t25_1 t28_28 0.146763421 -1
+
+y t15_3 t29_4 0.351405714 -1
+
+y t25_33 t28_1 0.146763421 -1
+
+y t25_9 t28_13 0.146763421 -1
+
+y t25_31 t28_30 0.146763421 -1
+
+s delay_t19_3_t23_21 75.0 -1
+y t19_3 delay_t19_3_t23_21 0.095830938 -1
+y delay_t19_3_t23_21 t23_21 1.0 -1
+
+s delay_t25_2_t28_16 75.0 -1
+y t25_2 delay_t25_2_t28_16 0.146763421 -1
+y delay_t25_2_t28_16 t28_16 1.0 -1
+
+y t25_5 t28_31 0.146763421 -1
+
+s delay_t19_2_t23_24 150.0 -1
+y t19_2 delay_t19_2_t23_24 0.095830938 -1
+y delay_t19_2_t23_24 t23_24 1.0 -1
+
+y t25_9 t28_23 0.146763421 -1
+
+s delay_t25_14_t28_20 75.0 -1
+y t25_14 delay_t25_14_t28_20 0.146763421 -1
+y delay_t25_14_t28_20 t28_20 1.0 -1
+
+y t25_24 t28_18 0.146763421 -1
+
+y t25_27 t28_11 0.146763421 -1
+
+y t25_26 t28_3 0.146763421 -1
+
+s delay_t25_20_t28_11 75.0 -1
+y t25_20 delay_t25_20_t28_11 0.146763421 -1
+y delay_t25_20_t28_11 t28_11 1.0 -1
+
+y t25_39 t28_13 0.146763421 -1
+
+y t25_15 t28_24 0.146763421 -1
+
+y t21_3 t27_13 0.211286 -1
+
+s delay_t25_35_t28_2 75.0 -1
+y t25_35 delay_t25_35_t28_2 0.146763421 -1
+y delay_t25_35_t28_2 t28_2 1.0 -1
+
+y t25_28 t28_27 0.146763421 -1
+
+y t25_6 t28_27 0.146763421 -1
+
+y t25_23 t28_38 0.146763421 -1
+
+s delay_t19_2_t24_7 75.0 -1
+y t19_2 delay_t19_2_t24_7 0.2528425 -1
+y delay_t19_2_t24_7 t24_7 1.0 -1
+
+y t25_9 t28_36 0.146763421 -1
+
+y t19_1 t25_6 0.115614255 -1
+
+y t19_1 t25_44 0.115614255 -1
+
+y t25_5 t28_19 0.146763421 -1
+
+s delay_t25_20_t28_7 75.0 -1
+y t25_20 delay_t25_20_t28_7 0.146763421 -1
+y delay_t25_20_t28_7 t28_7 1.0 -1
+
+y t25_18 t28_6 0.146763421 -1
+
+y t15_4 t27_2 0.163685333 -1
+
+y t25_47 t28_17 0.146763421 -1
+
+y t25_38 t28_20 0.146763421 -1
+
+y t25_4 t28_16 0.146763421 -1
+
+y t25_21 t28_15 0.146763421 -1
+
+y t25_11 t28_1 0.146763421 -1
+
+y t25_15 t28_36 0.146763421 -1
+
+y t25_47 t28_35 0.146763421 -1
+
+s delay_t22_t29_5 75.0 -1
+y t22 delay_t22_t29_5 0.131776429 -1
+y delay_t22_t29_5 t29_5 1.0 -1
+
+y t14_4 t16_1 0.547273333 -1
+
+y t13_1 t15_1 0.433336 -1
+
+s delay_t19_2_t25_2 75.0 -1
+y t19_2 delay_t19_2_t25_2 0.115614255 -1
+y delay_t19_2_t25_2 t25_2 1.0 -1
+
+y t25_38 t28_23 0.146763421 -1
+
+y t25_32 t28_14 0.146763421 -1
+
+y t25_36 t28_22 0.146763421 -1
+
+s delay_t19_3_t25_34 75.0 -1
+y t19_3 delay_t19_3_t25_34 0.115614255 -1
+y delay_t19_3_t25_34 t25_34 1.0 -1
+
+y t25_31 t28_16 0.146763421 -1
+
+y t25_44 t28_15 0.146763421 -1
+
+y t25_26 t28_10 0.146763421 -1
+
+y t25_19 t28_11 0.146763421 -1
+
+s delay_t25_46_t28_32 75.0 -1
+y t25_46 delay_t25_46_t28_32 0.146763421 -1
+y delay_t25_46_t28_32 t28_32 1.0 -1
+
+y t25_42 t28_33 0.146763421 -1
+
+s delay_t25_14_t28_16 75.0 -1
+y t25_14 delay_t25_14_t28_16 0.146763421 -1
+y delay_t25_14_t28_16 t28_16 1.0 -1
+
+y t25_13 t28_33 0.146763421 -1
+
+y t25_29 t28_28 0.146763421 -1
+
+y t25_43 t28_33 0.146763421 -1
+
+y t25_16 t28_24 0.146763421 -1
+
+y t25_31 t28_24 0.146763421 -1
+
+y t25_8 t28_27 0.146763421 -1
+
+s delay_t19_3_t23_2 75.0 -1
+y t19_3 delay_t19_3_t23_2 0.095830938 -1
+y delay_t19_3_t23_2 t23_2 1.0 -1
+
+s delay_t25_1_t28_29 75.0 -1
+y t25_1 delay_t25_1_t28_29 0.146763421 -1
+y delay_t25_1_t28_29 t28_29 1.0 -1
+
+y t19_1 t25_30 0.115614255 -1
+
+y t25_23 t28_4 0.146763421 -1
+
+y t25_7 t28_7 0.146763421 -1
+
+y t25_30 t28_14 0.146763421 -1
+
+y t25_15 t28_22 0.146763421 -1
+
+s delay_t14_1_t16_3 225.0 -1
+y t14_1 delay_t14_1_t16_3 0.547273333 -1
+y delay_t14_1_t16_3 t16_3 1.0 -1
+
+y t25_29 t28_19 0.146763421 -1
+
+y t25_13 t28_27 0.146763421 -1
+
+y t25_1 t28_5 0.146763421 -1
+
+y t25_11 t28_21 0.146763421 -1
+
+y t25_32 t28_23 0.146763421 -1
+
+y t25_45 t28_35 0.146763421 -1
+
+s delay_t19_1_t24_1 75.0 -1
+y t19_1 delay_t19_1_t24_1 0.2528425 -1
+y delay_t19_1_t24_1 t24_1 1.0 -1
+
+y t19_1 t25_21 0.115614255 -1
+
+y t25_19 t28_36 0.146763421 -1
+
+s delay_t19_1_t23_30 75.0 -1
+y t19_1 delay_t19_1_t23_30 0.095830938 -1
+y delay_t19_1_t23_30 t23_30 1.0 -1
+
+y t15_2 t27_4 0.163685333 -1
+
+y t19_1 t25_8 0.115614255 -1
+
+y t15_3 t29_5 0.351405714 -1
+
+y t19_3 t21_7 0.345151429 -1
+
+s delay_t25_34_t28_31 75.0 -1
+y t25_34 delay_t25_34_t28_31 0.146763421 -1
+y delay_t25_34_t28_31 t28_31 1.0 -1
+
+y t25_8 t28_23 0.146763421 -1
+
+s delay_t25_42_t28_32 75.0 -1
+y t25_42 delay_t25_42_t28_32 0.146763421 -1
+y delay_t25_42_t28_32 t28_32 1.0 -1
+
+s delay_t25_29_t28_2 75.0 -1
+y t25_29 delay_t25_29_t28_2 0.146763421 -1
+y delay_t25_29_t28_2 t28_2 1.0 -1
+
+s delay_t19_3_t21_4 75.0 -1
+y t19_3 delay_t19_3_t21_4 0.345151429 -1
+y delay_t19_3_t21_4 t21_4 1.0 -1
+
+y t19_2 t24_3 0.2528425 -1
+
+y t25_5 t28_4 0.146763421 -1
+
+y t25_47 t28_20 0.146763421 -1
+
+y t21_5 t27_7 0.211286 -1
+
+y t25_34 t28_29 0.146763421 -1
+
+y t25_44 t28_5 0.146763421 -1
+
+s delay_t19_3_t23_29 75.0 -1
+y t19_3 delay_t19_3_t23_29 0.095830938 -1
+y delay_t19_3_t23_29 t23_29 1.0 -1
+
+y t25_5 t28_5 0.146763421 -1
+
+y t15_5 t29_3 0.351405714 -1
+
+y t21_2 t27_2 0.211286 -1
+
+y t25_32 t28_22 0.146763421 -1
+
+y t25_42 t28_34 0.146763421 -1
+
+y t25_23 t28_24 0.146763421 -1
+
+y t25_27 t28_30 0.146763421 -1
+
+s delay_t04_t08_2 150.0 -1
+y t04 delay_t04_t08_2 1.4268 -1
+y delay_t04_t08_2 t08_2 1.0 -1
+
+s delay_t14_3_t16_1 150.0 -1
+y t14_3 delay_t14_3_t16_1 0.547273333 -1
+y delay_t14_3_t16_1 t16_1 1.0 -1
+
+y t19_2 t25_40 0.115614255 -1
+
+y t25_37 t28_5 0.146763421 -1
+
+y t25_17 t28_23 0.146763421 -1
+
+y t19_2 t25_19 0.115614255 -1
+
+y t25_5 t28_34 0.146763421 -1
+
+s delay_t25_22_t28_29 75.0 -1
+y t25_22 delay_t25_22_t28_29 0.146763421 -1
+y delay_t25_22_t28_29 t28_29 1.0 -1
+
+y t25_18 t28_38 0.146763421 -1
+
+y t25_3 t28_35 0.146763421 -1
+
+y t25_44 t28_1 0.146763421 -1
+
+y t25_39 t28_28 0.146763421 -1
+
+y t25_41 t28_1 0.146763421 -1
+
+y t13_1 t17 0.553236 -1
+
+y t25_38 t28_33 0.146763421 -1
+
+y t25_33 t28_23 0.146763421 -1
+
+y t25_43 t28_5 0.146763421 -1
+
+y t25_23 t28_22 0.146763421 -1
+
+s delay_t25_20_t28_20 75.0 -1
+y t25_20 delay_t25_20_t28_20 0.146763421 -1
+y delay_t25_20_t28_20 t28_20 1.0 -1
+
+y t25_13 t28_19 0.146763421 -1
+
+s delay_t19_3_t24_9 75.0 -1
+y t19_3 delay_t19_3_t24_9 0.2528425 -1
+y delay_t19_3_t24_9 t24_9 1.0 -1
+
+y t25_41 t28_27 0.146763421 -1
+
+y t25_18 t28_37 0.146763421 -1
+
+y t25_10 t28_26 0.146763421 -1
+
+y t25_44 t28_33 0.146763421 -1
+
+y t25_10 t28_21 0.146763421 -1
+
+y t25_33 t28_3 0.146763421 -1
+
+y t25_12 t28_12 0.146763421 -1
+
+y t25_30 t28_21 0.146763421 -1
+
+y t25_6 t28_16 0.146763421 -1
+
+y t25_35 t28_23 0.146763421 -1
+
+y t15_4 t27_15 0.163685333 -1
+
+y t25_13 t28_36 0.146763421 -1
+
+s delay_t19_1_t23_24 150.0 -1
+y t19_1 delay_t19_1_t23_24 0.095830938 -1
+y delay_t19_1_t23_24 t23_24 1.0 -1
+
+y t25_29 t28_27 0.146763421 -1
+
+y t25_33 t28_9 0.146763421 -1
+
+s delay_t21_7_t27_2 75.0 -1
+y t21_7 delay_t21_7_t27_2 0.211286 -1
+y delay_t21_7_t27_2 t27_2 1.0 -1
+
+s delay_t25_4_t28_29 75.0 -1
+y t25_4 delay_t25_4_t28_29 0.146763421 -1
+y delay_t25_4_t28_29 t28_29 1.0 -1
+
+y t25_11 t28_7 0.146763421 -1
+
+y t25_23 t28_16 0.146763421 -1
+
+y t25_11 t28_24 0.146763421 -1
+
+y t25_2 t28_2 0.146763421 -1
+
+y t19_2 t25_7 0.115614255 -1
+
+y t15_1 t27_14 0.163685333 -1
+
+s delay_t19_2_t24_5 75.0 -1
+y t19_2 delay_t19_2_t24_5 0.2528425 -1
+y delay_t19_2_t24_5 t24_5 1.0 -1
+
+y t25_37 t28_9 0.146763421 -1
+
+y t25_12 t28_9 0.146763421 -1
+
+s delay_t19_3_t23_24 150.0 -1
+y t19_3 delay_t19_3_t23_24 0.095830938 -1
+y delay_t19_3_t23_24 t23_24 1.0 -1
+
+s delay_t04_t07 150.0 -1
+y t04 delay_t04_t07 3.20368 -1
+y delay_t04_t07 t07 1.0 -1
+
+y t25_9 t28_33 0.146763421 -1
+
+s delay_t21_7_t27_9 75.0 -1
+y t21_7 delay_t21_7_t27_9 0.211286 -1
+y delay_t21_7_t27_9 t27_9 1.0 -1
+
+s delay_t25_14_t28_12 75.0 -1
+y t25_14 delay_t25_14_t28_12 0.146763421 -1
+y delay_t25_14_t28_12 t28_12 1.0 -1
+
+y t25_22 t28_15 0.146763421 -1
+
+y t15_1 t27_10 0.163685333 -1
+
+y t19_2 t25_18 0.115614255 -1
+
+y t25_45 t28_13 0.146763421 -1
+
+y t25_23 t28_30 0.146763421 -1
+
+y t25_25 t28_13 0.146763421 -1
+
+y t25_25 t28_15 0.146763421 -1
+
+s delay_t25_12_t28_32 75.0 -1
+y t25_12 delay_t25_12_t28_32 0.146763421 -1
+y delay_t25_12_t28_32 t28_32 1.0 -1
+
+y t25_17 t28_1 0.146763421 -1
+
+y t25_45 t28_30 0.146763421 -1
+
+s delay_t25_5_t28_2 75.0 -1
+y t25_5 delay_t25_5_t28_2 0.146763421 -1
+y delay_t25_5_t28_2 t28_2 1.0 -1
+
+y t25_47 t28_25 0.146763421 -1
+
+y t07 t15_1 0.448896 -1
+
+y t25_18 t28_12 0.146763421 -1
+
+s delay_t19_2_t24_11 75.0 -1
+y t19_2 delay_t19_2_t24_11 0.2528425 -1
+y delay_t19_2_t24_11 t24_11 1.0 -1
+
+y t15_5 t27_4 0.163685333 -1
+
+y t25_9 t28_3 0.146763421 -1
+
+y t25_3 t28_38 0.146763421 -1
+
+s delay_t25_36_t28_32 75.0 -1
+y t25_36 delay_t25_36_t28_32 0.146763421 -1
+y delay_t25_36_t28_32 t28_32 1.0 -1
+
+y t25_27 t28_21 0.146763421 -1
+
+y t25_33 t28_20 0.146763421 -1
+
+s delay_t25_34_t28_26 75.0 -1
+y t25_34 delay_t25_34_t28_26 0.146763421 -1
+y delay_t25_34_t28_26 t28_26 1.0 -1
+
+y t25_7 t28_25 0.146763421 -1
+
+s delay_t19_2_t23_16 75.0 -1
+y t19_2 delay_t19_2_t23_16 0.095830938 -1
+y delay_t19_2_t23_16 t23_16 1.0 -1
+
+y t25_26 t28_35 0.146763421 -1
+
+y t15_4 t29_7 0.351405714 -1
+
+y t19_2 t25_37 0.115614255 -1
+
+y t25_25 t28_7 0.146763421 -1
+
+y t25_28 t28_30 0.146763421 -1
+
+s delay_t21_7_t27_6 75.0 -1
+y t21_7 delay_t21_7_t27_6 0.211286 -1
+y delay_t21_7_t27_6 t27_6 1.0 -1
+
+y t25_24 t28_15 0.146763421 -1
+
+y t25_16 t28_23 0.146763421 -1
+
+y t25_26 t28_8 0.146763421 -1
+
+y t21_4 t27_15 0.211286 -1
+
+y t25_10 t28_12 0.146763421 -1
+
+y t25_37 t28_24 0.146763421 -1
+
+y t25_19 t28_22 0.146763421 -1
+
+y t15_4 t29_3 0.351405714 -1
+
+y t25_3 t28_10 0.146763421 -1
+
+y t25_38 t28_27 0.146763421 -1
+
+y t25_36 t28_9 0.146763421 -1
+
+y t25_18 t28_3 0.146763421 -1
+
+y t25_38 t28_3 0.146763421 -1
+
+y t25_11 t28_19 0.146763421 -1
+
+y t25_35 t28_20 0.146763421 -1
+
+s delay_t11_t13_2 150.0 -1
+y t11 delay_t11_t13_2 0.697625 -1
+y delay_t11_t13_2 t13_2 1.0 -1
+
+y t25_26 t28_1 0.146763421 -1
+
+y t25_19 t28_5 0.146763421 -1
+
+y t25_41 t28_31 0.146763421 -1
+
+y t19_1 t25_41 0.115614255 -1
+
+y t25_32 t28_30 0.146763421 -1
+
+y t25_32 t28_31 0.146763421 -1
+
+s delay_t19_2_t23_2 75.0 -1
+y t19_2 delay_t19_2_t23_2 0.095830938 -1
+y delay_t19_2_t23_2 t23_2 1.0 -1
+
+y t25_28 t28_35 0.146763421 -1
+
+y t25_42 t28_6 0.146763421 -1
+
+y t25_46 t28_31 0.146763421 -1
+
+s delay_t19_1_t26_6 75.0 -1
+y t19_1 delay_t19_1_t26_6 0.260628333 -1
+y delay_t19_1_t26_6 t26_6 1.0 -1
+
+y t25_11 t28_12 0.146763421 -1
+
+y t25_24 t28_22 0.146763421 -1
+
+y t25_38 t28_4 0.146763421 -1
+
+y t25_18 t28_34 0.146763421 -1
+
+y t25_37 t28_13 0.146763421 -1
+
+y t25_10 t28_4 0.146763421 -1
+
+s delay_t25_47_t28_29 75.0 -1
+y t25_47 delay_t25_47_t28_29 0.146763421 -1
+y delay_t25_47_t28_29 t28_29 1.0 -1
+
+s delay_t19_1_t21_5 75.0 -1
+y t19_1 delay_t19_1_t21_5 0.345151429 -1
+y delay_t19_1_t21_5 t21_5 1.0 -1
+
+y t25_27 t28_38 0.146763421 -1
+
+s delay_t19_1_t23_4 75.0 -1
+y t19_1 delay_t19_1_t23_4 0.095830938 -1
+y delay_t19_1_t23_4 t23_4 1.0 -1
+
+y t25_36 t28_13 0.146763421 -1
+
+s delay_t19_2_t23_15 75.0 -1
+y t19_2 delay_t19_2_t23_15 0.095830938 -1
+y delay_t19_2_t23_15 t23_15 1.0 -1
+
+y t25_41 t28_34 0.146763421 -1
+
+y t25_6 t28_38 0.146763421 -1
+
+y t15_5 t27_9 0.163685333 -1
+
+y t25_32 t28_7 0.146763421 -1
+
+y t25_10 t28_15 0.146763421 -1
+
+y t25_17 t28_18 0.146763421 -1
+
+s delay_t25_18_t28_32 75.0 -1
+y t25_18 delay_t25_18_t28_32 0.146763421 -1
+y delay_t25_18_t28_32 t28_32 1.0 -1
+
+y t25_42 t28_3 0.146763421 -1
+
+y t15_2 t27_14 0.163685333 -1
+
+y t21_5 t27_13 0.211286 -1
+
+y t25_27 t28_28 0.146763421 -1
+
+y t25_5 t28_38 0.146763421 -1
+
+s delay_t25_34_t28_20 75.0 -1
+y t25_34 delay_t25_34_t28_20 0.146763421 -1
+y delay_t25_34_t28_20 t28_20 1.0 -1
+
+y t25_42 t28_12 0.146763421 -1
+
+y t25_7 t28_11 0.146763421 -1
+
+y t25_30 t28_26 0.146763421 -1
+
+y t19_3 t25_15 0.115614255 -1
+
+y t25_45 t28_31 0.146763421 -1
+
+y t25_39 t28_21 0.146763421 -1
+
+s delay_t25_34_t28_38 75.0 -1
+y t25_34 delay_t25_34_t28_38 0.146763421 -1
+y delay_t25_34_t28_38 t28_38 1.0 -1
+
+y t25_44 t28_23 0.146763421 -1
+
+y t21_1 t27_2 0.211286 -1
+
+s delay_t19_3_t23_6 150.0 -1
+y t19_3 delay_t19_3_t23_6 0.095830938 -1
+y delay_t19_3_t23_6 t23_6 1.0 -1
+
+y t25_39 t28_23 0.146763421 -1
+
+y t25_33 t28_25 0.146763421 -1
+
+y t25_12 t28_15 0.146763421 -1
+
+y t25_41 t28_13 0.146763421 -1
+
+y t25_35 t28_4 0.146763421 -1
+
+y t25_25 t28_33 0.146763421 -1
+
+y t25_6 t28_36 0.146763421 -1
+
+y t25_15 t28_20 0.146763421 -1
+
+y t25_10 t28_1 0.146763421 -1
+
+y t02 t27_14 0.078314667 -1
+
+s delay_t25_28_t28_29 75.0 -1
+y t25_28 delay_t25_28_t28_29 0.146763421 -1
+y delay_t25_28_t28_29 t28_29 1.0 -1
+
+y t25_27 t28_27 0.146763421 -1
+
+y t25_42 t28_4 0.146763421 -1
+
+y t25_1 t28_31 0.146763421 -1
+
+y t19_3 t23_10 0.095830938 -1
+
+y t15_1 t29_7 0.351405714 -1
+
+y t25_11 t28_13 0.146763421 -1
+
+y t25_27 t28_24 0.146763421 -1
+
+y t25_45 t28_25 0.146763421 -1
+
+y t25_12 t28_27 0.146763421 -1
+
+y t25_47 t28_4 0.146763421 -1
+
+y t25_23 t28_25 0.146763421 -1
+
+y t25_3 t28_9 0.146763421 -1
+
+y t25_6 t28_3 0.146763421 -1
+
+y t19_2 t25_25 0.115614255 -1
+
+s delay_t25_34_t28_14 75.0 -1
+y t25_34 delay_t25_34_t28_14 0.146763421 -1
+y delay_t25_34_t28_14 t28_14 1.0 -1
+
+y t25_39 t28_1 0.146763421 -1
+
+y t02 t27_1 0.078314667 -1
+
+y t25_15 t28_37 0.146763421 -1
+
+y t25_25 t28_35 0.146763421 -1
+
+y t25_12 t28_28 0.146763421 -1
+
+y t25_23 t28_37 0.146763421 -1
+
+y t25_41 t28_18 0.146763421 -1
+
+s delay_t25_14_t28_14 75.0 -1
+y t25_14 delay_t25_14_t28_14 0.146763421 -1
+y delay_t25_14_t28_14 t28_14 1.0 -1
+
+y t25_47 t28_8 0.146763421 -1
+
+s delay_t25_17_t28_32 75.0 -1
+y t25_17 delay_t25_17_t28_32 0.146763421 -1
+y delay_t25_17_t28_32 t28_32 1.0 -1
+
+y t25_17 t28_17 0.146763421 -1
+
+y t21_2 t27_14 0.211286 -1
+
+y t21_4 t27_5 0.211286 -1
+
+y t25_23 t28_20 0.146763421 -1
+
+y t19_1 t25_10 0.115614255 -1
+
+y t25_9 t28_10 0.146763421 -1
+
+s delay_t25_34_t28_28 75.0 -1
+y t25_34 delay_t25_34_t28_28 0.146763421 -1
+y delay_t25_34_t28_28 t28_28 1.0 -1
+
+y t25_35 t28_19 0.146763421 -1
+
+y t25_5 t28_18 0.146763421 -1
+
+y t25_8 t28_18 0.146763421 -1
+
+y t25_21 t28_8 0.146763421 -1
+
+y t21_4 t27_14 0.211286 -1
+
+y t25_43 t28_24 0.146763421 -1
+
+y t15_3 t27_6 0.163685333 -1
+
+s delay_t25_2_t28_38 75.0 -1
+y t25_2 delay_t25_2_t28_38 0.146763421 -1
+y delay_t25_2_t28_38 t28_38 1.0 -1
+
+y t04 t08_1 1.4268 -1
+
+y t25_1 t28_13 0.146763421 -1
+
+y t25_24 t28_30 0.146763421 -1
+
+y t25_25 t28_10 0.146763421 -1
+
+y t15_4 t27_3 0.163685333 -1
+
+y t25_28 t28_18 0.146763421 -1
+
+y t25_44 t28_27 0.146763421 -1
+
+y t25_9 t28_30 0.146763421 -1
+
+s delay_t25_34_t28_12 75.0 -1
+y t25_34 delay_t25_34_t28_12 0.146763421 -1
+y delay_t25_34_t28_12 t28_12 1.0 -1
+
+y t15_4 t27_10 0.163685333 -1
+
+s delay_t25_13_t28_32 75.0 -1
+y t25_13 delay_t25_13_t28_32 0.146763421 -1
+y delay_t25_13_t28_32 t28_32 1.0 -1
+
+y t25_13 t28_13 0.146763421 -1
+
+y t21_6 t27_7 0.211286 -1
+
+s delay_t19_3_t23_13 150.0 -1
+y t19_3 delay_t19_3_t23_13 0.095830938 -1
+y delay_t19_3_t23_13 t23_13 1.0 -1
+
+s delay_t25_14_t28_18 75.0 -1
+y t25_14 delay_t25_14_t28_18 0.146763421 -1
+y delay_t25_14_t28_18 t28_18 1.0 -1
+
+y t25_39 t28_27 0.146763421 -1
+
+y t25_41 t28_9 0.146763421 -1
+
+y t25_41 t28_37 0.146763421 -1
+
+y t25_37 t28_10 0.146763421 -1
+
+y t25_24 t28_7 0.146763421 -1
+
+y t25_31 t28_7 0.146763421 -1
+
+y t15_3 t29_2 0.351405714 -1
+
+s delay_t19_2_t21_3 75.0 -1
+y t19_2 delay_t19_2_t21_3 0.345151429 -1
+y delay_t19_2_t21_3 t21_3 1.0 -1
+
+y t25_41 t28_14 0.146763421 -1
+
+s delay_t25_20_t28_9 75.0 -1
+y t25_20 delay_t25_20_t28_9 0.146763421 -1
+y delay_t25_20_t28_9 t28_9 1.0 -1
+
+y t25_24 t28_28 0.146763421 -1
+
+s delay_t19_1_t23_31 75.0 -1
+y t19_1 delay_t19_1_t23_31 0.095830938 -1
+y delay_t19_1_t23_31 t23_31 1.0 -1
+
+y t15_1 t27_2 0.163685333 -1
+
+s delay_t25_3_t28_29 75.0 -1
+y t25_3 delay_t25_3_t28_29 0.146763421 -1
+y delay_t25_3_t28_29 t28_29 1.0 -1
+
+y t25_21 t28_10 0.146763421 -1
+
+y t06_2 t11 1.86006 -1
+
+s delay_c00_t02 250.0 -1
+y c00 delay_c00_t02 1.47001 -1
+y delay_c00_t02 t02 1.0 -1
+
+y t21_1 t27_11 0.211286 -1
+
+y t25_6 t28_31 0.146763421 -1
+
+y t25_16 t28_13 0.146763421 -1
+
+y t25_19 t28_16 0.146763421 -1
+
+y t25_10 t28_7 0.146763421 -1
+
+y t25_44 t28_36 0.146763421 -1
+
+s delay_t15_5_t19_2 75.0 -1
+y t15_5 delay_t15_5_t19_2 0.470326667 -1
+y delay_t15_5_t19_2 t19_2 1.0 -1
+
+y t25_8 t28_31 0.146763421 -1
+
+s delay_t25_34_t28_33 75.0 -1
+y t25_34 delay_t25_34_t28_33 0.146763421 -1
+y delay_t25_34_t28_33 t28_33 1.0 -1
+
+y t15_3 t27_10 0.163685333 -1
+
+y t07 t15_5 0.448896 -1
+
+y t25_40 t28_3 0.146763421 -1
+
+y t06_1 t09_2 1.176926667 -1
+
+y t21_6 t27_9 0.211286 -1
+
+y t25_9 t28_1 0.146763421 -1
+
+y t25_37 t28_16 0.146763421 -1
+
+y t21_1 t27_5 0.211286 -1
+
+y t25_26 t28_38 0.146763421 -1
+
+s delay_t19_2_t21_1 75.0 -1
+y t19_2 delay_t19_2_t21_1 0.345151429 -1
+y delay_t19_2_t21_1 t21_1 1.0 -1
+
+y t25_30 t28_6 0.146763421 -1
+
+y t15_3 t29_6 0.351405714 -1
+
+y t25_6 t28_15 0.146763421 -1
+
+y t19_1 t25_19 0.115614255 -1
+
+y t25_38 t28_19 0.146763421 -1
+
+s delay_t22_t29_6 75.0 -1
+y t22 delay_t22_t29_6 0.131776429 -1
+y delay_t22_t29_6 t29_6 1.0 -1
+
+y t15_1 t27_1 0.163685333 -1
+
+s delay_t19_1_t21_3 75.0 -1
+y t19_1 delay_t19_1_t21_3 0.345151429 -1
+y delay_t19_1_t21_3 t21_3 1.0 -1
+
+y t25_10 t28_20 0.146763421 -1
+
+s delay_t25_32_t28_2 75.0 -1
+y t25_32 delay_t25_32_t28_2 0.146763421 -1
+y delay_t25_32_t28_2 t28_2 1.0 -1
+
+y t19_2 t25_41 0.115614255 -1
+
+y t25_13 t28_37 0.146763421 -1
+
+y t25_22 t28_4 0.146763421 -1
+
+y t25_47 t28_36 0.146763421 -1
+
+y t25_22 t28_27 0.146763421 -1
+
+y t25_15 t28_35 0.146763421 -1
+
+y t25_26 t28_11 0.146763421 -1
+
+y t25_37 t28_37 0.146763421 -1
+
+y t25_35 t28_28 0.146763421 -1
+
+y t25_12 t28_30 0.146763421 -1
+
+y t25_3 t28_30 0.146763421 -1
+
+y t25_7 t28_13 0.146763421 -1
+
+y t25_21 t28_9 0.146763421 -1
+
+y t25_37 t28_7 0.146763421 -1
+
+y t25_26 t28_27 0.146763421 -1
+
+y t25_4 t28_4 0.146763421 -1
+
+s delay_t25_15_t28_29 75.0 -1
+y t25_15 delay_t25_15_t28_29 0.146763421 -1
+y delay_t25_15_t28_29 t28_29 1.0 -1
+
+y t25_16 t28_22 0.146763421 -1
+
+y t25_24 t28_21 0.146763421 -1
+
+y t25_1 t28_27 0.146763421 -1
+
+s delay_t25_4_t28_2 75.0 -1
+y t25_4 delay_t25_4_t28_2 0.146763421 -1
+y delay_t25_4_t28_2 t28_2 1.0 -1
+
+y t19_1 t25_37 0.115614255 -1
+
+y t25_3 t28_17 0.146763421 -1
+
+y t19_2 t25_39 0.115614255 -1
+
+s delay_t11_t13_1 150.0 -1
+y t11 delay_t11_t13_1 0.697625 -1
+y delay_t11_t13_1 t13_1 1.0 -1
+
+y t15_1 t27_6 0.163685333 -1
+
+s delay_t25_41_t28_29 75.0 -1
+y t25_41 delay_t25_41_t28_29 0.146763421 -1
+y delay_t25_41_t28_29 t28_29 1.0 -1
+
+y t25_38 t28_18 0.146763421 -1
+
+y t25_26 t28_7 0.146763421 -1
+
+y t25_16 t28_21 0.146763421 -1
+
+y t25_4 t28_1 0.146763421 -1
+
+y t19_2 t25_13 0.115614255 -1
+
+y t15_2 t27_7 0.163685333 -1
+
+y t25_13 t28_25 0.146763421 -1
+
+y t25_17 t28_13 0.146763421 -1
+
+s delay_t25_40_t28_2 75.0 -1
+y t25_40 delay_t25_40_t28_2 0.146763421 -1
+y delay_t25_40_t28_2 t28_2 1.0 -1
+
+y t25_8 t28_15 0.146763421 -1
+
+y t15_5 t27_8 0.163685333 -1
+
+s delay_t25_7_t28_32 75.0 -1
+y t25_7 delay_t25_7_t28_32 0.146763421 -1
+y delay_t25_7_t28_32 t28_32 1.0 -1
+
+s delay_t25_20_t28_23 75.0 -1
+y t25_20 delay_t25_20_t28_23 0.146763421 -1
+y delay_t25_20_t28_23 t28_23 1.0 -1
+
+y t25_31 t28_33 0.146763421 -1
+
+y t25_43 t28_18 0.146763421 -1
+
+s delay_t25_11_t28_29 75.0 -1
+y t25_11 delay_t25_11_t28_29 0.146763421 -1
+y delay_t25_11_t28_29 t28_29 1.0 -1
+
+y t25_25 t28_11 0.146763421 -1
+
+y t25_25 t28_21 0.146763421 -1
+
+y t25_30 t28_17 0.146763421 -1
+
+y t19_1 t21_7 0.345151429 -1
+
+y t25_41 t28_33 0.146763421 -1
+
+y t25_37 t28_8 0.146763421 -1
+
+y t19_3 t24_10 0.2528425 -1
+
+y t25_13 t28_17 0.146763421 -1
+
+y t25_18 t28_15 0.146763421 -1
+
+y t25_5 t28_15 0.146763421 -1
+
+y t25_31 t28_34 0.146763421 -1
+
+y t25_44 t28_11 0.146763421 -1
+
+y t02 t27_13 0.078314667 -1
+
+y t21_3 t27_7 0.211286 -1
+
+y t25_30 t28_1 0.146763421 -1
+
+y t25_37 t28_36 0.146763421 -1
+
+y t25_46 t28_35 0.146763421 -1
+
+y t25_16 t28_11 0.146763421 -1
+
+y t25_46 t28_9 0.146763421 -1
+
+y t25_29 t28_18 0.146763421 -1
+
+y t25_46 t28_4 0.146763421 -1
+
+y t25_22 t28_17 0.146763421 -1
+
+y t25_38 t28_36 0.146763421 -1
+
+y t25_6 t28_13 0.146763421 -1
+
+y t25_9 t28_5 0.146763421 -1
+
+y t25_25 t28_30 0.146763421 -1
+
+y t19_3 t25_40 0.115614255 -1
+
+y t25_16 t28_17 0.146763421 -1
+
+y t25_18 t28_10 0.146763421 -1
+
+y t25_42 t28_11 0.146763421 -1
+
+y t07 t15_3 0.448896 -1
+
+y t19_1 t25_24 0.115614255 -1
+
+s delay_t25_32_t28_32 75.0 -1
+y t25_32 delay_t25_32_t28_32 0.146763421 -1
+y delay_t25_32_t28_32 t28_32 1.0 -1
+
+y t25_17 t28_16 0.146763421 -1
+
+y t25_26 t28_26 0.146763421 -1
+
+y t25_15 t28_14 0.146763421 -1
+
+y t25_17 t28_9 0.146763421 -1
+
+s delay_t25_18_t28_2 75.0 -1
+y t25_18 delay_t25_18_t28_2 0.146763421 -1
+y delay_t25_18_t28_2 t28_2 1.0 -1
+
+y t25_6 t28_34 0.146763421 -1
+
+y t25_47 t28_21 0.146763421 -1
+
+y t19_2 t24_4 0.2528425 -1
+
+y t25_38 t28_15 0.146763421 -1
+
+s delay_t19_3_t23_32 150.0 -1
+y t19_3 delay_t19_3_t23_32 0.095830938 -1
+y delay_t19_3_t23_32 t23_32 1.0 -1
+
+y t25_24 t28_9 0.146763421 -1
+
+y t25_42 t28_1 0.146763421 -1
+
+y t25_46 t28_37 0.146763421 -1
+
+s delay_t19_1_t21_2 75.0 -1
+y t19_1 delay_t19_1_t21_2 0.345151429 -1
+y delay_t19_1_t21_2 t21_2 1.0 -1
+
+y t25_36 t28_4 0.146763421 -1
+
+y t25_8 t28_9 0.146763421 -1
+
+y t25_15 t28_33 0.146763421 -1
+
+y t25_20 t28_32 0.146763421 -1
+
+s delay_t25_44_t28_2 75.0 -1
+y t25_44 delay_t25_44_t28_2 0.146763421 -1
+y delay_t25_44_t28_2 t28_2 1.0 -1
+
+s delay_t19_2_t23_12 75.0 -1
+y t19_2 delay_t19_2_t23_12 0.095830938 -1
+y delay_t19_2_t23_12 t23_12 1.0 -1
+
+y t21_4 t27_10 0.211286 -1
+
+s delay_t19_1_t24_12 75.0 -1
+y t19_1 delay_t19_1_t24_12 0.2528425 -1
+y delay_t19_1_t24_12 t24_12 1.0 -1
+
+y t25_24 t28_38 0.146763421 -1
+
+s delay_t19_2_t26_3 75.0 -1
+y t19_2 delay_t19_2_t26_3 0.260628333 -1
+y delay_t19_2_t26_3 t26_3 1.0 -1
+
+s delay_t25_34_t28_1 75.0 -1
+y t25_34 delay_t25_34_t28_1 0.146763421 -1
+y delay_t25_34_t28_1 t28_1 1.0 -1
+
+y t25_44 t28_7 0.146763421 -1
+
+y t21_5 t27_1 0.211286 -1
+
+y t25_6 t28_20 0.146763421 -1
+
+y t25_31 t28_9 0.146763421 -1
+
+y t25_31 t28_12 0.146763421 -1
+
+y t25_38 t28_31 0.146763421 -1
+
+y t25_35 t28_16 0.146763421 -1
+
+y t25_44 t28_16 0.146763421 -1
+
+y t15_1 t29_3 0.351405714 -1
+
+s delay_t25_2_t28_6 75.0 -1
+y t25_2 delay_t25_2_t28_6 0.146763421 -1
+y delay_t25_2_t28_6 t28_6 1.0 -1
+
+y t25_13 t28_21 0.146763421 -1
+
+y t25_24 t28_4 0.146763421 -1
+
+y t25_40 t28_27 0.146763421 -1
+
+s delay_t25_15_t28_2 75.0 -1
+y t25_15 delay_t25_15_t28_2 0.146763421 -1
+y delay_t25_15_t28_2 t28_2 1.0 -1
+
+y t25_33 t28_19 0.146763421 -1
+
+s delay_t25_20_t28_30 75.0 -1
+y t25_20 delay_t25_20_t28_30 0.146763421 -1
+y delay_t25_20_t28_30 t28_30 1.0 -1
+
+y t19_3 t23_9 0.095830938 -1
+
+y t25_27 t28_37 0.146763421 -1
+
+y t25_36 t28_37 0.146763421 -1
+
+y t25_13 t28_16 0.146763421 -1
+
+y t25_3 t28_4 0.146763421 -1
+
+y t25_27 t28_15 0.146763421 -1
+
+y t21_1 t27_15 0.211286 -1
+
+y t25_24 t28_10 0.146763421 -1
+
+y t25_1 t28_12 0.146763421 -1
+
+y t25_32 t28_20 0.146763421 -1
+
+y t25_41 t28_12 0.146763421 -1
+
+y t19_1 t23_10 0.095830938 -1
+
+y t25_35 t28_30 0.146763421 -1
+
+y t25_3 t28_19 0.146763421 -1
+
+y t25_24 t28_26 0.146763421 -1
+
+y t25_26 t28_30 0.146763421 -1
+
+y t15_1 t27_4 0.163685333 -1
+
+s delay_t19_1_t23_20 75.0 -1
+y t19_1 delay_t19_1_t23_20 0.095830938 -1
+y delay_t19_1_t23_20 t23_20 1.0 -1
+
+y t21_4 t27_3 0.211286 -1
+
+s delay_t06_2_t09_3 75.0 -1
+y t06_2 delay_t06_2_t09_3 1.176926667 -1
+y delay_t06_2_t09_3 t09_3 1.0 -1
+
+y t25_40 t28_21 0.146763421 -1
+
+y t25_47 t28_14 0.146763421 -1
+
+y t25_16 t28_31 0.146763421 -1
+
+s delay_t25_2_t28_25 75.0 -1
+y t25_2 delay_t25_2_t28_25 0.146763421 -1
+y delay_t25_2_t28_25 t28_25 1.0 -1
+
+s delay_t25_13_t28_29 75.0 -1
+y t25_13 delay_t25_13_t28_29 0.146763421 -1
+y delay_t25_13_t28_29 t28_29 1.0 -1
+
+y t25_44 t28_34 0.146763421 -1
+
+y t25_24 t28_31 0.146763421 -1
+
+y t25_35 t28_27 0.146763421 -1
+
+y t25_27 t28_36 0.146763421 -1
+
+y t25_8 t28_16 0.146763421 -1
+
+y t25_16 t28_14 0.146763421 -1
+
+y t25_30 t28_4 0.146763421 -1
+
+y t25_35 t28_35 0.146763421 -1
+
+s delay_t19_1_t23_13 150.0 -1
+y t19_1 delay_t19_1_t23_13 0.095830938 -1
+y delay_t19_1_t23_13 t23_13 1.0 -1
+
+y t25_8 t28_37 0.146763421 -1
+
+y t21_6 t27_6 0.211286 -1
+
+y t25_3 t28_11 0.146763421 -1
+
+y t25_47 t28_22 0.146763421 -1
+
+s delay_t19_3_t24_12 75.0 -1
+y t19_3 delay_t19_3_t24_12 0.2528425 -1
+y delay_t19_3_t24_12 t24_12 1.0 -1
+
+y t21_3 t27_10 0.211286 -1
+
+y t25_31 t28_10 0.146763421 -1
+
+y t25_38 t28_21 0.146763421 -1
+
+y t25_19 t28_12 0.146763421 -1
+
+y t25_4 t28_25 0.146763421 -1
+
+y t25_21 t28_6 0.146763421 -1
+
+y t25_44 t28_20 0.146763421 -1
+
+s delay_t19_2_t23_26 75.0 -1
+y t19_2 delay_t19_2_t23_26 0.095830938 -1
+y delay_t19_2_t23_26 t23_26 1.0 -1
+
+y t25_15 t28_12 0.146763421 -1
+
+y t25_4 t28_38 0.146763421 -1
+
+y t25_7 t28_27 0.146763421 -1
+
+s delay_t25_14_t28_3 75.0 -1
+y t25_14 delay_t25_14_t28_3 0.146763421 -1
+y delay_t25_14_t28_3 t28_3 1.0 -1
+
+y t25_16 t28_37 0.146763421 -1
+
+y t25_31 t28_21 0.146763421 -1
+
+s delay_t19_2_t23_7 75.0 -1
+y t19_2 delay_t19_2_t23_7 0.095830938 -1
+y delay_t19_2_t23_7 t23_7 1.0 -1
+
+y t25_13 t28_20 0.146763421 -1
+
+y t25_13 t28_38 0.146763421 -1
+
+y t25_25 t28_24 0.146763421 -1
+
+s delay_t25_9_t28_2 75.0 -1
+y t25_9 delay_t25_9_t28_2 0.146763421 -1
+y delay_t25_9_t28_2 t28_2 1.0 -1
+
+y t25_21 t28_14 0.146763421 -1
+
+y t25_47 t28_6 0.146763421 -1
+
+y t25_29 t28_20 0.146763421 -1
+
+y t25_44 t28_9 0.146763421 -1
+
+y t25_47 t28_27 0.146763421 -1
+
+s delay_t25_20_t28_33 75.0 -1
+y t25_20 delay_t25_20_t28_33 0.146763421 -1
+y delay_t25_20_t28_33 t28_33 1.0 -1
+
+y t25_32 t28_13 0.146763421 -1
+
+s delay_t25_33_t28_29 75.0 -1
+y t25_33 delay_t25_33_t28_29 0.146763421 -1
+y delay_t25_33_t28_29 t28_29 1.0 -1
+
+y t15_2 t27_1 0.163685333 -1
+
+y t25_4 t28_37 0.146763421 -1
+
+y t25_3 t28_23 0.146763421 -1
+
+y t25_43 t28_6 0.146763421 -1
+
+y t25_1 t28_38 0.146763421 -1
+
+y t25_17 t28_27 0.146763421 -1
+
+y t25_42 t28_8 0.146763421 -1
+
+y t25_47 t28_18 0.146763421 -1
+
+y t25_11 t28_11 0.146763421 -1
+
+y t25_21 t28_24 0.146763421 -1
+
+y t21_4 t27_11 0.211286 -1
+
+y t25_4 t28_21 0.146763421 -1
+
+y t25_36 t28_11 0.146763421 -1
+
+y t25_40 t28_31 0.146763421 -1
+
+y t11 t14_3 0.8389425 -1
+
+y t19_2 t25_21 0.115614255 -1
+
+y t25_4 t28_6 0.146763421 -1
+
+y t25_45 t28_6 0.146763421 -1
+
+s delay_t25_22_t28_2 75.0 -1
+y t25_22 delay_t25_22_t28_2 0.146763421 -1
+y delay_t25_22_t28_2 t28_2 1.0 -1
+
+s delay_t19_2_t25_20 75.0 -1
+y t19_2 delay_t19_2_t25_20 0.115614255 -1
+y delay_t19_2_t25_20 t25_20 1.0 -1
+
+y t25_25 t28_19 0.146763421 -1
+
+s delay_t25_13_t28_2 75.0 -1
+y t25_13 delay_t25_13_t28_2 0.146763421 -1
+y delay_t25_13_t28_2 t28_2 1.0 -1
+
+y t25_29 t28_22 0.146763421 -1
+
+y t19_3 t25_19 0.115614255 -1
+
+y t25_31 t28_38 0.146763421 -1
+
+y t19_3 t25_45 0.115614255 -1
+
+s delay_t25_36_t28_2 75.0 -1
+y t25_36 delay_t25_36_t28_2 0.146763421 -1
+y delay_t25_36_t28_2 t28_2 1.0 -1
+
+y t19_2 t25_26 0.115614255 -1
+
+s delay_t19_1_t24_6 75.0 -1
+y t19_1 delay_t19_1_t24_6 0.2528425 -1
+y delay_t19_1_t24_6 t24_6 1.0 -1
+
+y t25_18 t28_8 0.146763421 -1
+
+y t19_2 t25_32 0.115614255 -1
+
+y t25_11 t28_14 0.146763421 -1
+
+y t25_7 t28_15 0.146763421 -1
+
+y t15_5 t27_2 0.163685333 -1
+
+y t25_21 t28_36 0.146763421 -1
+
+y t25_15 t28_9 0.146763421 -1
+
+s delay_t25_20_t28_8 75.0 -1
+y t25_20 delay_t25_20_t28_8 0.146763421 -1
+y delay_t25_20_t28_8 t28_8 1.0 -1
+
+y t25_42 t28_15 0.146763421 -1
+
+y t19_2 t23_8 0.095830938 -1
+
+y t25_41 t28_17 0.146763421 -1
+
+y t25_45 t28_23 0.146763421 -1
+
+s delay_t25_33_t28_2 75.0 -1
+y t25_33 delay_t25_33_t28_2 0.146763421 -1
+y delay_t25_33_t28_2 t28_2 1.0 -1
+
+y t07 t08_2 0.7624 -1
+
+s delay_t22_t29_7 75.0 -1
+y t22 delay_t22_t29_7 0.131776429 -1
+y delay_t22_t29_7 t29_7 1.0 -1
+
+y t15_5 t29_4 0.351405714 -1
+
+s delay_t19_2_t21_4 75.0 -1
+y t19_2 delay_t19_2_t21_4 0.345151429 -1
+y delay_t19_2_t21_4 t21_4 1.0 -1
+
+s delay_t25_14_t28_8 75.0 -1
+y t25_14 delay_t25_14_t28_8 0.146763421 -1
+y delay_t25_14_t28_8 t28_8 1.0 -1
+
+y t25_33 t28_12 0.146763421 -1
+
+y t25_11 t28_16 0.146763421 -1
+
+y t19_3 t26_1 0.260628333 -1
+
+s delay_t25_42_t28_29 75.0 -1
+y t25_42 delay_t25_42_t28_29 0.146763421 -1
+y delay_t25_42_t28_29 t28_29 1.0 -1
+
+s delay_t19_1_t21_6 75.0 -1
+y t19_1 delay_t19_1_t21_6 0.345151429 -1
+y delay_t19_1_t21_6 t21_6 1.0 -1
+
+y t25_29 t28_11 0.146763421 -1
+
+s delay_t25_34_t28_35 75.0 -1
+y t25_34 delay_t25_34_t28_35 0.146763421 -1
+y delay_t25_34_t28_35 t28_35 1.0 -1
+
+y t25_33 t28_17 0.146763421 -1
+
+y t25_27 t28_35 0.146763421 -1
+
+y t25_4 t28_30 0.146763421 -1
+
+y t25_6 t28_23 0.146763421 -1
+
+y t25_36 t28_7 0.146763421 -1
+
+y t25_3 t28_22 0.146763421 -1
+
+y t25_46 t28_19 0.146763421 -1
+
+s delay_t06_1_t09_3 75.0 -1
+y t06_1 delay_t06_1_t09_3 1.176926667 -1
+y delay_t06_1_t09_3 t09_3 1.0 -1
+
+y t15_3 t29_3 0.351405714 -1
+
+y t25_3 t28_34 0.146763421 -1
+
+y t25_40 t28_12 0.146763421 -1
+
+y t25_41 t28_28 0.146763421 -1
+
+y t25_9 t28_18 0.146763421 -1
+
+y t25_30 t28_15 0.146763421 -1
+
+y t25_24 t28_35 0.146763421 -1
+
+y t25_12 t28_36 0.146763421 -1
+
+y t25_43 t28_15 0.146763421 -1
+
+y t25_38 t28_16 0.146763421 -1
+
+y t25_16 t28_19 0.146763421 -1
+
+s delay_t25_34_t28_15 75.0 -1
+y t25_34 delay_t25_34_t28_15 0.146763421 -1
+y delay_t25_34_t28_15 t28_15 1.0 -1
+
+y t19_1 t25_31 0.115614255 -1
+
+y t25_5 t28_17 0.146763421 -1
+
+s delay_t15_4_t19_3 75.0 -1
+y t15_4 delay_t15_4_t19_3 0.470326667 -1
+y delay_t15_4_t19_3 t19_3 1.0 -1
+
+y t15_4 t29_5 0.351405714 -1
+
+y t25_13 t28_7 0.146763421 -1
+
+s delay_t25_14_t28_37 75.0 -1
+y t25_14 delay_t25_14_t28_37 0.146763421 -1
+y delay_t25_14_t28_37 t28_37 1.0 -1
+
+y t25_36 t28_5 0.146763421 -1
+
+y t25_46 t28_7 0.146763421 -1
+
+y t25_33 t28_6 0.146763421 -1
+
+y t25_24 t28_5 0.146763421 -1
+
+y t25_43 t28_20 0.146763421 -1
+
+s delay_t25_20_t28_15 75.0 -1
+y t25_20 delay_t25_20_t28_15 0.146763421 -1
+y delay_t25_20_t28_15 t28_15 1.0 -1
+
+s delay_t19_1_t25_14 75.0 -1
+y t19_1 delay_t19_1_t25_14 0.115614255 -1
+y delay_t19_1_t25_14 t25_14 1.0 -1
+
+s delay_t19_3_t23_18 75.0 -1
+y t19_3 delay_t19_3_t23_18 0.095830938 -1
+y delay_t19_3_t23_18 t23_18 1.0 -1
+
+s delay_t19_2_t23_20 75.0 -1
+y t19_2 delay_t19_2_t23_20 0.095830938 -1
+y delay_t19_2_t23_20 t23_20 1.0 -1
+
+y t25_36 t28_36 0.146763421 -1
+
+y t25_32 t28_16 0.146763421 -1
+
+y t15_2 t27_6 0.163685333 -1
+
+y t25_17 t28_25 0.146763421 -1
+
+y t25_35 t28_37 0.146763421 -1
+
+y t15_5 t29_1 0.351405714 -1
+
+y t25_3 t28_20 0.146763421 -1
+
+y t19_2 t25_31 0.115614255 -1
+
+y t25_11 t28_4 0.146763421 -1
+
+y t19_3 t25_25 0.115614255 -1
+
+y t25_38 t28_26 0.146763421 -1
+
+y t15_2 t29_4 0.351405714 -1
+
+y t25_41 t28_20 0.146763421 -1
+
+s delay_t19_2_t23_25 150.0 -1
+y t19_2 delay_t19_2_t23_25 0.095830938 -1
+y delay_t19_2_t23_25 t23_25 1.0 -1
+
+s delay_t25_14_t28_19 75.0 -1
+y t25_14 delay_t25_14_t28_19 0.146763421 -1
+y delay_t25_14_t28_19 t28_19 1.0 -1
+
+y t25_33 t28_7 0.146763421 -1
+
+y t25_3 t28_31 0.146763421 -1
+
+y t25_17 t28_7 0.146763421 -1
+
+y t25_32 t28_5 0.146763421 -1
+
+y t02 t27_8 0.078314667 -1
+
+y t25_45 t28_11 0.146763421 -1
+
+y t25_13 t28_26 0.146763421 -1
+
+y t25_1 t28_18 0.146763421 -1
+
+y t25_19 t28_26 0.146763421 -1
+
+y t25_9 t28_8 0.146763421 -1
+
+y t25_16 t28_34 0.146763421 -1
+
+s delay_t22_t29_3 75.0 -1
+y t22 delay_t22_t29_3 0.131776429 -1
+y delay_t22_t29_3 t29_3 1.0 -1
+
+s delay_t25_2_t28_4 75.0 -1
+y t25_2 delay_t25_2_t28_4 0.146763421 -1
+y delay_t25_2_t28_4 t28_4 1.0 -1
+
+y t25_40 t28_23 0.146763421 -1
+
+y t19_1 t23_8 0.095830938 -1
+
+y t25_3 t28_21 0.146763421 -1
+
+y t25_42 t28_9 0.146763421 -1
+
+s delay_t15_5_t19_1 75.0 -1
+y t15_5 delay_t15_5_t19_1 0.470326667 -1
+y delay_t15_5_t19_1 t19_1 1.0 -1
+
+s delay_t25_14_t28_6 75.0 -1
+y t25_14 delay_t25_14_t28_6 0.146763421 -1
+y delay_t25_14_t28_6 t28_6 1.0 -1
+
+y t25_33 t28_22 0.146763421 -1
+
+y t19_1 t25_35 0.115614255 -1
+
+y t15_4 t27_4 0.163685333 -1
+
+y t25_39 t28_5 0.146763421 -1
+
+s delay_t19_2_t25_34 75.0 -1
+y t19_2 delay_t19_2_t25_34 0.115614255 -1
+y delay_t19_2_t25_34 t25_34 1.0 -1
+
+y t25_20 t28_29 0.146763421 -1
+
+y t25_26 t28_15 0.146763421 -1
+
+s delay_t19_2_t26_6 75.0 -1
+y t19_2 delay_t19_2_t26_6 0.260628333 -1
+y delay_t19_2_t26_6 t26_6 1.0 -1
+
+y t25_4 t28_3 0.146763421 -1
+
+y t25_8 t28_30 0.146763421 -1
+
+y t25_9 t28_11 0.146763421 -1
+
+s delay_t25_4_t28_32 75.0 -1
+y t25_4 delay_t25_4_t28_32 0.146763421 -1
+y delay_t25_4_t28_32 t28_32 1.0 -1
+
+y t25_44 t28_12 0.146763421 -1
+
+s delay_t25_14_t28_7 75.0 -1
+y t25_14 delay_t25_14_t28_7 0.146763421 -1
+y delay_t25_14_t28_7 t28_7 1.0 -1
+
+y t25_13 t28_9 0.146763421 -1
+
+y t25_28 t28_23 0.146763421 -1
+
+y t25_7 t28_6 0.146763421 -1
+
+y t15_4 t29_2 0.351405714 -1
+
+y t25_42 t28_20 0.146763421 -1
+
+y t25_29 t28_3 0.146763421 -1
+
+y t21_6 t27_11 0.211286 -1
+
+y t25_41 t28_11 0.146763421 -1
+
+y t25_37 t28_17 0.146763421 -1
+
+y t25_39 t28_34 0.146763421 -1
+
+y t19_1 t25_47 0.115614255 -1
+
+y t25_36 t28_26 0.146763421 -1
+
+y t25_22 t28_5 0.146763421 -1
+
+y t25_29 t28_24 0.146763421 -1
+
+y t25_44 t28_31 0.146763421 -1
+
+y t25_34 t28_2 0.146763421 -1
+
+y t25_8 t28_19 0.146763421 -1
+
+y t25_11 t28_20 0.146763421 -1
+
+s delay_t19_1_t23_22 75.0 -1
+y t19_1 delay_t19_1_t23_22 0.095830938 -1
+y delay_t19_1_t23_22 t23_22 1.0 -1
+
+y t19_1 t25_28 0.115614255 -1
+
+s delay_t25_16_t28_29 75.0 -1
+y t25_16 delay_t25_16_t28_29 0.146763421 -1
+y delay_t25_16_t28_29 t28_29 1.0 -1
+
+y t25_10 t28_5 0.146763421 -1
+
+y t15_1 t29_2 0.351405714 -1
+
+y t25_18 t28_30 0.146763421 -1
+
+y t25_37 t28_25 0.146763421 -1
+
+y t25_7 t28_1 0.146763421 -1
+
+y t25_33 t28_37 0.146763421 -1
+
+y t25_22 t28_12 0.146763421 -1
+
+s delay_t19_1_t24_11 75.0 -1
+y t19_1 delay_t19_1_t24_11 0.2528425 -1
+y delay_t19_1_t24_11 t24_11 1.0 -1
+
+y t25_29 t28_1 0.146763421 -1
+
+y t25_46 t28_33 0.146763421 -1
+
+y t25_26 t28_22 0.146763421 -1
+
+y t25_36 t28_15 0.146763421 -1
+
+y t25_23 t28_27 0.146763421 -1
+
+y t25_7 t28_30 0.146763421 -1
+
+y t25_46 t28_12 0.146763421 -1
+
+s delay_t25_2_t28_10 75.0 -1
+y t25_2 delay_t25_2_t28_10 0.146763421 -1
+y delay_t25_2_t28_10 t28_10 1.0 -1
+
+y t25_37 t28_34 0.146763421 -1
+
+s delay_t25_34_t28_27 75.0 -1
+y t25_34 delay_t25_34_t28_27 0.146763421 -1
+y delay_t25_34_t28_27 t28_27 1.0 -1
+
+y t25_30 t28_31 0.146763421 -1
+
+y t25_41 t28_23 0.146763421 -1
+
+y t19_1 t25_11 0.115614255 -1
+
+y t25_9 t28_6 0.146763421 -1
+
+y t25_9 t28_15 0.146763421 -1
+
+y t25_40 t28_1 0.146763421 -1
+
+y t19_1 t24_3 0.2528425 -1
+
+y t15_4 t27_14 0.163685333 -1
+
+y t25_29 t28_6 0.146763421 -1
+
+y t25_7 t28_22 0.146763421 -1
+
+y t25_19 t28_20 0.146763421 -1
+
+y t25_28 t28_1 0.146763421 -1
+
+y t25_16 t28_16 0.146763421 -1
+
+y t25_30 t28_9 0.146763421 -1
+
+y t25_3 t28_27 0.146763421 -1
+
+y t19_1 t22 0.525057 -1
+
+y t19_1 t25_1 0.115614255 -1
+
+y t25_8 t28_34 0.146763421 -1
+
+y t25_17 t28_38 0.146763421 -1
+
+y t25_21 t28_19 0.146763421 -1
+
+y t19_3 t25_24 0.115614255 -1
+
+y t25_22 t28_23 0.146763421 -1
+
+y t25_45 t28_10 0.146763421 -1
+
+y t21_2 t27_6 0.211286 -1
+
+s delay_t25_34_t28_30 75.0 -1
+y t25_34 delay_t25_34_t28_30 0.146763421 -1
+y delay_t25_34_t28_30 t28_30 1.0 -1
+
+y t25_6 t28_26 0.146763421 -1
+
+y t25_3 t28_24 0.146763421 -1
+
+s delay_t19_3_t24_5 75.0 -1
+y t19_3 delay_t19_3_t24_5 0.2528425 -1
+y delay_t19_3_t24_5 t24_5 1.0 -1
+
+y t25_11 t28_8 0.146763421 -1
+
+y t25_42 t28_18 0.146763421 -1
+
+y t15_4 t27_11 0.163685333 -1
+
+y t25_1 t28_1 0.146763421 -1
+
+y t25_27 t28_34 0.146763421 -1
+
+s delay_t25_11_t28_32 75.0 -1
+y t25_11 delay_t25_11_t28_32 0.146763421 -1
+y delay_t25_11_t28_32 t28_32 1.0 -1
+
+y t25_39 t28_17 0.146763421 -1
+
+y t25_16 t28_9 0.146763421 -1
+
+y t25_45 t28_33 0.146763421 -1
+
+y t25_7 t28_12 0.146763421 -1
+
+y t25_26 t28_19 0.146763421 -1
+
+y t21_6 t27_5 0.211286 -1
+
+y t25_1 t28_21 0.146763421 -1
+
+s delay_t25_8_t28_29 75.0 -1
+y t25_8 delay_t25_8_t28_29 0.146763421 -1
+y delay_t25_8_t28_29 t28_29 1.0 -1
+
+y t25_31 t28_17 0.146763421 -1
+
+y t25_38 t28_35 0.146763421 -1
+
+y t15_3 t29_7 0.351405714 -1
+
+y t15_4 t27_5 0.163685333 -1
+
+s delay_t21_7_t27_1 75.0 -1
+y t21_7 delay_t21_7_t27_1 0.211286 -1
+y delay_t21_7_t27_1 t27_1 1.0 -1
+
+y t25_6 t28_5 0.146763421 -1
+
+y t25_33 t28_30 0.146763421 -1
+
+y t25_40 t28_16 0.146763421 -1
+
+y t19_1 t25_26 0.115614255 -1
+
+y t14_4 t16_3 0.547273333 -1
+
+y t25_25 t28_8 0.146763421 -1
+
+y t25_46 t28_34 0.146763421 -1
+
+y t25_7 t28_36 0.146763421 -1
+
+s delay_t25_11_t28_2 75.0 -1
+y t25_11 delay_t25_11_t28_2 0.146763421 -1
+y delay_t25_11_t28_2 t28_2 1.0 -1
+
+y t25_27 t28_16 0.146763421 -1
+
+s delay_t11_t14_2 150.0 -1
+y t11 delay_t11_t14_2 0.8389425 -1
+y delay_t11_t14_2 t14_2 1.0 -1
+
+y t25_6 t28_37 0.146763421 -1
+
+y t19_2 t25_29 0.115614255 -1
+
+y t25_33 t28_14 0.146763421 -1
+
+s delay_t25_14_t28_24 75.0 -1
+y t25_14 delay_t25_14_t28_24 0.146763421 -1
+y delay_t25_14_t28_24 t28_24 1.0 -1
+
+y t25_33 t28_31 0.146763421 -1
+
+s delay_t25_14_t28_31 75.0 -1
+y t25_14 delay_t25_14_t28_31 0.146763421 -1
+y delay_t25_14_t28_31 t28_31 1.0 -1
+
+y t25_26 t28_9 0.146763421 -1
+
+y t25_39 t28_3 0.146763421 -1
+
+y t25_7 t28_31 0.146763421 -1
+
+y t25_43 t28_38 0.146763421 -1
+
+y t25_15 t28_7 0.146763421 -1
+
+y t25_29 t28_23 0.146763421 -1
+
+y t25_32 t28_34 0.146763421 -1
+
+y t25_38 t28_34 0.146763421 -1
+
+y t21_1 t27_1 0.211286 -1
+
+s delay_t25_14_t28_30 75.0 -1
+y t25_14 delay_t25_14_t28_30 0.146763421 -1
+y delay_t25_14_t28_30 t28_30 1.0 -1
+
+y t25_1 t28_33 0.146763421 -1
+
+s delay_t25_37_t28_2 75.0 -1
+y t25_37 delay_t25_37_t28_2 0.146763421 -1
+y delay_t25_37_t28_2 t28_2 1.0 -1
+
+s delay_t19_3_t23_25 150.0 -1
+y t19_3 delay_t19_3_t23_25 0.095830938 -1
+y delay_t19_3_t23_25 t23_25 1.0 -1
+
+y t25_16 t28_18 0.146763421 -1
+
+y t25_36 t28_14 0.146763421 -1
+
+y t25_22 t28_10 0.146763421 -1
+
+y t25_21 t28_33 0.146763421 -1
+
+s delay_t25_2_t28_27 75.0 -1
+y t25_2 delay_t25_2_t28_27 0.146763421 -1
+y delay_t25_2_t28_27 t28_27 1.0 -1
+
+y t21_1 t27_12 0.211286 -1
+
+y t25_43 t28_28 0.146763421 -1
+
+y t25_3 t28_25 0.146763421 -1
+
+y t25_44 t28_28 0.146763421 -1
+
+y t25_31 t28_18 0.146763421 -1
+
+y t25_39 t28_25 0.146763421 -1
+
+y t25_41 t28_24 0.146763421 -1
+
+y t25_11 t28_31 0.146763421 -1
+
+y t25_21 t28_4 0.146763421 -1
+
+y t25_23 t28_3 0.146763421 -1
+
+y t25_26 t28_33 0.146763421 -1
+
+y t25_15 t28_11 0.146763421 -1
+
+y t25_47 t28_24 0.146763421 -1
+
+y t19_3 t25_10 0.115614255 -1
+
+y t25_15 t28_3 0.146763421 -1
+
+y t19_2 t25_6 0.115614255 -1
+
+y t19_3 t25_28 0.115614255 -1
+
+y t25_40 t28_24 0.146763421 -1
+
+y t25_43 t28_4 0.146763421 -1
+
+s delay_t19_3_t24_6 75.0 -1
+y t19_3 delay_t19_3_t24_6 0.2528425 -1
+y delay_t19_3_t24_6 t24_6 1.0 -1
+
+y t25_19 t28_35 0.146763421 -1
+
+y t25_39 t28_35 0.146763421 -1
+
+y t25_4 t28_12 0.146763421 -1
+
+y t25_43 t28_12 0.146763421 -1
+
+s delay_t25_2_t28_28 75.0 -1
+y t25_2 delay_t25_2_t28_28 0.146763421 -1
+y delay_t25_2_t28_28 t28_28 1.0 -1
+
+y t25_22 t28_14 0.146763421 -1
+
+y t25_16 t28_36 0.146763421 -1
+
+y t25_42 t28_30 0.146763421 -1
+
+y t25_30 t28_30 0.146763421 -1
+
+s delay_t19_1_t23_11 75.0 -1
+y t19_1 delay_t19_1_t23_11 0.095830938 -1
+y delay_t19_1_t23_11 t23_11 1.0 -1
+
+y t25_19 t28_28 0.146763421 -1
+
+y t25_11 t28_23 0.146763421 -1
+
+s delay_t25_20_t28_10 75.0 -1
+y t25_20 delay_t25_20_t28_10 0.146763421 -1
+y delay_t25_20_t28_10 t28_10 1.0 -1
+
+s delay_t25_34_t28_8 75.0 -1
+y t25_34 delay_t25_34_t28_8 0.146763421 -1
+y delay_t25_34_t28_8 t28_8 1.0 -1
+
+y t15_4 t29_4 0.351405714 -1
+
+y t25_19 t28_25 0.146763421 -1
+
+y t25_16 t28_27 0.146763421 -1
+
+y t25_33 t28_21 0.146763421 -1
+
+y t25_47 t28_30 0.146763421 -1
+
+y t25_47 t28_9 0.146763421 -1
+
+s delay_t25_2_t28_35 75.0 -1
+y t25_2 delay_t25_2_t28_35 0.146763421 -1
+y delay_t25_2_t28_35 t28_35 1.0 -1
+
+y t25_11 t28_17 0.146763421 -1
+
+s delay_c00_t01 250.0 -1
+y c00 delay_c00_t01 3.60823 -1
+y delay_c00_t01 t01 1.0 -1
+
+y t25_18 t28_17 0.146763421 -1
+
+y t25_41 t28_30 0.146763421 -1
+
+y t25_12 t28_21 0.146763421 -1
+
+s delay_t25_22_t28_32 75.0 -1
+y t25_22 delay_t25_22_t28_32 0.146763421 -1
+y delay_t25_22_t28_32 t28_32 1.0 -1
+
+y t25_39 t28_14 0.146763421 -1
+
+y t25_35 t28_7 0.146763421 -1
+
+y t25_5 t28_27 0.146763421 -1
+
+y t25_3 t28_15 0.146763421 -1
+
+y t15_3 t27_15 0.163685333 -1
+
+y t25_1 t28_37 0.146763421 -1
+
+y t25_3 t28_6 0.146763421 -1
+
+y t21_5 t27_14 0.211286 -1
+
+y t25_32 t28_21 0.146763421 -1
+
+y t25_43 t28_23 0.146763421 -1
+
+y t25_8 t28_38 0.146763421 -1
+
+y t25_19 t28_33 0.146763421 -1
+
+y t25_31 t28_6 0.146763421 -1
+
+y t25_25 t28_34 0.146763421 -1
+
+y t25_24 t28_23 0.146763421 -1
+
+y t15_2 t29_3 0.351405714 -1
+
+y t19_3 t25_3 0.115614255 -1
+
+y t21_5 t27_3 0.211286 -1
+
+y t25_36 t28_24 0.146763421 -1
+
+s delay_t25_2_t28_8 75.0 -1
+y t25_2 delay_t25_2_t28_8 0.146763421 -1
+y delay_t25_2_t28_8 t28_8 1.0 -1
+
+y t25_13 t28_3 0.146763421 -1
+
+y t25_6 t28_19 0.146763421 -1
+
+y t15_1 t29_5 0.351405714 -1
+
+y t25_39 t28_24 0.146763421 -1
+
+y t07 t15_2 0.448896 -1
+
+y t15_2 t29_6 0.351405714 -1
+
+s delay_t25_9_t28_29 75.0 -1
+y t25_9 delay_t25_9_t28_29 0.146763421 -1
+y delay_t25_9_t28_29 t28_29 1.0 -1
+
+y t02 t27_7 0.078314667 -1
+
+y t15_1 t27_11 0.163685333 -1
+
+s delay_t25_36_t28_29 75.0 -1
+y t25_36 delay_t25_36_t28_29 0.146763421 -1
+y delay_t25_36_t28_29 t28_29 1.0 -1
+
+y t25_41 t28_26 0.146763421 -1
+
+y t25_25 t28_9 0.146763421 -1
+
+s delay_t19_3_t23_4 75.0 -1
+y t19_3 delay_t19_3_t23_4 0.095830938 -1
+y delay_t19_3_t23_4 t23_4 1.0 -1
+
+y t25_11 t28_36 0.146763421 -1
+
+y t25_21 t28_7 0.146763421 -1
+
+s delay_t06_1_t12 75.0 -1
+y t06_1 delay_t06_1_t12 0.265247 -1
+y delay_t06_1_t12 t12 1.0 -1
+
+y t25_36 t28_10 0.146763421 -1
+
+y t19_2 t24_10 0.2528425 -1
+
+y t19_2 t23_9 0.095830938 -1
+
+y t25_25 t28_26 0.146763421 -1
+
+y t25_28 t28_19 0.146763421 -1
+
+y t25_10 t28_36 0.146763421 -1
+
+y t19_2 t25_47 0.115614255 -1
+
+y t25_3 t28_8 0.146763421 -1
+
+y t25_3 t28_14 0.146763421 -1
+
+y t25_45 t28_27 0.146763421 -1
+
+y t25_44 t28_18 0.146763421 -1
+
+y t25_22 t28_6 0.146763421 -1
+
+y t25_36 t28_25 0.146763421 -1
+
+y t15_1 t27_7 0.163685333 -1
+
+y t25_6 t28_6 0.146763421 -1
+
+y t25_18 t28_4 0.146763421 -1
+
+s delay_t25_30_t28_2 75.0 -1
+y t25_30 delay_t25_30_t28_2 0.146763421 -1
+y delay_t25_30_t28_2 t28_2 1.0 -1
+
+y t25_45 t28_3 0.146763421 -1
+
+s delay_t25_14_t28_17 75.0 -1
+y t25_14 delay_t25_14_t28_17 0.146763421 -1
+y delay_t25_14_t28_17 t28_17 1.0 -1
+
+s delay_t19_1_t24_8 75.0 -1
+y t19_1 delay_t19_1_t24_8 0.2528425 -1
+y delay_t19_1_t24_8 t24_8 1.0 -1
+
+y t25_6 t28_7 0.146763421 -1
+
+y t25_12 t28_33 0.146763421 -1
+
+s delay_t25_2_t28_7 75.0 -1
+y t25_2 delay_t25_2_t28_7 0.146763421 -1
+y delay_t25_2_t28_7 t28_7 1.0 -1
+
+y t25_13 t28_15 0.146763421 -1
+
+y t25_21 t28_35 0.146763421 -1
+
+y t25_17 t28_15 0.146763421 -1
+
+y t25_18 t28_26 0.146763421 -1
+
+y t25_11 t28_37 0.146763421 -1
+
+y t25_15 t28_25 0.146763421 -1
+
+y t25_1 t28_30 0.146763421 -1
+
+y t25_23 t28_7 0.146763421 -1
+
+y t25_32 t28_9 0.146763421 -1
+
+s delay_t25_20_t28_38 75.0 -1
+y t25_20 delay_t25_20_t28_38 0.146763421 -1
+y delay_t25_20_t28_38 t28_38 1.0 -1
+
+y t25_30 t28_10 0.146763421 -1
+
+y t25_10 t28_28 0.146763421 -1
+
+y t25_22 t28_20 0.146763421 -1
+
+y t25_21 t28_5 0.146763421 -1
+
+s delay_t19_3_t23_15 75.0 -1
+y t19_3 delay_t19_3_t23_15 0.095830938 -1
+y delay_t19_3_t23_15 t23_15 1.0 -1
+
+y t25_17 t28_21 0.146763421 -1
+
+s delay_t25_2_t28_30 75.0 -1
+y t25_2 delay_t25_2_t28_30 0.146763421 -1
+y delay_t25_2_t28_30 t28_30 1.0 -1
+
+s delay_t25_34_t28_9 75.0 -1
+y t25_34 delay_t25_34_t28_9 0.146763421 -1
+y delay_t25_34_t28_9 t28_9 1.0 -1
+
+y t25_25 t28_16 0.146763421 -1
+
+y t25_13 t28_23 0.146763421 -1
+
+y t19_2 t25_24 0.115614255 -1
+
+y t25_5 t28_7 0.146763421 -1
+
+y t21_2 t27_4 0.211286 -1
+
+s delay_t25_6_t28_2 75.0 -1
+y t25_6 delay_t25_6_t28_2 0.146763421 -1
+y delay_t25_6_t28_2 t28_2 1.0 -1
+
+y t25_9 t28_24 0.146763421 -1
+
+y t19_1 t25_18 0.115614255 -1
+
+y t21_4 t27_2 0.211286 -1
+
+y t25_1 t28_22 0.146763421 -1
+
+y t25_35 t28_18 0.146763421 -1
+
+y t15_2 t27_13 0.163685333 -1
+
+y t25_30 t28_36 0.146763421 -1
+
+y t25_32 t28_12 0.146763421 -1
+
+y t25_35 t28_9 0.146763421 -1
+
+s delay_t25_14_t28_10 75.0 -1
+y t25_14 delay_t25_14_t28_10 0.146763421 -1
+y delay_t25_14_t28_10 t28_10 1.0 -1
+
+y t25_28 t28_25 0.146763421 -1
+
+y t25_42 t28_5 0.146763421 -1
+
+y t19_3 t25_21 0.115614255 -1
+
+y t15_1 t27_15 0.163685333 -1
+
+s delay_t19_1_t26_5 75.0 -1
+y t19_1 delay_t19_1_t26_5 0.260628333 -1
+y delay_t19_1_t26_5 t26_5 1.0 -1
+
+y t21_2 t27_15 0.211286 -1
+
+s delay_t19_1_t23_5 150.0 -1
+y t19_1 delay_t19_1_t23_5 0.095830938 -1
+y delay_t19_1_t23_5 t23_5 1.0 -1
+
+y t25_24 t28_20 0.146763421 -1
+
+y t25_24 t28_24 0.146763421 -1
+
+y t04 t06_2 0.8865 -1
+
+y t25_38 t28_8 0.146763421 -1
+
+y t15_2 t27_2 0.163685333 -1
+
+y t25_6 t28_8 0.146763421 -1
+
+y t25_19 t28_21 0.146763421 -1
+
+y t25_40 t28_19 0.146763421 -1
+
+y t13_2 t18 2.69501 -1
+
+s delay_t25_14_t28_13 75.0 -1
+y t25_14 delay_t25_14_t28_13 0.146763421 -1
+y delay_t25_14_t28_13 t28_13 1.0 -1
+
+s delay_t19_2_t26_5 75.0 -1
+y t19_2 delay_t19_2_t26_5 0.260628333 -1
+y delay_t19_2_t26_5 t26_5 1.0 -1
+
+y t25_22 t28_38 0.146763421 -1
+
+y t25_16 t28_6 0.146763421 -1
+
+y t25_45 t28_20 0.146763421 -1
+
+s delay_t19_3_t23_11 75.0 -1
+y t19_3 delay_t19_3_t23_11 0.095830938 -1
+y delay_t19_3_t23_11 t23_11 1.0 -1
+
+y t25_15 t28_17 0.146763421 -1
+
+y t25_6 t28_33 0.146763421 -1
+
+y t25_7 t28_26 0.146763421 -1
+
+y t25_17 t28_28 0.146763421 -1
+
+y t06_2 t09_2 1.176926667 -1
+
+y t25_1 t28_4 0.146763421 -1
+
+y t25_36 t28_38 0.146763421 -1
+
+y t25_8 t28_33 0.146763421 -1
+
+y t25_6 t28_1 0.146763421 -1
+
+y t25_17 t28_34 0.146763421 -1
+
+y t25_8 t28_35 0.146763421 -1
+
+y t25_18 t28_33 0.146763421 -1
+
+y t25_46 t28_8 0.146763421 -1
+
+y t25_46 t28_24 0.146763421 -1
+
+y t25_36 t28_28 0.146763421 -1
+
+y t15_1 t29_6 0.351405714 -1
+
+y t25_11 t28_30 0.146763421 -1
+
+s delay_t19_3_t23_12 75.0 -1
+y t19_3 delay_t19_3_t23_12 0.095830938 -1
+y delay_t19_3_t23_12 t23_12 1.0 -1
+
+y t25_2 t28_32 0.146763421 -1
+
+s delay_t19_3_t26_3 75.0 -1
+y t19_3 delay_t19_3_t26_3 0.260628333 -1
+y delay_t19_3_t26_3 t26_3 1.0 -1
+
+y t25_30 t28_23 0.146763421 -1
+
+y t25_19 t28_34 0.146763421 -1
+
+y t25_4 t28_18 0.146763421 -1
+
+y t25_26 t28_20 0.146763421 -1
+
+s delay_t25_35_t28_32 75.0 -1
+y t25_35 delay_t25_35_t28_32 0.146763421 -1
+y delay_t25_35_t28_32 t28_32 1.0 -1
+
+y t25_41 t28_19 0.146763421 -1
+
+s delay_t25_20_t28_34 75.0 -1
+y t25_20 delay_t25_20_t28_34 0.146763421 -1
+y delay_t25_20_t28_34 t28_34 1.0 -1
+
+y t21_1 t27_3 0.211286 -1
+
+y t25_11 t28_6 0.146763421 -1
+
+s delay_t25_39_t28_32 75.0 -1
+y t25_39 delay_t25_39_t28_32 0.146763421 -1
+y delay_t25_39_t28_32 t28_32 1.0 -1
+
+y t25_13 t28_4 0.146763421 -1
+
+y t25_19 t28_15 0.146763421 -1
+
+y t25_36 t28_1 0.146763421 -1
+
+y t25_26 t28_12 0.146763421 -1
+
+y t15_5 t27_12 0.163685333 -1
+
+y t25_18 t28_7 0.146763421 -1
+
+y t25_11 t28_3 0.146763421 -1
+
+y t25_33 t28_26 0.146763421 -1
+
+y t25_41 t28_5 0.146763421 -1
+
+y t25_25 t28_5 0.146763421 -1
+
+y t25_13 t28_34 0.146763421 -1
+
+y t25_46 t28_23 0.146763421 -1
+
+s delay_t19_1_t23_27 75.0 -1
+y t19_1 delay_t19_1_t23_27 0.095830938 -1
+y delay_t19_1_t23_27 t23_27 1.0 -1
+
+y t25_21 t28_28 0.146763421 -1
+
+y t25_15 t28_31 0.146763421 -1
+
+y t25_24 t28_37 0.146763421 -1
+
+y t19_3 t20 0.684421 -1
+
+y t25_12 t28_24 0.146763421 -1
+
+y t19_2 t25_5 0.115614255 -1
+
+y t25_41 t28_22 0.146763421 -1
+
+s delay_t25_24_t28_2 75.0 -1
+y t25_24 delay_t25_24_t28_2 0.146763421 -1
+y delay_t25_24_t28_2 t28_2 1.0 -1
+
+s delay_t14_4_t16_2 225.0 -1
+y t14_4 delay_t14_4_t16_2 0.547273333 -1
+y delay_t14_4_t16_2 t16_2 1.0 -1
+
+y t25_41 t28_6 0.146763421 -1
+
+y t25_31 t28_1 0.146763421 -1
+
+y t01 t05 1.85422 -1
+
+y t21_6 t27_14 0.211286 -1
+
+y t25_29 t28_37 0.146763421 -1
+
+y t25_35 t28_8 0.146763421 -1
+
+s delay_t19_2_t21_6 75.0 -1
+y t19_2 delay_t19_2_t21_6 0.345151429 -1
+y delay_t19_2_t21_6 t21_6 1.0 -1
+
+y t25_12 t28_35 0.146763421 -1
+
+y t25_18 t28_25 0.146763421 -1
+
+y t21_3 t27_12 0.211286 -1
+
+y t25_28 t28_13 0.146763421 -1
+
+y t25_45 t28_21 0.146763421 -1
+
+y t25_22 t28_18 0.146763421 -1
+
+s delay_t25_40_t28_29 75.0 -1
+y t25_40 delay_t25_40_t28_29 0.146763421 -1
+y delay_t25_40_t28_29 t28_29 1.0 -1
+
+s delay_t19_1_t23_26 75.0 -1
+y t19_1 delay_t19_1_t23_26 0.095830938 -1
+y delay_t19_1_t23_26 t23_26 1.0 -1
+
+y t25_17 t28_30 0.146763421 -1
+
+y t25_3 t28_12 0.146763421 -1
+
+y t25_1 t28_15 0.146763421 -1
+
+s delay_t25_20_t28_18 75.0 -1
+y t25_20 delay_t25_20_t28_18 0.146763421 -1
+y delay_t25_20_t28_18 t28_18 1.0 -1
+
+y t25_7 t28_38 0.146763421 -1
+
+y t25_27 t28_26 0.146763421 -1
+
+y t15_2 t27_15 0.163685333 -1
+
+y t25_5 t28_26 0.146763421 -1
+
+y t25_21 t28_18 0.146763421 -1
+
+s delay_t25_29_t28_29 75.0 -1
+y t25_29 delay_t25_29_t28_29 0.146763421 -1
+y delay_t25_29_t28_29 t28_29 1.0 -1
+
+s delay_t25_14_t28_4 75.0 -1
+y t25_14 delay_t25_14_t28_4 0.146763421 -1
+y delay_t25_14_t28_4 t28_4 1.0 -1
+
+s delay_t11_t14_4 150.0 -1
+y t11 delay_t11_t14_4 0.8389425 -1
+y delay_t11_t14_4 t14_4 1.0 -1
+
+y t25_45 t28_36 0.146763421 -1
+
+y t25_46 t28_18 0.146763421 -1
+
+y t25_37 t28_30 0.146763421 -1
+
+y t25_28 t28_3 0.146763421 -1
+
+s delay_t19_3_t25_14 75.0 -1
+y t19_3 delay_t19_3_t25_14 0.115614255 -1
+y delay_t19_3_t25_14 t25_14 1.0 -1
+
+y t13_1 t15_5 0.433336 -1
+
+y t25_31 t28_20 0.146763421 -1
+
+y t25_24 t28_33 0.146763421 -1
+
+y t25_43 t28_8 0.146763421 -1
+
+y t19_3 t25_11 0.115614255 -1
+
+y t15_1 t29_4 0.351405714 -1
+
+y t21_1 t27_14 0.211286 -1
+
+y t25_46 t28_14 0.146763421 -1
+
+y t25_4 t28_26 0.146763421 -1
+
+y t25_39 t28_7 0.146763421 -1
+
+s delay_t25_43_t28_2 75.0 -1
+y t25_43 delay_t25_43_t28_2 0.146763421 -1
+y delay_t25_43_t28_2 t28_2 1.0 -1
+
+y t25_12 t28_1 0.146763421 -1
+
+y t25_24 t28_34 0.146763421 -1
+
+s delay_t19_2_t23_6 150.0 -1
+y t19_2 delay_t19_2_t23_6 0.095830938 -1
+y delay_t19_2_t23_6 t23_6 1.0 -1
+
+y t25_7 t28_5 0.146763421 -1
+
+y t14_2 t16_1 0.547273333 -1
+
+y t25_8 t28_8 0.146763421 -1
+
+y t25_7 t28_8 0.146763421 -1
+
+y t25_18 t28_11 0.146763421 -1
+
+y t25_30 t28_28 0.146763421 -1
+
+y t25_33 t28_16 0.146763421 -1
+
+y t25_4 t28_22 0.146763421 -1
+
+y t25_6 t28_25 0.146763421 -1
+
+y t19_2 t25_4 0.115614255 -1
+
+y t25_15 t28_19 0.146763421 -1
+
+y t25_26 t28_28 0.146763421 -1
+
+y t25_23 t28_18 0.146763421 -1
+
+y t25_44 t28_4 0.146763421 -1
+
+s delay_t25_2_t28_24 75.0 -1
+y t25_2 delay_t25_2_t28_24 0.146763421 -1
+y delay_t25_2_t28_24 t28_24 1.0 -1
+
+y t25_41 t28_25 0.146763421 -1
+
+s delay_t25_38_t28_32 75.0 -1
+y t25_38 delay_t25_38_t28_32 0.146763421 -1
+y delay_t25_38_t28_32 t28_32 1.0 -1
+
+y t25_25 t28_18 0.146763421 -1
+
+y t25_43 t28_21 0.146763421 -1
+
+s delay_t19_2_t23_19 75.0 -1
+y t19_2 delay_t19_2_t23_19 0.095830938 -1
+y delay_t19_2_t23_19 t23_19 1.0 -1
+
+s delay_t19_2_t21_2 75.0 -1
+y t19_2 delay_t19_2_t21_2 0.345151429 -1
+y delay_t19_2_t21_2 t21_2 1.0 -1
+
+y t25_45 t28_7 0.146763421 -1
+
+y t25_24 t28_16 0.146763421 -1
+
+y t25_40 t28_35 0.146763421 -1
+
+y t19_3 t25_26 0.115614255 -1
+
+y t25_14 t28_2 0.146763421 -1
+
+s delay_t15_1_t19_1 75.0 -1
+y t15_1 delay_t15_1_t19_1 0.470326667 -1
+y delay_t15_1_t19_1 t19_1 1.0 -1
+
+s delay_t19_3_t24_2 75.0 -1
+y t19_3 delay_t19_3_t24_2 0.2528425 -1
+y delay_t19_3_t24_2 t24_2 1.0 -1
+
+y t25_36 t28_16 0.146763421 -1
+
+y t25_22 t28_24 0.146763421 -1
+
+y t25_21 t28_31 0.146763421 -1
+
+s delay_t25_34_t28_34 75.0 -1
+y t25_34 delay_t25_34_t28_34 0.146763421 -1
+y delay_t25_34_t28_34 t28_34 1.0 -1
+
+y t25_30 t28_19 0.146763421 -1
+
+y t25_21 t28_20 0.146763421 -1
+
+s delay_t21_7_t27_5 75.0 -1
+y t21_7 delay_t21_7_t27_5 0.211286 -1
+y delay_t21_7_t27_5 t27_5 1.0 -1
+
+y t25_28 t28_21 0.146763421 -1
+
+y t25_9 t28_9 0.146763421 -1
+
+s delay_t19_1_t23_15 75.0 -1
+y t19_1 delay_t19_1_t23_15 0.095830938 -1
+y delay_t19_1_t23_15 t23_15 1.0 -1
+
+y t25_39 t28_10 0.146763421 -1
+
+y t25_5 t28_37 0.146763421 -1
+
+y t15_4 t27_9 0.163685333 -1
+
+y t25_30 t28_25 0.146763421 -1
+
+s delay_t25_30_t28_32 75.0 -1
+y t25_30 delay_t25_30_t28_32 0.146763421 -1
+y delay_t25_30_t28_32 t28_32 1.0 -1
+
+y t25_32 t28_17 0.146763421 -1
+
+y t25_35 t28_12 0.146763421 -1
+
+y t21_4 t27_4 0.211286 -1
+
+s delay_t25_2_t28_34 75.0 -1
+y t25_2 delay_t25_2_t28_34 0.146763421 -1
+y delay_t25_2_t28_34 t28_34 1.0 -1
+
+s delay_t25_6_t28_32 75.0 -1
+y t25_6 delay_t25_6_t28_32 0.146763421 -1
+y delay_t25_6_t28_32 t28_32 1.0 -1
+
+y t19_1 t25_40 0.115614255 -1
+
+y t19_2 t26_1 0.260628333 -1
+
+s delay_t25_25_t28_2 75.0 -1
+y t25_25 delay_t25_25_t28_2 0.146763421 -1
+y delay_t25_25_t28_2 t28_2 1.0 -1
+
+y t21_4 t27_9 0.211286 -1
+
+y t25_18 t28_9 0.146763421 -1
+
+s delay_t25_2_t28_17 75.0 -1
+y t25_2 delay_t25_2_t28_17 0.146763421 -1
+y delay_t25_2_t28_17 t28_17 1.0 -1
+
+s delay_t25_46_t28_2 75.0 -1
+y t25_46 delay_t25_46_t28_2 0.146763421 -1
+y delay_t25_46_t28_2 t28_2 1.0 -1
+
+y t19_3 t26_4 0.260628333 -1
+
+y t19_3 t25_22 0.115614255 -1
+
+y t19_3 t25_32 0.115614255 -1
+
+y t25_45 t28_17 0.146763421 -1
+
+y t25_1 t28_17 0.146763421 -1
+
+y t25_17 t28_3 0.146763421 -1
+
+y t25_39 t28_11 0.146763421 -1
+
+s delay_t15_3_t19_3 75.0 -1
+y t15_3 delay_t15_3_t19_3 0.470326667 -1
+y delay_t15_3_t19_3 t19_3 1.0 -1
+
+s delay_t25_2_t28_33 75.0 -1
+y t25_2 delay_t25_2_t28_33 0.146763421 -1
+y delay_t25_2_t28_33 t28_33 1.0 -1
+
+y t25_30 t28_35 0.146763421 -1
+
+y t25_25 t28_38 0.146763421 -1
+
+y t25_11 t28_35 0.146763421 -1
+
+s delay_t25_47_t28_32 75.0 -1
+y t25_47 delay_t25_47_t28_32 0.146763421 -1
+y delay_t25_47_t28_32 t28_32 1.0 -1
+
+y t25_25 t28_25 0.146763421 -1
+
+s delay_t25_34_t28_22 75.0 -1
+y t25_34 delay_t25_34_t28_22 0.146763421 -1
+y delay_t25_34_t28_22 t28_22 1.0 -1
+
+y t25_28 t28_4 0.146763421 -1
+
+y t25_36 t28_23 0.146763421 -1
+
+y t25_45 t28_8 0.146763421 -1
+
+y t25_45 t28_16 0.146763421 -1
+
+y t25_1 t28_34 0.146763421 -1
+
+y t25_10 t28_22 0.146763421 -1
+
+y t25_29 t28_26 0.146763421 -1
+
+y t25_32 t28_38 0.146763421 -1
+
+y t25_5 t28_9 0.146763421 -1
+
+y t25_19 t28_14 0.146763421 -1
+
+y t25_37 t28_35 0.146763421 -1
+
+y t25_42 t28_7 0.146763421 -1
+
+s delay_t21_7_t27_7 75.0 -1
+y t21_7 delay_t21_7_t27_7 0.211286 -1
+y delay_t21_7_t27_7 t27_7 1.0 -1
+
+y t25_5 t28_13 0.146763421 -1
+
+y t25_40 t28_38 0.146763421 -1
+
+y t25_43 t28_26 0.146763421 -1
+
+y t15_2 t29_7 0.351405714 -1
+
+y t25_21 t28_11 0.146763421 -1
+
+y t25_32 t28_8 0.146763421 -1
+
+y t15_2 t27_5 0.163685333 -1
+
+s delay_t25_31_t28_32 75.0 -1
+y t25_31 delay_t25_31_t28_32 0.146763421 -1
+y delay_t25_31_t28_32 t28_32 1.0 -1
+
+y t19_3 t22 0.525057 -1
+
+s delay_t19_1_t25_2 75.0 -1
+y t19_1 delay_t19_1_t25_2 0.115614255 -1
+y delay_t19_1_t25_2 t25_2 1.0 -1
+
+y t25_12 t28_34 0.146763421 -1
+
+s delay_t25_6_t28_29 75.0 -1
+y t25_6 delay_t25_6_t28_29 0.146763421 -1
+y delay_t25_6_t28_29 t28_29 1.0 -1
+
+s delay_t25_20_t28_21 75.0 -1
+y t25_20 delay_t25_20_t28_21 0.146763421 -1
+y delay_t25_20_t28_21 t28_21 1.0 -1
+
+y t21_3 t27_15 0.211286 -1
+
+y t25_27 t28_17 0.146763421 -1
+
+y t25_4 t28_23 0.146763421 -1
+
+s delay_t25_2_t28_12 75.0 -1
+y t25_2 delay_t25_2_t28_12 0.146763421 -1
+y delay_t25_2_t28_12 t28_12 1.0 -1
+
+y t25_5 t28_35 0.146763421 -1
+
+y t25_1 t28_19 0.146763421 -1
+
+s delay_t25_41_t28_2 75.0 -1
+y t25_41 delay_t25_41_t28_2 0.146763421 -1
+y delay_t25_41_t28_2 t28_2 1.0 -1
+
+y t25_42 t28_17 0.146763421 -1
+
+y t25_37 t28_14 0.146763421 -1
+
+y t25_3 t28_36 0.146763421 -1
+
+y t25_23 t28_21 0.146763421 -1
+
+y t13_2 t15_5 0.433336 -1
+
+y t25_21 t28_37 0.146763421 -1
+
+s delay_t25_43_t28_32 75.0 -1
+y t25_43 delay_t25_43_t28_32 0.146763421 -1
+y delay_t25_43_t28_32 t28_32 1.0 -1
+
+y t25_26 t28_6 0.146763421 -1
+
+y t25_3 t28_13 0.146763421 -1
+
+y t25_25 t28_20 0.146763421 -1
+
+y t25_25 t28_14 0.146763421 -1
+
+y t25_39 t28_36 0.146763421 -1
+
+y t25_21 t28_16 0.146763421 -1
+
+y t25_46 t28_38 0.146763421 -1
+
+s delay_t19_1_t24_7 75.0 -1
+y t19_1 delay_t19_1_t24_7 0.2528425 -1
+y delay_t19_1_t24_7 t24_7 1.0 -1
+
+s delay_t25_20_t28_17 75.0 -1
+y t25_20 delay_t25_20_t28_17 0.146763421 -1
+y delay_t25_20_t28_17 t28_17 1.0 -1
+
+y t19_1 t25_15 0.115614255 -1
+
+y t25_28 t28_11 0.146763421 -1
+
+s delay_t25_43_t28_29 75.0 -1
+y t25_43 delay_t25_43_t28_29 0.146763421 -1
+y delay_t25_43_t28_29 t28_29 1.0 -1
+
+y t19_1 t25_3 0.115614255 -1
+
+s delay_t19_3_t21_5 75.0 -1
+y t19_3 delay_t19_3_t21_5 0.345151429 -1
+y delay_t19_3_t21_5 t21_5 1.0 -1
+
+y t25_18 t28_16 0.146763421 -1
+
+y t25_6 t28_11 0.146763421 -1
+
+y t25_12 t28_37 0.146763421 -1
+
+y t25_29 t28_34 0.146763421 -1
+
+y t25_43 t28_27 0.146763421 -1
+
+y t25_29 t28_8 0.146763421 -1
+
+y t25_47 t28_28 0.146763421 -1
+
+y t25_31 t28_26 0.146763421 -1
+
+s delay_t25_2_t28_14 75.0 -1
+y t25_2 delay_t25_2_t28_14 0.146763421 -1
+y delay_t25_2_t28_14 t28_14 1.0 -1
+
+y t25_7 t28_33 0.146763421 -1
+
+y t21_2 t27_3 0.211286 -1
+
+y t25_27 t28_4 0.146763421 -1
+
+y t25_23 t28_13 0.146763421 -1
+
+y t25_26 t28_34 0.146763421 -1
+
+y t25_9 t28_38 0.146763421 -1
+
+y t25_32 t28_27 0.146763421 -1
+
+y t13_2 t15_2 0.433336 -1
+
+y t02 t27_4 0.078314667 -1
+
+s delay_t07_t22 75.0 -1
+y t07 delay_t07_t22 0.531814 -1
+y delay_t07_t22 t22 1.0 -1
+
+y t25_31 t28_25 0.146763421 -1
+
+y t25_10 t28_16 0.146763421 -1
+
+y t25_29 t28_38 0.146763421 -1
+
+y t25_41 t28_16 0.146763421 -1
+
+y t25_26 t28_21 0.146763421 -1
+
+y t19_1 t20 0.684421 -1
+
+y t25_35 t28_26 0.146763421 -1
+
+y t25_40 t28_15 0.146763421 -1
+
+s delay_t25_21_t28_29 75.0 -1
+y t25_21 delay_t25_21_t28_29 0.146763421 -1
+y delay_t25_21_t28_29 t28_29 1.0 -1
+
+y t25_14 t28_32 0.146763421 -1
+
+y t25_16 t28_25 0.146763421 -1
+
+y t25_26 t28_18 0.146763421 -1
+
+y t25_8 t28_12 0.146763421 -1
+
+y t19_2 t25_33 0.115614255 -1
+
+y t25_4 t28_27 0.146763421 -1
+
+y t19_1 t26_4 0.260628333 -1
+
+y t25_35 t28_14 0.146763421 -1
+
+y t25_7 t28_18 0.146763421 -1
+
+y t25_17 t28_36 0.146763421 -1
+
+y t25_27 t28_19 0.146763421 -1
+
+y t25_19 t28_27 0.146763421 -1
+
+y t25_3 t28_18 0.146763421 -1
+
+y t25_39 t28_26 0.146763421 -1
+
+y t25_46 t28_1 0.146763421 -1
+
+s delay_t19_3_t24_11 75.0 -1
+y t19_3 delay_t19_3_t24_11 0.2528425 -1
+y delay_t19_3_t24_11 t24_11 1.0 -1
+
+y t19_3 t25_8 0.115614255 -1
+
+s delay_t25_20_t28_12 75.0 -1
+y t25_20 delay_t25_20_t28_12 0.146763421 -1
+y delay_t25_20_t28_12 t28_12 1.0 -1
+
+y t25_44 t28_3 0.146763421 -1
+
+y t15_2 t27_11 0.163685333 -1
+
+y t25_37 t28_18 0.146763421 -1
+
+s delay_t25_2_t28_5 75.0 -1
+y t25_2 delay_t25_2_t28_5 0.146763421 -1
+y delay_t25_2_t28_5 t28_5 1.0 -1
+
+y t25_13 t28_24 0.146763421 -1
+
+s delay_t25_20_t28_25 75.0 -1
+y t25_20 delay_t25_20_t28_25 0.146763421 -1
+y delay_t25_20_t28_25 t28_25 1.0 -1
+
+s delay_t25_2_t28_1 75.0 -1
+y t25_2 delay_t25_2_t28_1 0.146763421 -1
+y delay_t25_2_t28_1 t28_1 1.0 -1
+
+y t25_8 t28_5 0.146763421 -1
+
+y t25_32 t28_28 0.146763421 -1
+
+s delay_t25_34_t28_19 75.0 -1
+y t25_34 delay_t25_34_t28_19 0.146763421 -1
+y delay_t25_34_t28_19 t28_19 1.0 -1
+
+s delay_t25_17_t28_2 75.0 -1
+y t25_17 delay_t25_17_t28_2 0.146763421 -1
+y delay_t25_17_t28_2 t28_2 1.0 -1
+
+s delay_t25_3_t28_32 75.0 -1
+y t25_3 delay_t25_3_t28_32 0.146763421 -1
+y delay_t25_3_t28_32 t28_32 1.0 -1
+
+s delay_t21_7_t27_10 75.0 -1
+y t21_7 delay_t21_7_t27_10 0.211286 -1
+y delay_t21_7_t27_10 t27_10 1.0 -1
+
+s delay_t25_45_t28_2 75.0 -1
+y t25_45 delay_t25_45_t28_2 0.146763421 -1
+y delay_t25_45_t28_2 t28_2 1.0 -1
+
+s delay_t25_37_t28_32 75.0 -1
+y t25_37 delay_t25_37_t28_32 0.146763421 -1
+y delay_t25_37_t28_32 t28_32 1.0 -1
+
+y t25_3 t28_16 0.146763421 -1
+
+s delay_t25_23_t28_2 75.0 -1
+y t25_23 delay_t25_23_t28_2 0.146763421 -1
+y delay_t25_23_t28_2 t28_2 1.0 -1
+
+y t21_2 t27_5 0.211286 -1
+
+y t25_16 t28_3 0.146763421 -1
+
+y t25_7 t28_4 0.146763421 -1
+
+s delay_t19_1_t23_14 75.0 -1
+y t19_1 delay_t19_1_t23_14 0.095830938 -1
+y delay_t19_1_t23_14 t23_14 1.0 -1
+
+y t25_45 t28_14 0.146763421 -1
+
+y t25_37 t28_38 0.146763421 -1
+
+y t25_12 t28_31 0.146763421 -1
+
+s delay_t15_2_t19_3 75.0 -1
+y t15_2 delay_t15_2_t19_3 0.470326667 -1
+y delay_t15_2_t19_3 t19_3 1.0 -1
+
+s delay_t25_16_t28_32 75.0 -1
+y t25_16 delay_t25_16_t28_32 0.146763421 -1
+y delay_t25_16_t28_32 t28_32 1.0 -1
+
+y t06_2 t09_1 1.176926667 -1
+
+s delay_t19_2_t24_9 75.0 -1
+y t19_2 delay_t19_2_t24_9 0.2528425 -1
+y delay_t19_2_t24_9 t24_9 1.0 -1
+
+y t15_3 t27_14 0.163685333 -1
+
+s delay_t14_3_t16_3 150.0 -1
+y t14_3 delay_t14_3_t16_3 0.547273333 -1
+y delay_t14_3_t16_3 t16_3 1.0 -1
+
+y t25_12 t28_5 0.146763421 -1
+
+y t25_26 t28_16 0.146763421 -1
+
+s delay_t25_39_t28_29 75.0 -1
+y t25_39 delay_t25_39_t28_29 0.146763421 -1
+y delay_t25_39_t28_29 t28_29 1.0 -1
+
+y t25_11 t28_18 0.146763421 -1
+
+s delay_t25_20_t28_35 75.0 -1
+y t25_20 delay_t25_20_t28_35 0.146763421 -1
+y delay_t25_20_t28_35 t28_35 1.0 -1
+
+s delay_t25_2_t28_19 75.0 -1
+y t25_2 delay_t25_2_t28_19 0.146763421 -1
+y delay_t25_2_t28_19 t28_19 1.0 -1
+
+y t25_3 t28_33 0.146763421 -1
+
+y t19_2 t25_11 0.115614255 -1
+
+s delay_t19_3_t23_14 75.0 -1
+y t19_3 delay_t19_3_t23_14 0.095830938 -1
+y delay_t19_3_t23_14 t23_14 1.0 -1
+
+s delay_t25_19_t28_29 75.0 -1
+y t25_19 delay_t25_19_t28_29 0.146763421 -1
+y delay_t25_19_t28_29 t28_29 1.0 -1
+
+y t19_3 t25_46 0.115614255 -1
+
+y t25_9 t28_35 0.146763421 -1
+
+y t19_1 t25_33 0.115614255 -1
+
+s delay_t21_7_t27_8 75.0 -1
+y t21_7 delay_t21_7_t27_8 0.211286 -1
+y delay_t21_7_t27_8 t27_8 1.0 -1
+
+y t21_2 t27_11 0.211286 -1
+
+y t25_41 t28_15 0.146763421 -1
+
+y t15_4 t27_12 0.163685333 -1
+
+s delay_t19_2_t21_5 75.0 -1
+y t19_2 delay_t19_2_t21_5 0.345151429 -1
+y delay_t19_2_t21_5 t21_5 1.0 -1
+
+y t19_3 t25_13 0.115614255 -1
+
+y t25_18 t28_21 0.146763421 -1
+
+y t25_46 t28_13 0.146763421 -1
+
+y t25_22 t28_25 0.146763421 -1
+
+y t25_46 t28_26 0.146763421 -1
+
+s delay_t19_2_t23_18 75.0 -1
+y t19_2 delay_t19_2_t23_18 0.095830938 -1
+y delay_t19_2_t23_18 t23_18 1.0 -1
+
+y t25_39 t28_18 0.146763421 -1
+
+y t15_3 t27_3 0.163685333 -1
+
+y t21_5 t27_9 0.211286 -1
+
+y t25_40 t28_5 0.146763421 -1
+
+y t25_43 t28_3 0.146763421 -1
+
+s delay_t19_2_t24_2 75.0 -1
+y t19_2 delay_t19_2_t24_2 0.2528425 -1
+y delay_t19_2_t24_2 t24_2 1.0 -1
+
+y t25_31 t28_19 0.146763421 -1
+
+s delay_t25_34_t28_36 75.0 -1
+y t25_34 delay_t25_34_t28_36 0.146763421 -1
+y delay_t25_34_t28_36 t28_36 1.0 -1
+
+y t15_5 t27_10 0.163685333 -1
+
+y t25_30 t28_13 0.146763421 -1
+
+y t25_47 t28_26 0.146763421 -1
+
+y t25_36 t28_12 0.146763421 -1
+
+y t25_4 t28_9 0.146763421 -1
+
+y t15_3 t27_5 0.163685333 -1
+
+y t25_12 t28_8 0.146763421 -1
+
+y t25_22 t28_22 0.146763421 -1
+
+y t19_3 t25_1 0.115614255 -1
+
+y t02 t27_2 0.078314667 -1
+
+s delay_t25_37_t28_29 75.0 -1
+y t25_37 delay_t25_37_t28_29 0.146763421 -1
+y delay_t25_37_t28_29 t28_29 1.0 -1
+
+y t25_39 t28_20 0.146763421 -1
+
+s delay_t19_2_t24_8 75.0 -1
+y t19_2 delay_t19_2_t24_8 0.2528425 -1
+y delay_t19_2_t24_8 t24_8 1.0 -1
+
+y t25_29 t28_31 0.146763421 -1
+
+s delay_t19_2_t23_11 75.0 -1
+y t19_2 delay_t19_2_t23_11 0.095830938 -1
+y delay_t19_2_t23_11 t23_11 1.0 -1
+
+y t25_30 t28_27 0.146763421 -1
+
+y t25_18 t28_19 0.146763421 -1
+
+s delay_t25_20_t28_1 75.0 -1
+y t25_20 delay_t25_20_t28_1 0.146763421 -1
+y delay_t25_20_t28_1 t28_1 1.0 -1
+
+y t25_12 t28_10 0.146763421 -1
+
+y t25_38 t28_25 0.146763421 -1
+
+y t25_22 t28_9 0.146763421 -1
+
+y t25_33 t28_38 0.146763421 -1
+
+y t25_38 t28_6 0.146763421 -1
+
+y t21_5 t27_10 0.211286 -1
+
+y t13_2 t17 0.553236 -1
+
+y t25_24 t28_6 0.146763421 -1
+
+y t25_36 t28_30 0.146763421 -1
+
+s delay_t19_2_t23_31 75.0 -1
+y t19_2 delay_t19_2_t23_31 0.095830938 -1
+y delay_t19_2_t23_31 t23_31 1.0 -1
+
+y t25_17 t28_20 0.146763421 -1
+
+y t25_33 t28_18 0.146763421 -1
+
+s delay_t15_4_t19_1 75.0 -1
+y t15_4 delay_t15_4_t19_1 0.470326667 -1
+y delay_t15_4_t19_1 t19_1 1.0 -1
+
+y t25_8 t28_13 0.146763421 -1
+
+y t25_47 t28_3 0.146763421 -1
+
+s delay_t25_2_t28_11 75.0 -1
+y t25_2 delay_t25_2_t28_11 0.146763421 -1
+y delay_t25_2_t28_11 t28_11 1.0 -1
+
+s delay_t25_47_t28_2 75.0 -1
+y t25_47 delay_t25_47_t28_2 0.146763421 -1
+y delay_t25_47_t28_2 t28_2 1.0 -1
+
+y t25_10 t28_31 0.146763421 -1
+
+s delay_t19_3_t23_17 75.0 -1
+y t19_3 delay_t19_3_t23_17 0.095830938 -1
+y delay_t19_3_t23_17 t23_17 1.0 -1
+
+s delay_t25_20_t28_27 75.0 -1
+y t25_20 delay_t25_20_t28_27 0.146763421 -1
+y delay_t25_20_t28_27 t28_27 1.0 -1
+
+y t25_25 t28_23 0.146763421 -1
+
+y t25_18 t28_31 0.146763421 -1
+
+y t25_10 t28_17 0.146763421 -1
+
+y t25_31 t28_15 0.146763421 -1
+
+y t25_37 t28_1 0.146763421 -1
+
+s delay_t19_1_t23_32 150.0 -1
+y t19_1 delay_t19_1_t23_32 0.095830938 -1
+y delay_t19_1_t23_32 t23_32 1.0 -1
+
+s delay_t25_20_t28_37 75.0 -1
+y t25_20 delay_t25_20_t28_37 0.146763421 -1
+y delay_t25_20_t28_37 t28_37 1.0 -1
+
+y t25_30 t28_16 0.146763421 -1
+
+y t25_35 t28_17 0.146763421 -1
+
+s delay_t19_2_t23_13 150.0 -1
+y t19_2 delay_t19_2_t23_13 0.095830938 -1
+y delay_t19_2_t23_13 t23_13 1.0 -1
+
+y t21_2 t27_7 0.211286 -1
+
+y t25_47 t28_10 0.146763421 -1
+
+y t15_4 t27_7 0.163685333 -1
+
+y t25_18 t28_22 0.146763421 -1
+
+s delay_t25_28_t28_32 75.0 -1
+y t25_28 delay_t25_28_t28_32 0.146763421 -1
+y delay_t25_28_t28_32 t28_32 1.0 -1
+
+y t25_39 t28_19 0.146763421 -1
+
+y t19_3 t24_4 0.2528425 -1
+
+y t25_9 t28_21 0.146763421 -1
+
+y t25_7 t28_24 0.146763421 -1
+
+y t25_8 t28_7 0.146763421 -1
+
+s delay_t25_15_t28_32 75.0 -1
+y t25_15 delay_t25_15_t28_32 0.146763421 -1
+y delay_t25_15_t28_32 t28_32 1.0 -1
+
+y t25_36 t28_33 0.146763421 -1
+
+s delay_t25_34_t28_23 75.0 -1
+y t25_34 delay_t25_34_t28_23 0.146763421 -1
+y delay_t25_34_t28_23 t28_23 1.0 -1
+
+y t19_2 t23_10 0.095830938 -1
+
+y t25_24 t28_27 0.146763421 -1
+
+y t25_36 t28_18 0.146763421 -1
+
+y t25_26 t28_14 0.146763421 -1
+
+y t25_25 t28_22 0.146763421 -1
+
+y t25_23 t28_19 0.146763421 -1
+
+y t25_32 t28_18 0.146763421 -1
+
+y t25_38 t28_17 0.146763421 -1
+
+s delay_t25_5_t28_32 75.0 -1
+y t25_5 delay_t25_5_t28_32 0.146763421 -1
+y delay_t25_5_t28_32 t28_32 1.0 -1
+
+y t25_19 t28_7 0.146763421 -1
+
+y t25_14 t28_29 0.146763421 -1
+
+y t15_1 t27_12 0.163685333 -1
+
+y t19_3 t25_9 0.115614255 -1
+
+y t25_21 t28_21 0.146763421 -1
+
+y t25_38 t28_13 0.146763421 -1
+
+s delay_t19_1_t23_17 75.0 -1
+y t19_1 delay_t19_1_t23_17 0.095830938 -1
+y delay_t19_1_t23_17 t23_17 1.0 -1
+
+y t25_19 t28_3 0.146763421 -1
+
+y t25_37 t28_28 0.146763421 -1
+
+y t25_47 t28_19 0.146763421 -1
+
+y t05 t07 0.630022 -1
+
+y t19_2 t25_28 0.115614255 -1
+
+y t25_4 t28_36 0.146763421 -1
+
+y t21_3 t27_11 0.211286 -1
+
+y t25_10 t28_6 0.146763421 -1
+
+y t25_28 t28_38 0.146763421 -1
+
+y t25_17 t28_5 0.146763421 -1
+
+s delay_t25_20_t28_31 75.0 -1
+y t25_20 delay_t25_20_t28_31 0.146763421 -1
+y delay_t25_20_t28_31 t28_31 1.0 -1
+
+y t21_2 t27_9 0.211286 -1
+
+s delay_t25_38_t28_29 75.0 -1
+y t25_38 delay_t25_38_t28_29 0.146763421 -1
+y delay_t25_38_t28_29 t28_29 1.0 -1
+
+y t25_11 t28_9 0.146763421 -1
+
+y t25_8 t28_4 0.146763421 -1
+
+y t25_27 t28_6 0.146763421 -1
+
+y t25_44 t28_26 0.146763421 -1
+
+y t19_2 t20 0.684421 -1
+
+y t25_19 t28_10 0.146763421 -1
+
+y t25_19 t28_23 0.146763421 -1
+
+y t21_5 t27_11 0.211286 -1
+
+y t25_23 t28_6 0.146763421 -1
+
+y t25_43 t28_14 0.146763421 -1
+
+s delay_t14_1_t16_1 225.0 -1
+y t14_1 delay_t14_1_t16_1 0.547273333 -1
+y delay_t14_1_t16_1 t16_1 1.0 -1
+
+y t25_1 t28_7 0.146763421 -1
+
+s delay_t25_10_t28_2 75.0 -1
+y t25_10 delay_t25_10_t28_2 0.146763421 -1
+y delay_t25_10_t28_2 t28_2 1.0 -1
+
+y t25_23 t28_26 0.146763421 -1
+
+y t15_2 t29_1 0.351405714 -1
+
+y t25_5 t28_33 0.146763421 -1
+
+s delay_t25_3_t28_2 75.0 -1
+y t25_3 delay_t25_3_t28_2 0.146763421 -1
+y delay_t25_3_t28_2 t28_2 1.0 -1
+
+y t02 t27_5 0.078314667 -1
+
+y t25_46 t28_25 0.146763421 -1
+
+s delay_t25_1_t28_2 75.0 -1
+y t25_1 delay_t25_1_t28_2 0.146763421 -1
+y delay_t25_1_t28_2 t28_2 1.0 -1
+
+y t25_47 t28_7 0.146763421 -1
+
+y t19_3 t23_8 0.095830938 -1
+
+y t25_46 t28_22 0.146763421 -1
+
+s delay_t25_27_t28_32 75.0 -1
+y t25_27 delay_t25_27_t28_32 0.146763421 -1
+y delay_t25_27_t28_32 t28_32 1.0 -1
+
+y t25_28 t28_5 0.146763421 -1
+
+y t19_2 t25_45 0.115614255 -1
+
+s delay_t15_2_t19_2 75.0 -1
+y t15_2 delay_t15_2_t19_2 0.470326667 -1
+y delay_t15_2_t19_2 t19_2 1.0 -1
+
+y t25_19 t28_18 0.146763421 -1
+
+y t25_45 t28_9 0.146763421 -1
+
+y t25_28 t28_6 0.146763421 -1
+
+y t21_1 t27_8 0.211286 -1
+
+y t25_43 t28_1 0.146763421 -1
+
+y t25_40 t28_36 0.146763421 -1
+
+y t25_18 t28_23 0.146763421 -1
+
+y t25_47 t28_15 0.146763421 -1
+
+y t25_23 t28_9 0.146763421 -1
+
+y t21_3 t27_2 0.211286 -1
+
+y t25_3 t28_37 0.146763421 -1
+
+y t25_16 t28_5 0.146763421 -1
+
+y t25_43 t28_30 0.146763421 -1
+
+s delay_t19_3_t25_20 75.0 -1
+y t19_3 delay_t19_3_t25_20 0.115614255 -1
+y delay_t19_3_t25_20 t25_20 1.0 -1
+
+y t25_15 t28_21 0.146763421 -1
+
+y t25_30 t28_7 0.146763421 -1
+
+y t25_9 t28_37 0.146763421 -1
+
+y t25_13 t28_1 0.146763421 -1
+
+y t15_3 t27_9 0.163685333 -1
+
+y t21_3 t27_1 0.211286 -1
+
+y t25_21 t28_3 0.146763421 -1
+
+y t19_3 t25_37 0.115614255 -1
+
+y t25_31 t28_14 0.146763421 -1
+
+s delay_t25_24_t28_29 75.0 -1
+y t25_24 delay_t25_24_t28_29 0.146763421 -1
+y delay_t25_24_t28_29 t28_29 1.0 -1
+
+y t25_41 t28_8 0.146763421 -1
+
+y t25_46 t28_5 0.146763421 -1
+
+y t25_45 t28_5 0.146763421 -1
+
+y t25_28 t28_9 0.146763421 -1
+
+y t25_12 t28_7 0.146763421 -1
+
+s delay_t25_12_t28_29 75.0 -1
+y t25_12 delay_t25_12_t28_29 0.146763421 -1
+y delay_t25_12_t28_29 t28_29 1.0 -1
+
+s delay_t25_23_t28_29 75.0 -1
+y t25_23 delay_t25_23_t28_29 0.146763421 -1
+y delay_t25_23_t28_29 t28_29 1.0 -1
+
+y t25_8 t28_1 0.146763421 -1
+
+y t25_4 t28_20 0.146763421 -1
+
+y t25_22 t28_31 0.146763421 -1
+
+y t02 t27_15 0.078314667 -1
+
+y t19_3 t25_42 0.115614255 -1
+
+y t19_2 t25_30 0.115614255 -1
+
+y t19_3 t25_6 0.115614255 -1
+
+y t25_17 t28_37 0.146763421 -1
+
+y t25_31 t28_22 0.146763421 -1
+
+y t02 t03 2.33763 -1
+
+y t25_38 t28_12 0.146763421 -1
+
+y t21_5 t27_4 0.211286 -1
+
+s delay_t19_2_t24_1 75.0 -1
+y t19_2 delay_t19_2_t24_1 0.2528425 -1
+y delay_t19_2_t24_1 t24_1 1.0 -1
+
+y t19_3 t25_27 0.115614255 -1
+
+s delay_t25_20_t28_19 75.0 -1
+y t25_20 delay_t25_20_t28_19 0.146763421 -1
+y delay_t25_20_t28_19 t28_19 1.0 -1
+
+y t25_16 t28_12 0.146763421 -1
+
+s delay_t25_5_t28_29 75.0 -1
+y t25_5 delay_t25_5_t28_29 0.146763421 -1
+y delay_t25_5_t28_29 t28_29 1.0 -1
+
+y t25_32 t28_6 0.146763421 -1
+
+y t25_29 t28_30 0.146763421 -1
+
+s delay_t25_34_t28_13 75.0 -1
+y t25_34 delay_t25_34_t28_13 0.146763421 -1
+y delay_t25_34_t28_13 t28_13 1.0 -1
+
+s delay_t19_2_t23_21 75.0 -1
+y t19_2 delay_t19_2_t23_21 0.095830938 -1
+y delay_t19_2_t23_21 t23_21 1.0 -1
+
+s delay_t19_2_t23_14 75.0 -1
+y t19_2 delay_t19_2_t23_14 0.095830938 -1
+y delay_t19_2_t23_14 t23_14 1.0 -1
+
+s delay_t19_3_t23_5 150.0 -1
+y t19_3 delay_t19_3_t23_5 0.095830938 -1
+y delay_t19_3_t23_5 t23_5 1.0 -1
+
+s delay_t19_3_t23_7 75.0 -1
+y t19_3 delay_t19_3_t23_7 0.095830938 -1
+y delay_t19_3_t23_7 t23_7 1.0 -1
+
+s delay_t25_44_t28_32 75.0 -1
+y t25_44 delay_t25_44_t28_32 0.146763421 -1
+y delay_t25_44_t28_32 t28_32 1.0 -1
+
+y t25_27 t28_8 0.146763421 -1
+
+y t25_28 t28_31 0.146763421 -1
+
+y t19_2 t25_12 0.115614255 -1
+
+y t25_37 t28_6 0.146763421 -1
+
+y t25_44 t28_10 0.146763421 -1
+
+y t25_7 t28_37 0.146763421 -1
+
+y t25_35 t28_24 0.146763421 -1
+
+s delay_t19_1_t24_2 75.0 -1
+y t19_1 delay_t19_1_t24_2 0.2528425 -1
+y delay_t19_1_t24_2 t24_2 1.0 -1
+
+y t25_37 t28_23 0.146763421 -1
+
+y t25_30 t28_8 0.146763421 -1
+
+y t25_32 t28_3 0.146763421 -1
+
+s delay_t25_34_t28_6 75.0 -1
+y t25_34 delay_t25_34_t28_6 0.146763421 -1
+y delay_t25_34_t28_6 t28_6 1.0 -1
+
+s delay_t25_34_t28_17 75.0 -1
+y t25_34 delay_t25_34_t28_17 0.146763421 -1
+y delay_t25_34_t28_17 t28_17 1.0 -1
+
+y t25_5 t28_3 0.146763421 -1
+
+y t15_1 t27_3 0.163685333 -1
+
+y t25_44 t28_24 0.146763421 -1
+
+s delay_t19_1_t23_6 150.0 -1
+y t19_1 delay_t19_1_t23_6 0.095830938 -1
+y delay_t19_1_t23_6 t23_6 1.0 -1
+
+y t25_22 t28_21 0.146763421 -1
+
+y t25_1 t28_9 0.146763421 -1
+
+s delay_t25_14_t28_23 75.0 -1
+y t25_14 delay_t25_14_t28_23 0.146763421 -1
+y delay_t25_14_t28_23 t28_23 1.0 -1
+
+y t25_46 t28_3 0.146763421 -1
+
+y t25_39 t28_12 0.146763421 -1
+
+y t25_45 t28_1 0.146763421 -1
+
+y t25_4 t28_24 0.146763421 -1
+
+y t25_29 t28_17 0.146763421 -1
+
+s delay_t25_34_t28_21 75.0 -1
+y t25_34 delay_t25_34_t28_21 0.146763421 -1
+y delay_t25_34_t28_21 t28_21 1.0 -1
+
+s delay_t19_1_t23_29 75.0 -1
+y t19_1 delay_t19_1_t23_29 0.095830938 -1
+y delay_t19_1_t23_29 t23_29 1.0 -1
+
+y t25_26 t28_31 0.146763421 -1
+
+s delay_t25_14_t28_25 75.0 -1
+y t25_14 delay_t25_14_t28_25 0.146763421 -1
+y delay_t25_14_t28_25 t28_25 1.0 -1
+
+s delay_t25_16_t28_2 75.0 -1
+y t25_16 delay_t25_16_t28_2 0.146763421 -1
+y delay_t25_16_t28_2 t28_2 1.0 -1
+
+y t25_23 t28_34 0.146763421 -1
+
+y t25_24 t28_14 0.146763421 -1
+
+y t25_30 t28_22 0.146763421 -1
+
+s delay_t25_2_t28_9 75.0 -1
+y t25_2 delay_t25_2_t28_9 0.146763421 -1
+y delay_t25_2_t28_9 t28_9 1.0 -1
+
+y t25_18 t28_18 0.146763421 -1
+
+y t25_42 t28_21 0.146763421 -1
+
+y t25_24 t28_12 0.146763421 -1
+
+y t25_16 t28_1 0.146763421 -1
+
+s delay_t25_40_t28_32 75.0 -1
+y t25_40 delay_t25_40_t28_32 0.146763421 -1
+y delay_t25_40_t28_32 t28_32 1.0 -1
+
+s delay_t19_3_t21_2 75.0 -1
+y t19_3 delay_t19_3_t21_2 0.345151429 -1
+y delay_t19_3_t21_2 t21_2 1.0 -1
+
+y t25_30 t28_38 0.146763421 -1
+
+s delay_t25_34_t28_16 75.0 -1
+y t25_34 delay_t25_34_t28_16 0.146763421 -1
+y delay_t25_34_t28_16 t28_16 1.0 -1
+
+y t19_3 t25_5 0.115614255 -1
+
+y t19_1 t25_29 0.115614255 -1
+
+y t25_21 t28_17 0.146763421 -1
+
+y t25_33 t28_15 0.146763421 -1
+
+y t25_13 t28_14 0.146763421 -1
+
+y t15_4 t29_6 0.351405714 -1
+
+y t25_43 t28_37 0.146763421 -1
+
+s delay_t19_2_t23_27 75.0 -1
+y t19_2 delay_t19_2_t23_27 0.095830938 -1
+y delay_t19_2_t23_27 t23_27 1.0 -1
+
+y t25_43 t28_34 0.146763421 -1
+
+s delay_t25_20_t28_4 75.0 -1
+y t25_20 delay_t25_20_t28_4 0.146763421 -1
+y delay_t25_20_t28_4 t28_4 1.0 -1
+
+y t25_37 t28_26 0.146763421 -1
+
+y t25_33 t28_34 0.146763421 -1
+
+y t25_46 t28_28 0.146763421 -1
+
+y t25_25 t28_1 0.146763421 -1
+
+s delay_t19_2_t23_3 150.0 -1
+y t19_2 delay_t19_2_t23_3 0.095830938 -1
+y delay_t19_2_t23_3 t23_3 1.0 -1
+
+y t25_24 t28_13 0.146763421 -1
+
+y t25_28 t28_37 0.146763421 -1
+
+y t21_3 t27_9 0.211286 -1
+
+y t25_9 t28_27 0.146763421 -1
+
+y t25_46 t28_16 0.146763421 -1
+
+y t25_25 t28_31 0.146763421 -1
+
+s delay_t25_14_t28_38 75.0 -1
+y t25_14 delay_t25_14_t28_38 0.146763421 -1
+y delay_t25_14_t28_38 t28_38 1.0 -1
+
+s delay_t15_1_t19_2 75.0 -1
+y t15_1 delay_t15_1_t19_2 0.470326667 -1
+y delay_t15_1_t19_2 t19_2 1.0 -1
+
+y t15_3 t27_13 0.163685333 -1
+
+y t25_10 t28_14 0.146763421 -1
+
+y t25_22 t28_16 0.146763421 -1
+
+y t25_6 t28_28 0.146763421 -1
+
+y t25_27 t28_10 0.146763421 -1
+
+y t21_1 t27_6 0.211286 -1
+
+y t21_1 t27_13 0.211286 -1
+
+s delay_t25_7_t28_2 75.0 -1
+y t25_7 delay_t25_7_t28_2 0.146763421 -1
+y delay_t25_7_t28_2 t28_2 1.0 -1
+
+s delay_t19_2_t25_14 75.0 -1
+y t19_2 delay_t19_2_t25_14 0.115614255 -1
+y delay_t19_2_t25_14 t25_14 1.0 -1
+
+y t25_9 t28_16 0.146763421 -1
+
+y t25_11 t28_10 0.146763421 -1
+
+y t25_25 t28_37 0.146763421 -1
+
+y t25_18 t28_13 0.146763421 -1
+
+y t25_37 t28_19 0.146763421 -1
+
+y t25_29 t28_4 0.146763421 -1
+
+s delay_t25_20_t28_24 75.0 -1
+y t25_20 delay_t25_20_t28_24 0.146763421 -1
+y delay_t25_20_t28_24 t28_24 1.0 -1
+
+s delay_t19_1_t24_5 75.0 -1
+y t19_1 delay_t19_1_t24_5 0.2528425 -1
+y delay_t19_1_t24_5 t24_5 1.0 -1
+
+y t25_4 t28_8 0.146763421 -1
+
+s delay_t25_2_t28_3 75.0 -1
+y t25_2 delay_t25_2_t28_3 0.146763421 -1
+y delay_t25_2_t28_3 t28_3 1.0 -1
+
+s delay_t25_14_t28_21 75.0 -1
+y t25_14 delay_t25_14_t28_21 0.146763421 -1
+y delay_t25_14_t28_21 t28_21 1.0 -1
+
+s delay_t19_1_t23_12 75.0 -1
+y t19_1 delay_t19_1_t23_12 0.095830938 -1
+y delay_t19_1_t23_12 t23_12 1.0 -1
+
+s delay_t25_26_t28_2 75.0 -1
+y t25_26 delay_t25_26_t28_2 0.146763421 -1
+y delay_t25_26_t28_2 t28_2 1.0 -1
+
+y t25_8 t28_24 0.146763421 -1
+
+y t25_27 t28_7 0.146763421 -1
+
+y t02 t27_6 0.078314667 -1
+
+y t25_12 t28_20 0.146763421 -1
+
+y t19_1 t25_9 0.115614255 -1
+
+y t25_22 t28_8 0.146763421 -1
+
+s delay_t14_2_t16_2 225.0 -1
+y t14_2 delay_t14_2_t16_2 0.547273333 -1
+y delay_t14_2_t16_2 t16_2 1.0 -1
+
+y t25_8 t28_21 0.146763421 -1
+
+y t21_1 t27_10 0.211286 -1
+
+y t25_30 t28_18 0.146763421 -1
+
+y t13_2 t15_4 0.433336 -1
+
+y t25_5 t28_12 0.146763421 -1
+
+y t25_33 t28_10 0.146763421 -1
+
+y t25_29 t28_12 0.146763421 -1
+
+y t25_9 t28_19 0.146763421 -1
+
+y t25_20 t28_2 0.146763421 -1
+
+y t25_37 t28_20 0.146763421 -1
+
+y t25_18 t28_24 0.146763421 -1
+
+y t25_5 t28_16 0.146763421 -1
+
+y t19_1 t25_36 0.115614255 -1
+
+y t25_41 t28_36 0.146763421 -1
+
+y t25_42 t28_23 0.146763421 -1
+
+y t21_1 t27_7 0.211286 -1
+
+y t25_33 t28_27 0.146763421 -1
+
+s delay_t06_2_t12 75.0 -1
+y t06_2 delay_t06_2_t12 0.265247 -1
+y delay_t06_2_t12 t12 1.0 -1
+
+y t25_44 t28_37 0.146763421 -1
+
+y t25_22 t28_28 0.146763421 -1
+
+y t25_1 t28_26 0.146763421 -1
+
+y t25_41 t28_10 0.146763421 -1
+
+y t25_16 t28_33 0.146763421 -1
+
+y t25_32 t28_37 0.146763421 -1
+
+s delay_t19_2_t23_29 75.0 -1
+y t19_2 delay_t19_2_t23_29 0.095830938 -1
+y delay_t19_2_t23_29 t23_29 1.0 -1
+
+s delay_t25_21_t28_32 75.0 -1
+y t25_21 delay_t25_21_t28_32 0.146763421 -1
+y delay_t25_21_t28_32 t28_32 1.0 -1
+
+y t25_29 t28_13 0.146763421 -1
+
+s delay_t25_42_t28_2 75.0 -1
+y t25_42 delay_t25_42_t28_2 0.146763421 -1
+y delay_t25_42_t28_2 t28_2 1.0 -1
+
+y t25_26 t28_25 0.146763421 -1
+
+s delay_t25_45_t28_32 75.0 -1
+y t25_45 delay_t25_45_t28_32 0.146763421 -1
+y delay_t25_45_t28_32 t28_32 1.0 -1
+
+y t25_4 t28_7 0.146763421 -1
+
+y t25_10 t28_25 0.146763421 -1
+
+y t25_11 t28_27 0.146763421 -1
+
+y t25_38 t28_38 0.146763421 -1
+
+y t25_39 t28_6 0.146763421 -1
+
+y t19_2 t25_23 0.115614255 -1
+
+y t15_5 t29_5 0.351405714 -1
+
+y t25_46 t28_21 0.146763421 -1
+
+s delay_t19_3_t23_28 75.0 -1
+y t19_3 delay_t19_3_t23_28 0.095830938 -1
+y delay_t19_3_t23_28 t23_28 1.0 -1
+
+y t25_9 t28_17 0.146763421 -1
+
+y t21_3 t27_5 0.211286 -1
+
+y t21_4 t27_12 0.211286 -1
+
+y t25_16 t28_10 0.146763421 -1
+
+s delay_t25_14_t28_28 75.0 -1
+y t25_14 delay_t25_14_t28_28 0.146763421 -1
+y delay_t25_14_t28_28 t28_28 1.0 -1
+
+y t25_31 t28_27 0.146763421 -1
+
+y t25_40 t28_34 0.146763421 -1
+
+y t25_35 t28_22 0.146763421 -1
+
+y t19_2 t25_35 0.115614255 -1
+
+y t19_2 t25_36 0.115614255 -1
+
+y t25_6 t28_14 0.146763421 -1
+
+s delay_t25_29_t28_32 75.0 -1
+y t25_29 delay_t25_29_t28_32 0.146763421 -1
+y delay_t25_29_t28_32 t28_32 1.0 -1
+
+y t21_4 t27_6 0.211286 -1
+
+y t25_4 t28_33 0.146763421 -1
+
+s delay_t25_14_t28_9 75.0 -1
+y t25_14 delay_t25_14_t28_9 0.146763421 -1
+y delay_t25_14_t28_9 t28_9 1.0 -1
+
+y t25_12 t28_26 0.146763421 -1
+
+y t25_39 t28_22 0.146763421 -1
+
+y t25_21 t28_26 0.146763421 -1
+
+y t25_10 t28_37 0.146763421 -1
+
+s delay_t19_2_t23_32 150.0 -1
+y t19_2 delay_t19_2_t23_32 0.095830938 -1
+y delay_t19_2_t23_32 t23_32 1.0 -1
+
+y t21_2 t27_10 0.211286 -1
+
+y t25_36 t28_27 0.146763421 -1
+
+y t25_35 t28_6 0.146763421 -1
+
+s delay_t19_3_t24_1 75.0 -1
+y t19_3 delay_t19_3_t24_1 0.2528425 -1
+y delay_t19_3_t24_1 t24_1 1.0 -1
+
+y t25_10 t28_11 0.146763421 -1
+
+y t25_46 t28_6 0.146763421 -1
+
+y t21_3 t27_8 0.211286 -1
+
+y t25_29 t28_25 0.146763421 -1
+
+y t19_3 t25_47 0.115614255 -1
+
+y t25_39 t28_31 0.146763421 -1
+
+y t25_42 t28_10 0.146763421 -1
+
+y t25_39 t28_38 0.146763421 -1
+
+y t25_19 t28_24 0.146763421 -1
+
+y t25_35 t28_5 0.146763421 -1
+
+y t25_16 t28_35 0.146763421 -1
+
+y t25_21 t28_30 0.146763421 -1
+
+y t19_2 t25_27 0.115614255 -1
+
+y t25_31 t28_13 0.146763421 -1
+
+y t25_40 t28_20 0.146763421 -1
+
+y t25_35 t28_31 0.146763421 -1
+
+y t19_1 t25_5 0.115614255 -1
+
+s delay_t25_19_t28_2 75.0 -1
+y t25_19 delay_t25_19_t28_2 0.146763421 -1
+y delay_t25_19_t28_2 t28_2 1.0 -1
+
+y t25_35 t28_34 0.146763421 -1
+
+y t21_2 t27_13 0.211286 -1
+
+s delay_t06_2_t10 150.0 -1
+y t06_2 delay_t06_2_t10 1.05663 -1
+y delay_t06_2_t10 t10 1.0 -1
+
+y t25_16 t28_26 0.146763421 -1
+
+y t25_32 t28_26 0.146763421 -1
+
+y t25_45 t28_38 0.146763421 -1
+
+s delay_t19_3_t26_6 75.0 -1
+y t19_3 delay_t19_3_t26_6 0.260628333 -1
+y delay_t19_3_t26_6 t26_6 1.0 -1
+
+y t21_6 t27_3 0.211286 -1
+
+y t25_25 t28_36 0.146763421 -1
+
+y t19_2 t25_42 0.115614255 -1
+
+s delay_t25_20_t28_6 75.0 -1
+y t25_20 delay_t25_20_t28_6 0.146763421 -1
+y delay_t25_20_t28_6 t28_6 1.0 -1
+
+y t19_1 t25_46 0.115614255 -1
+
+y t25_36 t28_6 0.146763421 -1
+
+y t25_42 t28_25 0.146763421 -1
+
+y t25_19 t28_8 0.146763421 -1
+
+y t25_6 t28_4 0.146763421 -1
+
+s delay_t25_34_t28_5 75.0 -1
+y t25_34 delay_t25_34_t28_5 0.146763421 -1
+y delay_t25_34_t28_5 t28_5 1.0 -1
+
+y t25_47 t28_12 0.146763421 -1
+
+y t25_47 t28_34 0.146763421 -1
+
+y t25_25 t28_6 0.146763421 -1
+
+y t25_6 t28_17 0.146763421 -1
+
+y t25_40 t28_9 0.146763421 -1
+
+y t25_27 t28_1 0.146763421 -1
+
+y t25_23 t28_15 0.146763421 -1
+
+y t21_2 t27_1 0.211286 -1
+
+y t25_40 t28_14 0.146763421 -1
+
+y t19_3 t25_41 0.115614255 -1
+
+y t15_3 t27_11 0.163685333 -1
+
+y t25_40 t28_18 0.146763421 -1
+
+y t25_39 t28_9 0.146763421 -1
+
+y t25_3 t28_7 0.146763421 -1
+
+y t25_19 t28_4 0.146763421 -1
+
+y t25_16 t28_8 0.146763421 -1
+
+y t25_37 t28_21 0.146763421 -1
+
+y t19_3 t25_7 0.115614255 -1
+
+s delay_t19_3_t23_19 75.0 -1
+y t19_3 delay_t19_3_t23_19 0.095830938 -1
+y delay_t19_3_t23_19 t23_19 1.0 -1
+
+y t15_2 t27_3 0.163685333 -1
+
+y t25_27 t28_3 0.146763421 -1
+
+s delay_t25_30_t28_29 75.0 -1
+y t25_30 delay_t25_30_t28_29 0.146763421 -1
+y delay_t25_30_t28_29 t28_29 1.0 -1
+
+y t19_3 t25_16 0.115614255 -1
+
+y t25_39 t28_4 0.146763421 -1
+
+s delay_t25_14_t28_26 75.0 -1
+y t25_14 delay_t25_14_t28_26 0.146763421 -1
+y delay_t25_14_t28_26 t28_26 1.0 -1
+
+y t25_28 t28_15 0.146763421 -1
+
+y t19_2 t25_17 0.115614255 -1
+
+y t21_2 t27_8 0.211286 -1
+
+y t25_9 t28_7 0.146763421 -1
+
+y t25_4 t28_5 0.146763421 -1
+
+y t25_19 t28_9 0.146763421 -1
+
+y t25_22 t28_30 0.146763421 -1
+
+s delay_t25_20_t28_28 75.0 -1
+y t25_20 delay_t25_20_t28_28 0.146763421 -1
+y delay_t25_20_t28_28 t28_28 1.0 -1
+
+s delay_t25_2_t28_21 75.0 -1
+y t25_2 delay_t25_2_t28_21 0.146763421 -1
+y delay_t25_2_t28_21 t28_21 1.0 -1
+
+y t25_38 t28_7 0.146763421 -1
+
+y t25_47 t28_37 0.146763421 -1
+
+s delay_t19_3_t21_1 75.0 -1
+y t19_3 delay_t19_3_t21_1 0.345151429 -1
+y delay_t19_3_t21_1 t21_1 1.0 -1
+
+y t25_33 t28_13 0.146763421 -1
+
+y t25_24 t28_8 0.146763421 -1
+
+s delay_t25_34_t28_3 75.0 -1
+y t25_34 delay_t25_34_t28_3 0.146763421 -1
+y delay_t25_34_t28_3 t28_3 1.0 -1
+
+y t25_25 t28_4 0.146763421 -1
+
+s delay_t19_3_t24_7 75.0 -1
+y t19_3 delay_t19_3_t24_7 0.2528425 -1
+y delay_t19_3_t24_7 t24_7 1.0 -1
+
+y t25_4 t28_13 0.146763421 -1
+
+y t25_23 t28_10 0.146763421 -1
+
+y t15_5 t27_5 0.163685333 -1
+
+s delay_t25_34_t28_24 75.0 -1
+y t25_34 delay_t25_34_t28_24 0.146763421 -1
+y delay_t25_34_t28_24 t28_24 1.0 -1
+
+y t25_40 t28_26 0.146763421 -1
+
+y t06_1 t09_1 1.176926667 -1
+
+s delay_t25_44_t28_29 75.0 -1
+y t25_44 delay_t25_44_t28_29 0.146763421 -1
+y delay_t25_44_t28_29 t28_29 1.0 -1
+
+s delay_t19_3_t23_1 75.0 -1
+y t19_3 delay_t19_3_t23_1 0.095830938 -1
+y delay_t19_3_t23_1 t23_1 1.0 -1
+
+s delay_t19_2_t23_30 75.0 -1
+y t19_2 delay_t19_2_t23_30 0.095830938 -1
+y delay_t19_2_t23_30 t23_30 1.0 -1
+
+y t19_3 t25_44 0.115614255 -1
+
+y t25_13 t28_5 0.146763421 -1
+
+y t25_46 t28_15 0.146763421 -1
+
+y t25_10 t28_24 0.146763421 -1
+
+s delay_t25_14_t28_34 75.0 -1
+y t25_14 delay_t25_14_t28_34 0.146763421 -1
+y delay_t25_14_t28_34 t28_34 1.0 -1
+
+y t19_1 t25_22 0.115614255 -1
+
+s delay_t25_2_t28_13 75.0 -1
+y t25_2 delay_t25_2_t28_13 0.146763421 -1
+y delay_t25_2_t28_13 t28_13 1.0 -1
+
+y t07 t15_4 0.448896 -1
+
+y t25_12 t28_18 0.146763421 -1
+
+y t25_45 t28_19 0.146763421 -1
+
+y t25_45 t28_24 0.146763421 -1
+
+y t25_12 t28_14 0.146763421 -1
+
+y t25_36 t28_20 0.146763421 -1
+
+y t25_36 t28_35 0.146763421 -1
+
+s delay_t15_3_t19_2 75.0 -1
+y t15_3 delay_t15_3_t19_2 0.470326667 -1
+y delay_t15_3_t19_2 t19_2 1.0 -1
+
+y t15_1 t29_1 0.351405714 -1
+
+y t25_28 t28_22 0.146763421 -1
+
+s delay_t19_3_t21_6 75.0 -1
+y t19_3 delay_t19_3_t21_6 0.345151429 -1
+y delay_t19_3_t21_6 t21_6 1.0 -1
+
+y t25_43 t28_35 0.146763421 -1
+
+s delay_t25_38_t28_2 75.0 -1
+y t25_38 delay_t25_38_t28_2 0.146763421 -1
+y delay_t25_38_t28_2 t28_2 1.0 -1
+
+y t25_29 t28_16 0.146763421 -1
+
+y t15_4 t27_8 0.163685333 -1
+
+y t21_5 t27_2 0.211286 -1
+
+y t15_4 t27_1 0.163685333 -1
+
+y t25_41 t28_4 0.146763421 -1
+
+s delay_t21_7_t27_15 75.0 -1
+y t21_7 delay_t21_7_t27_15 0.211286 -1
+y delay_t21_7_t27_15 t27_15 1.0 -1
+
+y t25_40 t28_6 0.146763421 -1
+
+s delay_t21_7_t27_3 75.0 -1
+y t21_7 delay_t21_7_t27_3 0.211286 -1
+y delay_t21_7_t27_3 t27_3 1.0 -1
+
+y t25_5 t28_23 0.146763421 -1
+
+y t25_4 t28_14 0.146763421 -1
+
+y t25_2 t28_29 0.146763421 -1
+
+y t25_13 t28_10 0.146763421 -1
+
+y t25_47 t28_11 0.146763421 -1
+
+y t25_27 t28_18 0.146763421 -1
+
+y t25_41 t28_7 0.146763421 -1
+
+s delay_t19_1_t23_23 75.0 -1
+y t19_1 delay_t19_1_t23_23 0.095830938 -1
+y delay_t19_1_t23_23 t23_23 1.0 -1
+
+s delay_t19_1_t23_2 75.0 -1
+y t19_1 delay_t19_1_t23_2 0.095830938 -1
+y delay_t19_1_t23_2 t23_2 1.0 -1
+
+y t25_7 t28_34 0.146763421 -1
+
+y t25_45 t28_18 0.146763421 -1
+
+y t25_33 t28_35 0.146763421 -1
+
+y t25_38 t28_10 0.146763421 -1
+
+y t15_5 t27_6 0.163685333 -1
+
+y t25_31 t28_23 0.146763421 -1
+
+y t19_2 t25_16 0.115614255 -1
+
+y t25_23 t28_14 0.146763421 -1
+
+y t19_1 t25_7 0.115614255 -1
+
+y t25_10 t28_34 0.146763421 -1
+
+y t21_5 t27_6 0.211286 -1
+
+s delay_t19_1_t23_7 75.0 -1
+y t19_1 delay_t19_1_t23_7 0.095830938 -1
+y delay_t19_1_t23_7 t23_7 1.0 -1
+
+y t25_29 t28_9 0.146763421 -1
+
+y t25_37 t28_27 0.146763421 -1
+
+y t04 t06_1 0.8865 -1
+
+y t25_11 t28_22 0.146763421 -1
+
+s delay_t25_2_t28_15 75.0 -1
+y t25_2 delay_t25_2_t28_15 0.146763421 -1
+y delay_t25_2_t28_15 t28_15 1.0 -1
+
+y t25_18 t28_28 0.146763421 -1
+
+y t25_5 t28_20 0.146763421 -1
+
+y t25_15 t28_5 0.146763421 -1
+
+y t25_23 t28_12 0.146763421 -1
+
+y t25_29 t28_36 0.146763421 -1
+
+y t25_35 t28_3 0.146763421 -1
+
+y t25_24 t28_25 0.146763421 -1
+
+y t25_43 t28_31 0.146763421 -1
+
+y t25_3 t28_26 0.146763421 -1
+
+y t25_30 t28_3 0.146763421 -1
+
+y t19_3 t25_4 0.115614255 -1
+
+y t25_28 t28_26 0.146763421 -1
+
+s delay_t19_1_t25_34 75.0 -1
+y t19_1 delay_t19_1_t25_34 0.115614255 -1
+y delay_t19_1_t25_34 t25_34 1.0 -1
+
+y t25_8 t28_25 0.146763421 -1
+
+y t13_1 t18 2.69501 -1
+
+s delay_t25_20_t28_3 75.0 -1
+y t25_20 delay_t25_20_t28_3 0.146763421 -1
+y delay_t25_20_t28_3 t28_3 1.0 -1
+
+y t25_4 t28_17 0.146763421 -1
+
+s delay_t25_23_t28_32 75.0 -1
+y t25_23 delay_t25_23_t28_32 0.146763421 -1
+y delay_t25_23_t28_32 t28_32 1.0 -1
+
+y t25_44 t28_35 0.146763421 -1
+
+y t25_27 t28_20 0.146763421 -1
+
+y t25_28 t28_7 0.146763421 -1
+
+y t25_4 t28_31 0.146763421 -1
+
+y t25_28 t28_16 0.146763421 -1
+
+y t25_17 t28_4 0.146763421 -1
+
+s delay_t22_t29_2 75.0 -1
+y t22 delay_t22_t29_2 0.131776429 -1
+y delay_t22_t29_2 t29_2 1.0 -1
+
+y t25_18 t28_1 0.146763421 -1
+
+y t25_22 t28_35 0.146763421 -1
+
+y t19_2 t22 0.525057 -1
+
+y t25_7 t28_21 0.146763421 -1
+
+y t25_10 t28_27 0.146763421 -1
+
+y t21_6 t27_1 0.211286 -1
+
+s delay_t25_20_t28_14 75.0 -1
+y t25_20 delay_t25_20_t28_14 0.146763421 -1
+y delay_t25_20_t28_14 t28_14 1.0 -1
+
+y t25_17 t28_24 0.146763421 -1
+
+y t15_3 t29_1 0.351405714 -1
+
+y t25_36 t28_31 0.146763421 -1
+
+y t21_1 t27_4 0.211286 -1
+
+y t25_23 t28_31 0.146763421 -1
+
+y t25_8 t28_3 0.146763421 -1
+
+y t06_1 t11 1.86006 -1
+
+y t25_1 t28_35 0.146763421 -1
+
+s delay_t25_35_t28_29 75.0 -1
+y t25_35 delay_t25_35_t28_29 0.146763421 -1
+y delay_t25_35_t28_29 t28_29 1.0 -1
+
+y t25_43 t28_36 0.146763421 -1
+
+y t25_1 t28_10 0.146763421 -1
+
+y t25_46 t28_36 0.146763421 -1
+
+y t15_4 t29_1 0.351405714 -1
+
+s delay_t15_2_t19_1 75.0 -1
+y t15_2 delay_t15_2_t19_1 0.470326667 -1
+y delay_t15_2_t19_1 t19_1 1.0 -1
+
+y t25_7 t28_20 0.146763421 -1
+
+s delay_t25_19_t28_32 75.0 -1
+y t25_19 delay_t25_19_t28_32 0.146763421 -1
+y delay_t25_19_t28_32 t28_32 1.0 -1
+
+y t25_44 t28_22 0.146763421 -1
+
+s delay_t19_3_t23_3 150.0 -1
+y t19_3 delay_t19_3_t23_3 0.095830938 -1
+y delay_t19_3_t23_3 t23_3 1.0 -1
+
+y t25_17 t28_12 0.146763421 -1
+
+y t25_45 t28_37 0.146763421 -1
+
+y t25_46 t28_10 0.146763421 -1
+
+y t25_27 t28_22 0.146763421 -1
+
+y t25_37 t28_3 0.146763421 -1
+
+y t25_13 t28_8 0.146763421 -1
+
+s delay_t25_14_t28_15 75.0 -1
+y t25_14 delay_t25_14_t28_15 0.146763421 -1
+y delay_t25_14_t28_15 t28_15 1.0 -1
+
+y t25_23 t28_35 0.146763421 -1
+
+y t25_37 t28_11 0.146763421 -1
+
+y t25_11 t28_5 0.146763421 -1
+
+y t25_9 t28_31 0.146763421 -1
+
+y t25_27 t28_33 0.146763421 -1
+
+y t21_3 t27_6 0.211286 -1
+
+y t25_43 t28_16 0.146763421 -1
+
+y t25_42 t28_26 0.146763421 -1
+
+y t25_15 t28_26 0.146763421 -1
+
+y t25_6 t28_35 0.146763421 -1
+
+s delay_t19_1_t23_21 75.0 -1
+y t19_1 delay_t19_1_t23_21 0.095830938 -1
+y delay_t19_1_t23_21 t23_21 1.0 -1
+
+y t25_46 t28_30 0.146763421 -1
+
+y t25_11 t28_25 0.146763421 -1
+
+y t25_28 t28_8 0.146763421 -1
+
+y t25_30 t28_37 0.146763421 -1
+
+y t25_8 t28_11 0.146763421 -1
+
+s delay_t25_34_t28_7 75.0 -1
+y t25_34 delay_t25_34_t28_7 0.146763421 -1
+y delay_t25_34_t28_7 t28_7 1.0 -1
+
+y t25_29 t28_15 0.146763421 -1
+
+y t15_5 t27_14 0.163685333 -1
+
+y t25_25 t28_3 0.146763421 -1
+
+y t25_35 t28_21 0.146763421 -1
+
+y t15_5 t27_7 0.163685333 -1
+
+s delay_t25_41_t28_32 75.0 -1
+y t25_41 delay_t25_41_t28_32 0.146763421 -1
+y delay_t25_41_t28_32 t28_32 1.0 -1
+
+y t25_28 t28_17 0.146763421 -1
+
+y t19_3 t25_36 0.115614255 -1
+
+y t25_4 t28_11 0.146763421 -1
+
+y t25_9 t28_14 0.146763421 -1
+
+y t25_15 t28_23 0.146763421 -1
+
+y t19_2 t26_4 0.260628333 -1
+
+y t19_1 t25_27 0.115614255 -1
+
+s delay_t25_14_t28_5 75.0 -1
+y t25_14 delay_t25_14_t28_5 0.146763421 -1
+y delay_t25_14_t28_5 t28_5 1.0 -1
+
+s delay_t25_2_t28_18 75.0 -1
+y t25_2 delay_t25_2_t28_18 0.146763421 -1
+y delay_t25_2_t28_18 t28_18 1.0 -1
+
+y t25_37 t28_4 0.146763421 -1
+
+y t21_6 t27_2 0.211286 -1
+
+y t25_9 t28_4 0.146763421 -1
+
+y t25_47 t28_1 0.146763421 -1
+
+y t25_31 t28_28 0.146763421 -1
+
+y t25_23 t28_23 0.146763421 -1
+
+y t25_24 t28_3 0.146763421 -1
+
+y t25_38 t28_24 0.146763421 -1
+
+y t19_1 t25_43 0.115614255 -1
+
+y t25_22 t28_26 0.146763421 -1
+
+y t25_40 t28_17 0.146763421 -1
+
+y t25_28 t28_14 0.146763421 -1
+
+y t15_3 t27_12 0.163685333 -1
+
+y t19_1 t25_16 0.115614255 -1
+
+y t15_5 t27_11 0.163685333 -1
+
+y t02 t27_3 0.078314667 -1
+
+y t25_40 t28_28 0.146763421 -1
+
+s delay_t25_2_t28_31 75.0 -1
+y t25_2 delay_t25_2_t28_31 0.146763421 -1
+y delay_t25_2_t28_31 t28_31 1.0 -1
+
+y t25_33 t28_33 0.146763421 -1
+
+y t25_29 t28_14 0.146763421 -1
+
+y t25_30 t28_33 0.146763421 -1
+
+s delay_t25_8_t28_2 75.0 -1
+y t25_8 delay_t25_8_t28_2 0.146763421 -1
+y delay_t25_8_t28_2 t28_2 1.0 -1
+
+s delay_t19_1_t26_2 75.0 -1
+y t19_1 delay_t19_1_t26_2 0.260628333 -1
+y delay_t19_1_t26_2 t26_2 1.0 -1
+
+s delay_t19_1_t21_4 75.0 -1
+y t19_1 delay_t19_1_t21_4 0.345151429 -1
+y delay_t19_1_t21_4 t21_4 1.0 -1
+
+y t25_12 t28_3 0.146763421 -1
+
+y t25_43 t28_10 0.146763421 -1
+
+y t25_1 t28_8 0.146763421 -1
+
+y t25_18 t28_36 0.146763421 -1
+
+y t25_15 t28_30 0.146763421 -1
+
+y t25_17 t28_35 0.146763421 -1
+
+s delay_t19_1_t23_1 75.0 -1
+y t19_1 delay_t19_1_t23_1 0.095830938 -1
+y delay_t19_1_t23_1 t23_1 1.0 -1
+
+y t25_10 t28_35 0.146763421 -1
+
+y t25_42 t28_31 0.146763421 -1
+
+y t25_8 t28_22 0.146763421 -1
+
+y t19_2 t25_46 0.115614255 -1
+
+s delay_t25_20_t28_26 75.0 -1
+y t25_20 delay_t25_20_t28_26 0.146763421 -1
+y delay_t25_20_t28_26 t28_26 1.0 -1
+
+y t25_27 t28_5 0.146763421 -1
+
+y t25_47 t28_33 0.146763421 -1
+
+y t25_16 t28_4 0.146763421 -1
+
+y t25_15 t28_6 0.146763421 -1
+
+y t25_42 t28_37 0.146763421 -1
+
+y t25_43 t28_19 0.146763421 -1
+
+s delay_t25_9_t28_32 75.0 -1
+y t25_9 delay_t25_9_t28_32 0.146763421 -1
+y delay_t25_9_t28_32 t28_32 1.0 -1
+
+y t25_17 t28_8 0.146763421 -1
+
+y t25_24 t28_1 0.146763421 -1
+
+s delay_t19_3_t23_23 75.0 -1
+y t19_3 delay_t19_3_t23_23 0.095830938 -1
+y delay_t19_3_t23_23 t23_23 1.0 -1
+
+y t25_5 t28_36 0.146763421 -1
+
+s delay_t19_2_t23_28 75.0 -1
+y t19_2 delay_t19_2_t23_28 0.095830938 -1
+y delay_t19_2_t23_28 t23_28 1.0 -1
+
+y t25_32 t28_35 0.146763421 -1
+
+y t25_37 t28_31 0.146763421 -1
+
+y t13_1 t15_2 0.433336 -1
+
+y t25_7 t28_35 0.146763421 -1
+
+y t25_40 t28_25 0.146763421 -1
+
+y t25_28 t28_24 0.146763421 -1
+
+y t25_42 t28_14 0.146763421 -1
+
+y t25_15 t28_15 0.146763421 -1
+
+y t25_41 t28_3 0.146763421 -1
+
+y t25_32 t28_19 0.146763421 -1
+
+y t19_1 t23_9 0.095830938 -1
+
+y t19_1 t25_17 0.115614255 -1
+
+y t25_40 t28_10 0.146763421 -1
+
+y t25_32 t28_24 0.146763421 -1
+
+y t19_1 t25_32 0.115614255 -1
+
+s delay_t19_3_t23_30 75.0 -1
+y t19_3 delay_t19_3_t23_30 0.095830938 -1
+y delay_t19_3_t23_30 t23_30 1.0 -1
+
+y t25_30 t28_12 0.146763421 -1
+
+y t25_43 t28_7 0.146763421 -1
+
+y t25_30 t28_5 0.146763421 -1
+
+s delay_t15_3_t19_1 75.0 -1
+y t15_3 delay_t15_3_t19_1 0.470326667 -1
+y delay_t15_3_t19_1 t19_1 1.0 -1
+
+y t25_15 t28_27 0.146763421 -1
+
+y t25_44 t28_25 0.146763421 -1
+
+y t25_10 t28_9 0.146763421 -1
+
+y t25_32 t28_25 0.146763421 -1
+
+s delay_t19_2_t24_6 75.0 -1
+y t19_2 delay_t19_2_t24_6 0.2528425 -1
+y delay_t19_2_t24_6 t24_6 1.0 -1
+
+s delay_t11_t14_1 75.0 -1
+y t11 delay_t11_t14_1 0.8389425 -1
+y delay_t11_t14_1 t14_1 1.0 -1
+
+y t25_17 t28_14 0.146763421 -1
+
+y t25_21 t28_34 0.146763421 -1
+
+s delay_t19_2_t23_1 75.0 -1
+y t19_2 delay_t19_2_t23_1 0.095830938 -1
+y delay_t19_2_t23_1 t23_1 1.0 -1
+
+y t15_5 t27_15 0.163685333 -1
+
+y t25_45 t28_22 0.146763421 -1
+
+y t25_44 t28_13 0.146763421 -1
+
+y t25_35 t28_11 0.146763421 -1
+
+y t25_24 t28_17 0.146763421 -1
+
+y t25_1 t28_23 0.146763421 -1
+
+y t25_3 t28_28 0.146763421 -1
+
+y t25_39 t28_16 0.146763421 -1
+
+y t25_41 t28_35 0.146763421 -1
+
+y t25_28 t28_33 0.146763421 -1
+
+y t25_31 t28_36 0.146763421 -1
+
+y t25_44 t28_8 0.146763421 -1
+
+y t15_5 t27_3 0.163685333 -1
+
+y t25_24 t28_19 0.146763421 -1
+
+y t25_29 t28_33 0.146763421 -1
+
+s delay_t25_34_t28_37 75.0 -1
+y t25_34 delay_t25_34_t28_37 0.146763421 -1
+y delay_t25_34_t28_37 t28_37 1.0 -1
+
+s delay_t19_3_t23_27 75.0 -1
+y t19_3 delay_t19_3_t23_27 0.095830938 -1
+y delay_t19_3_t23_27 t23_27 1.0 -1
+
+y t25_12 t28_16 0.146763421 -1
+
+y t19_2 t25_1 0.115614255 -1
+
+y t25_8 t28_10 0.146763421 -1
+
+y t14_1 t16_2 0.547273333 -1
+
+y t25_16 t28_15 0.146763421 -1
+
+y t25_29 t28_35 0.146763421 -1
+
+s delay_t07_t08_1 150.0 -1
+y t07 delay_t07_t08_1 0.7624 -1
+y delay_t07_t08_1 t08_1 1.0 -1
+
+y t25_17 t28_19 0.146763421 -1
+
+y t25_15 t28_18 0.146763421 -1
+
+s delay_t25_17_t28_29 75.0 -1
+y t25_17 delay_t25_17_t28_29 0.146763421 -1
+y delay_t25_17_t28_29 t28_29 1.0 -1
+
+s delay_t19_3_t23_20 75.0 -1
+y t19_3 delay_t19_3_t23_20 0.095830938 -1
+y delay_t19_3_t23_20 t23_20 1.0 -1
+
+y t25_1 t28_16 0.146763421 -1
+
+y t25_9 t28_34 0.146763421 -1
+
+y t25_17 t28_33 0.146763421 -1
+
+y t25_39 t28_30 0.146763421 -1
+
+s delay_t19_2_t26_2 75.0 -1
+y t19_2 delay_t19_2_t26_2 0.260628333 -1
+y delay_t19_2_t26_2 t26_2 1.0 -1
+
+s delay_t25_34_t28_4 75.0 -1
+y t25_34 delay_t25_34_t28_4 0.146763421 -1
+y delay_t25_34_t28_4 t28_4 1.0 -1
+
+s delay_t25_14_t28_35 75.0 -1
+y t25_14 delay_t25_14_t28_35 0.146763421 -1
+y delay_t25_14_t28_35 t28_35 1.0 -1
+
+s delay_t15_1_t19_3 75.0 -1
+y t15_1 delay_t15_1_t19_3 0.470326667 -1
+y delay_t15_1_t19_3 t19_3 1.0 -1
+
+y t25_8 t28_17 0.146763421 -1
+
+y t15_5 t27_1 0.163685333 -1
+
+y t25_18 t28_35 0.146763421 -1
+
+s delay_t25_14_t28_11 75.0 -1
+y t25_14 delay_t25_14_t28_11 0.146763421 -1
+y delay_t25_14_t28_11 t28_11 1.0 -1
+
+s delay_t25_25_t28_29 75.0 -1
+y t25_25 delay_t25_25_t28_29 0.146763421 -1
+y delay_t25_25_t28_29 t28_29 1.0 -1
+
+y t25_12 t28_23 0.146763421 -1
+
+y t25_27 t28_14 0.146763421 -1
+
+y t25_22 t28_11 0.146763421 -1
+
+y t21_4 t27_7 0.211286 -1
+
+y t21_4 t27_8 0.211286 -1
+
+y t25_17 t28_31 0.146763421 -1
+
+y t25_12 t28_11 0.146763421 -1
+
+y t25_30 t28_34 0.146763421 -1
+
+y t25_4 t28_10 0.146763421 -1
+
+y t25_32 t28_36 0.146763421 -1
+
+s delay_t25_34_t28_18 75.0 -1
+y t25_34 delay_t25_34_t28_18 0.146763421 -1
+y delay_t25_34_t28_18 t28_18 1.0 -1
+
+s delay_t25_34_t28_25 75.0 -1
+y t25_34 delay_t25_34_t28_25 0.146763421 -1
+y delay_t25_34_t28_25 t28_25 1.0 -1
+
+y t21_6 t27_4 0.211286 -1
+
+y t21_3 t27_4 0.211286 -1
+
+y t25_26 t28_5 0.146763421 -1
+
+y t25_7 t28_14 0.146763421 -1
+
+y t25_28 t28_10 0.146763421 -1
+
+y t25_33 t28_4 0.146763421 -1
+
+y t25_10 t28_10 0.146763421 -1
+
+y t25_18 t28_27 0.146763421 -1
+
+y t25_30 t28_11 0.146763421 -1
+
+s delay_t19_2_t23_17 75.0 -1
+y t19_2 delay_t19_2_t23_17 0.095830938 -1
+y delay_t19_2_t23_17 t23_17 1.0 -1
+
+y t25_30 t28_24 0.146763421 -1
+
+y t25_3 t28_1 0.146763421 -1
+
+s delay_t25_1_t28_32 75.0 -1
+y t25_1 delay_t25_1_t28_32 0.146763421 -1
+y delay_t25_1_t28_32 t28_32 1.0 -1
+
+s delay_t19_2_t23_5 150.0 -1
+y t19_2 delay_t19_2_t23_5 0.095830938 -1
+y delay_t19_2_t23_5 t23_5 1.0 -1
+
+y t15_3 t27_2 0.163685333 -1
+
+y t25_39 t28_15 0.146763421 -1
+
+y t25_6 t28_30 0.146763421 -1
+
+y t25_43 t28_13 0.146763421 -1
+
+y t25_3 t28_5 0.146763421 -1
+
+y t25_42 t28_24 0.146763421 -1
+
+y t19_2 t25_44 0.115614255 -1
+
+y t25_5 t28_28 0.146763421 -1
+
+y t25_19 t28_30 0.146763421 -1
+
+y t25_11 t28_34 0.146763421 -1
+
+y t25_40 t28_4 0.146763421 -1
+
+y t15_2 t27_8 0.163685333 -1
+
+y t25_12 t28_25 0.146763421 -1
+
+y t25_34 t28_32 0.146763421 -1
+
+y t21_5 t27_5 0.211286 -1
+
+s delay_t25_31_t28_2 75.0 -1
+y t25_31 delay_t25_31_t28_2 0.146763421 -1
+y delay_t25_31_t28_2 t28_2 1.0 -1
+
+s delay_t25_14_t28_36 75.0 -1
+y t25_14 delay_t25_14_t28_36 0.146763421 -1
+y delay_t25_14_t28_36 t28_36 1.0 -1
+
+y t21_5 t27_8 0.211286 -1
+
+y t25_5 t28_25 0.146763421 -1
+
+y t25_31 t28_4 0.146763421 -1
+
+y t19_3 t25_17 0.115614255 -1
+
+s delay_t19_3_t23_26 75.0 -1
+y t19_3 delay_t19_3_t23_26 0.095830938 -1
+y delay_t19_3_t23_26 t23_26 1.0 -1
+
+y t19_1 t25_39 0.115614255 -1
+
+y t25_35 t28_15 0.146763421 -1
+
+y t25_15 t28_16 0.146763421 -1
+
+s delay_t19_1_t23_18 75.0 -1
+y t19_1 delay_t19_1_t23_18 0.095830938 -1
+y delay_t19_1_t23_18 t23_18 1.0 -1
+
+y t25_46 t28_27 0.146763421 -1
+
+y t25_39 t28_37 0.146763421 -1
+
+y t25_21 t28_1 0.146763421 -1
+
+y t13_1 t15_3 0.433336 -1
+
+y t25_6 t28_18 0.146763421 -1
+
+y t25_16 t28_28 0.146763421 -1
+
+y t25_11 t28_38 0.146763421 -1
+
+y t25_43 t28_22 0.146763421 -1
+
+y t25_38 t28_9 0.146763421 -1
+
+y t25_1 t28_36 0.146763421 -1
+
+y t19_1 t25_45 0.115614255 -1
+
+y t25_23 t28_1 0.146763421 -1
+
+y t25_38 t28_37 0.146763421 -1
+
+y t21_6 t27_8 0.211286 -1
+
+y t25_22 t28_19 0.146763421 -1
+
+-1
+
+
+# R 0
+# $0=$thruput
+# -1

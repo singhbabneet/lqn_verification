@@ -1,0 +1,629 @@
+G
+""
+1.0E-4
+50
+1
+0.9
+-1
+
+P 0
+p c0 i
+p delayP i
+p TX1330M2_3_612 s 30 m 2 R 1.011723844
+p TX1330M2_3_613 s 30 m 3 R 1.011723844
+p TX1330M2_3_614 s 30 m 2 R 1.011723844
+p RX1330M3_4_615 s 30 m 2 R 1.226663072
+p RX1330M3_4_616 s 30 m 2 R 1.226663072
+p RX1330M3_4_617 s 30 m 1 R 1.226663072
+p TX1320M2_2_618 s 30 m 2
+p TX1320M2_2_619 s 30 m 2
+p TX1320M2_2_620 s 30 m 3
+p TX1320M2_1_621 s 30 m 2
+p TX1320M2_1_622 s 30 m 2
+p TX1320M2_1_623 s 30 m 2
+p TX1320M2_1_624 s 30 m 1
+p TX1320M2_1_625 s 30 m 3
+p TX1320M2_2_626 s 30 m 2
+p RX1330M3_5_627 s 30 m 2 R 1.226663072
+p RX1330M3_5_628 s 30 m 2 R 1.226663072
+p RX1330M3_5_629 s 30 m 2 R 1.226663072
+p TX1320M2_2_630 s 30 m 2
+p TX1320M2_1_631 s 30 m 3
+p TX1320M2_2_632 s 30 m 3
+p NF5280M4_6_633 s 30 m 4 R 0.676642858
+p NF5280M4_6_634 s 30 m 4 R 0.676642858
+p NF5280M4_6_635 s 30 m 3 R 0.676642858
+p NF5280M4_6_636 s 30 m 2 R 0.676642858
+p NF5280M4_6_637 s 30 m 4 R 0.676642858
+p NF5280M4_6_638 s 30 m 4 R 0.676642858
+p NF5280M4_6_639 s 30 m 4 R 0.676642858
+p NF5280M4_6_640 s 30 m 4 R 0.676642858
+p NF5280M4_6_641 s 30 m 4 R 0.676642858
+p NF5280M4_6_642 s 30 m 4 R 0.676642858
+p NF5280M4_6_643 s 30 m 4 R 0.676642858
+p NF5280M4_6_644 s 30 m 3 R 0.676642858
+p NF5280M4_6_645 s 30 m 4 R 0.676642858
+p NF5280M4_6_646 s 30 m 3 R 0.676642858
+p NF5280M4_6_647 s 30 m 4 R 0.676642858
+p NF5280M4_6_648 s 30 m 4 R 0.676642858
+p NF5280M4_6_649 s 30 m 4 R 0.676642858
+p NF5280M4_6_650 s 30 m 3 R 0.676642858
+p NF5280M4_6_651 s 30 m 4 R 0.676642858
+p NF5280M4_6_652 s 30 m 4 R 0.676642858
+p NF5280M4_6_653 s 30 m 4 R 0.676642858
+p NF5280M4_6_654 s 30 m 4 R 0.676642858
+p NF5280M4_6_655 s 30 m 3 R 0.676642858
+p NF5280M4_6_656 s 30 m 3 R 0.676642858
+p NF5280M4_6_657 s 30 m 4 R 0.676642858
+p NF5280M4_6_658 s 30 m 4 R 0.676642858
+-1
+
+T 0
+t c0 r c0 -1 c0 m 224
+t t0_1 n t0_1 -1 TX1330M2_3_612 m 224
+t t3_5 n t3_5 -1 TX1330M2_3_613 m 224
+t t0_3 n t0_3 -1 TX1330M2_3_614 m 224
+t t3_22 n t3_22 -1 RX1330M3_4_615 m 224
+t t3_24 n t3_24 -1 RX1330M3_4_616 m 224
+t t0_4 n t0_4 -1 RX1330M3_4_617 m 224
+t t2_11 n t2_11 -1 TX1320M2_2_618 m 224
+t t2_2 n t2_2 -1 TX1320M2_2_619 m 224
+t t3_20 n t3_20 -1 TX1320M2_2_620 m 224
+t t2_8 n t2_8 -1 TX1320M2_1_621 m 224
+t t0_2 n t0_2 -1 TX1320M2_1_622 m 224
+t t2_13 n t2_13 -1 TX1320M2_1_623 m 224
+t t1 n t1 -1 TX1320M2_1_624 m 224
+t t3_10 n t3_10 -1 TX1320M2_1_625 m 224
+t t2_6 n t2_6 -1 TX1320M2_2_626 m 224
+t t3_6 n t3_6 -1 RX1330M3_5_627 m 224
+t t2_3 n t2_3 -1 RX1330M3_5_628 m 224
+t t3_15 n t3_15 -1 RX1330M3_5_629 m 224
+t t2_5 n t2_5 -1 TX1320M2_2_630 m 224
+t t3_28 n t3_28 -1 TX1320M2_1_631 m 224
+t t3_7 n t3_7 -1 TX1320M2_2_632 m 224
+t t3_17 n t3_17 -1 NF5280M4_6_633 m 224
+t t3_27 n t3_27 -1 NF5280M4_6_634 m 224
+t t2_1 n t2_1 -1 NF5280M4_6_635 m 224
+t t0_5 n t0_5 -1 NF5280M4_6_636 m 224
+t t3_3 n t3_3 -1 NF5280M4_6_637 m 224
+t t3_8 n t3_8 -1 NF5280M4_6_638 m 224
+t t3_21 n t3_21 -1 NF5280M4_6_639 m 224
+t t3_13 n t3_13 -1 NF5280M4_6_640 m 224
+t t3_25 n t3_25 -1 NF5280M4_6_641 m 224
+t t3_2 n t3_2 -1 NF5280M4_6_642 m 224
+t t3_19 n t3_19 -1 NF5280M4_6_643 m 224
+t t2_9 n t2_9 -1 NF5280M4_6_644 m 224
+t t3_26 n t3_26 -1 NF5280M4_6_645 m 224
+t t2_12 n t2_12 -1 NF5280M4_6_646 m 224
+t t3_12 n t3_12 -1 NF5280M4_6_647 m 224
+t t3_11 n t3_11 -1 NF5280M4_6_648 m 224
+t t3_23 n t3_23 -1 NF5280M4_6_649 m 224
+t t2_10 n t2_10 -1 NF5280M4_6_650 m 224
+t t3_4 n t3_4 -1 NF5280M4_6_651 m 224
+t t3_14 n t3_14 -1 NF5280M4_6_652 m 224
+t t3_18 n t3_18 -1 NF5280M4_6_653 m 224
+t t3_9 n t3_9 -1 NF5280M4_6_654 m 224
+t t2_4 n t2_4 -1 NF5280M4_6_655 m 224
+t t2_7 n t2_7 -1 NF5280M4_6_656 m 224
+t t3_1 n t3_1 -1 NF5280M4_6_657 m 224
+t t3_16 n t3_16 -1 NF5280M4_6_658 m 224
+
+t delay_t0_1_t2_11 n delay_t0_1_t2_11 -1 delayP i
+t delay_t0_3_t2_6 n delay_t0_3_t2_6 -1 delayP i
+t delay_t0_4_t2_6 n delay_t0_4_t2_6 -1 delayP i
+t delay_t0_1_t2_3 n delay_t0_1_t2_3 -1 delayP i
+t delay_t1_t3_27 n delay_t1_t3_27 -1 delayP i
+t delay_t0_2_t2_4 n delay_t0_2_t2_4 -1 delayP i
+t delay_t0_1_t2_6 n delay_t0_1_t2_6 -1 delayP i
+t delay_t0_5_t2_8 n delay_t0_5_t2_8 -1 delayP i
+t delay_t1_t3_8 n delay_t1_t3_8 -1 delayP i
+t delay_c0_t1 n delay_c0_t1 -1 delayP i
+t delay_t0_2_t2_12 n delay_t0_2_t2_12 -1 delayP i
+t delay_t0_4_t2_5 n delay_t0_4_t2_5 -1 delayP i
+t delay_t0_4_t2_12 n delay_t0_4_t2_12 -1 delayP i
+t delay_t1_t3_14 n delay_t1_t3_14 -1 delayP i
+t delay_t1_t3_25 n delay_t1_t3_25 -1 delayP i
+t delay_t1_t3_22 n delay_t1_t3_22 -1 delayP i
+t delay_t0_4_t2_8 n delay_t0_4_t2_8 -1 delayP i
+t delay_t0_4_t2_13 n delay_t0_4_t2_13 -1 delayP i
+t delay_c0_t0_3 n delay_c0_t0_3 -1 delayP i
+t delay_c0_t0_4 n delay_c0_t0_4 -1 delayP i
+t delay_t0_3_t2_10 n delay_t0_3_t2_10 -1 delayP i
+t delay_t0_1_t2_7 n delay_t0_1_t2_7 -1 delayP i
+t delay_t1_t3_2 n delay_t1_t3_2 -1 delayP i
+t delay_t0_1_t2_2 n delay_t0_1_t2_2 -1 delayP i
+t delay_t1_t3_21 n delay_t1_t3_21 -1 delayP i
+t delay_t0_2_t2_1 n delay_t0_2_t2_1 -1 delayP i
+t delay_t1_t3_7 n delay_t1_t3_7 -1 delayP i
+t delay_t0_2_t2_10 n delay_t0_2_t2_10 -1 delayP i
+t delay_t0_2_t2_7 n delay_t0_2_t2_7 -1 delayP i
+t delay_t1_t3_12 n delay_t1_t3_12 -1 delayP i
+t delay_t0_2_t2_5 n delay_t0_2_t2_5 -1 delayP i
+t delay_t0_5_t2_2 n delay_t0_5_t2_2 -1 delayP i
+t delay_t0_3_t2_3 n delay_t0_3_t2_3 -1 delayP i
+t delay_t0_4_t2_3 n delay_t0_4_t2_3 -1 delayP i
+t delay_t0_4_t2_10 n delay_t0_4_t2_10 -1 delayP i
+t delay_t1_t3_15 n delay_t1_t3_15 -1 delayP i
+t delay_t0_5_t2_5 n delay_t0_5_t2_5 -1 delayP i
+t delay_c0_t0_2 n delay_c0_t0_2 -1 delayP i
+t delay_t0_1_t2_13 n delay_t0_1_t2_13 -1 delayP i
+t delay_t1_t3_9 n delay_t1_t3_9 -1 delayP i
+t delay_t0_3_t2_5 n delay_t0_3_t2_5 -1 delayP i
+t delay_t0_5_t2_3 n delay_t0_5_t2_3 -1 delayP i
+t delay_t0_1_t2_5 n delay_t0_1_t2_5 -1 delayP i
+t delay_t1_t3_10 n delay_t1_t3_10 -1 delayP i
+t delay_t1_t3_5 n delay_t1_t3_5 -1 delayP i
+t delay_t0_3_t2_4 n delay_t0_3_t2_4 -1 delayP i
+t delay_t0_5_t2_6 n delay_t0_5_t2_6 -1 delayP i
+t delay_t0_4_t2_1 n delay_t0_4_t2_1 -1 delayP i
+t delay_t0_4_t2_9 n delay_t0_4_t2_9 -1 delayP i
+t delay_t1_t3_16 n delay_t1_t3_16 -1 delayP i
+t delay_t0_3_t2_12 n delay_t0_3_t2_12 -1 delayP i
+t delay_t0_2_t2_6 n delay_t0_2_t2_6 -1 delayP i
+t delay_t0_5_t2_11 n delay_t0_5_t2_11 -1 delayP i
+t delay_t1_t3_6 n delay_t1_t3_6 -1 delayP i
+t delay_c0_t0_1 n delay_c0_t0_1 -1 delayP i
+t delay_t0_2_t2_9 n delay_t0_2_t2_9 -1 delayP i
+t delay_t0_1_t2_9 n delay_t0_1_t2_9 -1 delayP i
+t delay_t0_1_t2_12 n delay_t0_1_t2_12 -1 delayP i
+t delay_t1_t3_24 n delay_t1_t3_24 -1 delayP i
+t delay_t1_t3_11 n delay_t1_t3_11 -1 delayP i
+t delay_t0_2_t2_3 n delay_t0_2_t2_3 -1 delayP i
+t delay_t0_3_t2_11 n delay_t0_3_t2_11 -1 delayP i
+t delay_t0_3_t2_2 n delay_t0_3_t2_2 -1 delayP i
+t delay_t1_t3_23 n delay_t1_t3_23 -1 delayP i
+t delay_t1_t3_17 n delay_t1_t3_17 -1 delayP i
+t delay_t0_4_t2_2 n delay_t0_4_t2_2 -1 delayP i
+t delay_t1_t3_18 n delay_t1_t3_18 -1 delayP i
+t delay_t0_5_t2_13 n delay_t0_5_t2_13 -1 delayP i
+t delay_t1_t3_1 n delay_t1_t3_1 -1 delayP i
+t delay_t1_t3_4 n delay_t1_t3_4 -1 delayP i
+t delay_t0_1_t2_8 n delay_t0_1_t2_8 -1 delayP i
+t delay_c0_t0_5 n delay_c0_t0_5 -1 delayP i
+t delay_t0_1_t2_1 n delay_t0_1_t2_1 -1 delayP i
+t delay_t0_1_t2_10 n delay_t0_1_t2_10 -1 delayP i
+t delay_t0_3_t2_13 n delay_t0_3_t2_13 -1 delayP i
+t delay_t1_t3_3 n delay_t1_t3_3 -1 delayP i
+t delay_t1_t3_26 n delay_t1_t3_26 -1 delayP i
+t delay_t1_t3_19 n delay_t1_t3_19 -1 delayP i
+t delay_t0_3_t2_8 n delay_t0_3_t2_8 -1 delayP i
+t delay_t0_4_t2_11 n delay_t0_4_t2_11 -1 delayP i
+t delay_t0_3_t2_1 n delay_t0_3_t2_1 -1 delayP i
+t delay_t0_4_t2_7 n delay_t0_4_t2_7 -1 delayP i
+t delay_t0_4_t2_4 n delay_t0_4_t2_4 -1 delayP i
+t delay_t0_3_t2_7 n delay_t0_3_t2_7 -1 delayP i
+t delay_t0_3_t2_9 n delay_t0_3_t2_9 -1 delayP i
+t delay_t1_t3_13 n delay_t1_t3_13 -1 delayP i
+t delay_t1_t3_28 n delay_t1_t3_28 -1 delayP i
+t delay_t0_1_t2_4 n delay_t0_1_t2_4 -1 delayP i
+-1
+
+E 0
+s t0_1 0.851554 -1
+s t3_5 1.68322 -1
+s t0_3 0.851554 -1
+s t3_22 1.68322 -1
+s t3_24 1.68322 -1
+s t0_4 0.851554 -1
+s t2_11 1.31238 -1
+s t2_2 1.31238 -1
+s t3_20 1.68322 -1
+s t2_8 1.31238 -1
+s t0_2 0.851554 -1
+s t2_13 1.31238 -1
+s t1 0.11089 -1
+s t3_10 1.68322 -1
+s t2_6 1.31238 -1
+s t3_6 1.68322 -1
+s t2_3 1.31238 -1
+s t3_15 1.68322 -1
+s t2_5 1.31238 -1
+s t3_28 1.68322 -1
+s t3_7 1.68322 -1
+s t3_17 1.68322 -1
+s t3_27 1.68322 -1
+s t2_1 1.31238 -1
+s t0_5 0.851554 -1
+s t3_3 1.68322 -1
+s t3_8 1.68322 -1
+s t3_21 1.68322 -1
+s t3_13 1.68322 -1
+s t3_25 1.68322 -1
+s t3_2 1.68322 -1
+s t3_19 1.68322 -1
+s t2_9 1.31238 -1
+s t3_26 1.68322 -1
+s t2_12 1.31238 -1
+s t3_12 1.68322 -1
+s t3_11 1.68322 -1
+s t3_23 1.68322 -1
+s t2_10 1.31238 -1
+s t3_4 1.68322 -1
+s t3_14 1.68322 -1
+s t3_18 1.68322 -1
+s t3_9 1.68322 -1
+s t2_4 1.31238 -1
+s t2_7 1.31238 -1
+s t3_1 1.68322 -1
+s t3_16 1.68322 -1
+
+s delay_t0_1_t2_11 150.0 -1
+y t0_1 delay_t0_1_t2_11 0.141108462 -1
+y delay_t0_1_t2_11 t2_11 1.0 -1
+
+s delay_t0_3_t2_6 75.0 -1
+y t0_3 delay_t0_3_t2_6 0.141108462 -1
+y delay_t0_3_t2_6 t2_6 1.0 -1
+
+s delay_t0_4_t2_6 75.0 -1
+y t0_4 delay_t0_4_t2_6 0.141108462 -1
+y delay_t0_4_t2_6 t2_6 1.0 -1
+
+y t0_5 t2_1 0.141108462 -1
+
+s delay_t0_1_t2_3 75.0 -1
+y t0_1 delay_t0_1_t2_3 0.141108462 -1
+y delay_t0_1_t2_3 t2_3 1.0 -1
+
+s delay_t1_t3_27 75.0 -1
+y t1 delay_t1_t3_27 0.068818571 -1
+y delay_t1_t3_27 t3_27 1.0 -1
+
+s delay_t0_2_t2_4 75.0 -1
+y t0_2 delay_t0_2_t2_4 0.141108462 -1
+y delay_t0_2_t2_4 t2_4 1.0 -1
+
+s delay_t0_1_t2_6 75.0 -1
+y t0_1 delay_t0_1_t2_6 0.141108462 -1
+y delay_t0_1_t2_6 t2_6 1.0 -1
+
+s delay_t0_5_t2_8 75.0 -1
+y t0_5 delay_t0_5_t2_8 0.141108462 -1
+y delay_t0_5_t2_8 t2_8 1.0 -1
+
+s delay_t1_t3_8 75.0 -1
+y t1 delay_t1_t3_8 0.068818571 -1
+y delay_t1_t3_8 t3_8 1.0 -1
+
+s delay_c0_t1 175.0 -1
+y c0 delay_c0_t1 0.68293 -1
+y delay_c0_t1 t1 1.0 -1
+
+s delay_t0_2_t2_12 75.0 -1
+y t0_2 delay_t0_2_t2_12 0.141108462 -1
+y delay_t0_2_t2_12 t2_12 1.0 -1
+
+s delay_t0_4_t2_5 75.0 -1
+y t0_4 delay_t0_4_t2_5 0.141108462 -1
+y delay_t0_4_t2_5 t2_5 1.0 -1
+
+y t0_2 t2_8 0.141108462 -1
+
+s delay_t0_4_t2_12 225.0 -1
+y t0_4 delay_t0_4_t2_12 0.141108462 -1
+y delay_t0_4_t2_12 t2_12 1.0 -1
+
+y t0_5 t2_7 0.141108462 -1
+
+s delay_t1_t3_14 75.0 -1
+y t1 delay_t1_t3_14 0.068818571 -1
+y delay_t1_t3_14 t3_14 1.0 -1
+
+s delay_t1_t3_25 75.0 -1
+y t1 delay_t1_t3_25 0.068818571 -1
+y delay_t1_t3_25 t3_25 1.0 -1
+
+s delay_t1_t3_22 150.0 -1
+y t1 delay_t1_t3_22 0.068818571 -1
+y delay_t1_t3_22 t3_22 1.0 -1
+
+s delay_t0_4_t2_8 150.0 -1
+y t0_4 delay_t0_4_t2_8 0.141108462 -1
+y delay_t0_4_t2_8 t2_8 1.0 -1
+
+y t0_5 t2_9 0.141108462 -1
+
+s delay_t0_4_t2_13 150.0 -1
+y t0_4 delay_t0_4_t2_13 0.141108462 -1
+y delay_t0_4_t2_13 t2_13 1.0 -1
+
+s delay_c0_t0_3 25.0 -1
+y c0 delay_c0_t0_3 0.0800106 -1
+y delay_c0_t0_3 t0_3 1.0 -1
+
+s delay_c0_t0_4 25.0 -1
+y c0 delay_c0_t0_4 0.0800106 -1
+y delay_c0_t0_4 t0_4 1.0 -1
+
+s delay_t0_3_t2_10 225.0 -1
+y t0_3 delay_t0_3_t2_10 0.141108462 -1
+y delay_t0_3_t2_10 t2_10 1.0 -1
+
+y t0_2 t2_2 0.141108462 -1
+
+s delay_t0_1_t2_7 225.0 -1
+y t0_1 delay_t0_1_t2_7 0.141108462 -1
+y delay_t0_1_t2_7 t2_7 1.0 -1
+
+s delay_t1_t3_2 75.0 -1
+y t1 delay_t1_t3_2 0.068818571 -1
+y delay_t1_t3_2 t3_2 1.0 -1
+
+s delay_t0_1_t2_2 150.0 -1
+y t0_1 delay_t0_1_t2_2 0.141108462 -1
+y delay_t0_1_t2_2 t2_2 1.0 -1
+
+s delay_t1_t3_21 75.0 -1
+y t1 delay_t1_t3_21 0.068818571 -1
+y delay_t1_t3_21 t3_21 1.0 -1
+
+s delay_t0_2_t2_1 75.0 -1
+y t0_2 delay_t0_2_t2_1 0.141108462 -1
+y delay_t0_2_t2_1 t2_1 1.0 -1
+
+s delay_t1_t3_7 75.0 -1
+y t1 delay_t1_t3_7 0.068818571 -1
+y delay_t1_t3_7 t3_7 1.0 -1
+
+y t1 t3_20 0.068818571 -1
+
+s delay_t0_2_t2_10 75.0 -1
+y t0_2 delay_t0_2_t2_10 0.141108462 -1
+y delay_t0_2_t2_10 t2_10 1.0 -1
+
+s delay_t0_2_t2_7 75.0 -1
+y t0_2 delay_t0_2_t2_7 0.141108462 -1
+y delay_t0_2_t2_7 t2_7 1.0 -1
+
+s delay_t1_t3_12 75.0 -1
+y t1 delay_t1_t3_12 0.068818571 -1
+y delay_t1_t3_12 t3_12 1.0 -1
+
+y t0_5 t2_10 0.141108462 -1
+
+s delay_t0_2_t2_5 75.0 -1
+y t0_2 delay_t0_2_t2_5 0.141108462 -1
+y delay_t0_2_t2_5 t2_5 1.0 -1
+
+s delay_t0_5_t2_2 75.0 -1
+y t0_5 delay_t0_5_t2_2 0.141108462 -1
+y delay_t0_5_t2_2 t2_2 1.0 -1
+
+s delay_t0_3_t2_3 75.0 -1
+y t0_3 delay_t0_3_t2_3 0.141108462 -1
+y delay_t0_3_t2_3 t2_3 1.0 -1
+
+s delay_t0_4_t2_3 75.0 -1
+y t0_4 delay_t0_4_t2_3 0.141108462 -1
+y delay_t0_4_t2_3 t2_3 1.0 -1
+
+s delay_t0_4_t2_10 225.0 -1
+y t0_4 delay_t0_4_t2_10 0.141108462 -1
+y delay_t0_4_t2_10 t2_10 1.0 -1
+
+s delay_t1_t3_15 75.0 -1
+y t1 delay_t1_t3_15 0.068818571 -1
+y delay_t1_t3_15 t3_15 1.0 -1
+
+s delay_t0_5_t2_5 150.0 -1
+y t0_5 delay_t0_5_t2_5 0.141108462 -1
+y delay_t0_5_t2_5 t2_5 1.0 -1
+
+y t0_5 t2_12 0.141108462 -1
+
+s delay_c0_t0_2 175.0 -1
+y c0 delay_c0_t0_2 0.0800106 -1
+y delay_c0_t0_2 t0_2 1.0 -1
+
+s delay_t0_1_t2_13 150.0 -1
+y t0_1 delay_t0_1_t2_13 0.141108462 -1
+y delay_t0_1_t2_13 t2_13 1.0 -1
+
+s delay_t1_t3_9 75.0 -1
+y t1 delay_t1_t3_9 0.068818571 -1
+y delay_t1_t3_9 t3_9 1.0 -1
+
+s delay_t0_3_t2_5 75.0 -1
+y t0_3 delay_t0_3_t2_5 0.141108462 -1
+y delay_t0_3_t2_5 t2_5 1.0 -1
+
+s delay_t0_5_t2_3 150.0 -1
+y t0_5 delay_t0_5_t2_3 0.141108462 -1
+y delay_t0_5_t2_3 t2_3 1.0 -1
+
+s delay_t0_1_t2_5 75.0 -1
+y t0_1 delay_t0_1_t2_5 0.141108462 -1
+y delay_t0_1_t2_5 t2_5 1.0 -1
+
+s delay_t1_t3_10 75.0 -1
+y t1 delay_t1_t3_10 0.068818571 -1
+y delay_t1_t3_10 t3_10 1.0 -1
+
+s delay_t1_t3_5 150.0 -1
+y t1 delay_t1_t3_5 0.068818571 -1
+y delay_t1_t3_5 t3_5 1.0 -1
+
+s delay_t0_3_t2_4 225.0 -1
+y t0_3 delay_t0_3_t2_4 0.141108462 -1
+y delay_t0_3_t2_4 t2_4 1.0 -1
+
+s delay_t0_5_t2_6 150.0 -1
+y t0_5 delay_t0_5_t2_6 0.141108462 -1
+y delay_t0_5_t2_6 t2_6 1.0 -1
+
+s delay_t0_4_t2_1 225.0 -1
+y t0_4 delay_t0_4_t2_1 0.141108462 -1
+y delay_t0_4_t2_1 t2_1 1.0 -1
+
+s delay_t0_4_t2_9 225.0 -1
+y t0_4 delay_t0_4_t2_9 0.141108462 -1
+y delay_t0_4_t2_9 t2_9 1.0 -1
+
+s delay_t1_t3_16 75.0 -1
+y t1 delay_t1_t3_16 0.068818571 -1
+y delay_t1_t3_16 t3_16 1.0 -1
+
+s delay_t0_3_t2_12 225.0 -1
+y t0_3 delay_t0_3_t2_12 0.141108462 -1
+y delay_t0_3_t2_12 t2_12 1.0 -1
+
+s delay_t0_2_t2_6 75.0 -1
+y t0_2 delay_t0_2_t2_6 0.141108462 -1
+y delay_t0_2_t2_6 t2_6 1.0 -1
+
+s delay_t0_5_t2_11 75.0 -1
+y t0_5 delay_t0_5_t2_11 0.141108462 -1
+y delay_t0_5_t2_11 t2_11 1.0 -1
+
+s delay_t1_t3_6 75.0 -1
+y t1 delay_t1_t3_6 0.068818571 -1
+y delay_t1_t3_6 t3_6 1.0 -1
+
+s delay_c0_t0_1 25.0 -1
+y c0 delay_c0_t0_1 0.0800106 -1
+y delay_c0_t0_1 t0_1 1.0 -1
+
+s delay_t0_2_t2_9 75.0 -1
+y t0_2 delay_t0_2_t2_9 0.141108462 -1
+y delay_t0_2_t2_9 t2_9 1.0 -1
+
+s delay_t0_1_t2_9 225.0 -1
+y t0_1 delay_t0_1_t2_9 0.141108462 -1
+y delay_t0_1_t2_9 t2_9 1.0 -1
+
+s delay_t0_1_t2_12 225.0 -1
+y t0_1 delay_t0_1_t2_12 0.141108462 -1
+y delay_t0_1_t2_12 t2_12 1.0 -1
+
+s delay_t1_t3_24 150.0 -1
+y t1 delay_t1_t3_24 0.068818571 -1
+y delay_t1_t3_24 t3_24 1.0 -1
+
+s delay_t1_t3_11 75.0 -1
+y t1 delay_t1_t3_11 0.068818571 -1
+y delay_t1_t3_11 t3_11 1.0 -1
+
+s delay_t0_2_t2_3 75.0 -1
+y t0_2 delay_t0_2_t2_3 0.141108462 -1
+y delay_t0_2_t2_3 t2_3 1.0 -1
+
+s delay_t0_3_t2_11 150.0 -1
+y t0_3 delay_t0_3_t2_11 0.141108462 -1
+y delay_t0_3_t2_11 t2_11 1.0 -1
+
+s delay_t0_3_t2_2 150.0 -1
+y t0_3 delay_t0_3_t2_2 0.141108462 -1
+y delay_t0_3_t2_2 t2_2 1.0 -1
+
+s delay_t1_t3_23 75.0 -1
+y t1 delay_t1_t3_23 0.068818571 -1
+y delay_t1_t3_23 t3_23 1.0 -1
+
+s delay_t1_t3_17 75.0 -1
+y t1 delay_t1_t3_17 0.068818571 -1
+y delay_t1_t3_17 t3_17 1.0 -1
+
+s delay_t0_4_t2_2 150.0 -1
+y t0_4 delay_t0_4_t2_2 0.141108462 -1
+y delay_t0_4_t2_2 t2_2 1.0 -1
+
+s delay_t1_t3_18 75.0 -1
+y t1 delay_t1_t3_18 0.068818571 -1
+y delay_t1_t3_18 t3_18 1.0 -1
+
+s delay_t0_5_t2_13 75.0 -1
+y t0_5 delay_t0_5_t2_13 0.141108462 -1
+y delay_t0_5_t2_13 t2_13 1.0 -1
+
+s delay_t1_t3_1 75.0 -1
+y t1 delay_t1_t3_1 0.068818571 -1
+y delay_t1_t3_1 t3_1 1.0 -1
+
+s delay_t1_t3_4 75.0 -1
+y t1 delay_t1_t3_4 0.068818571 -1
+y delay_t1_t3_4 t3_4 1.0 -1
+
+s delay_t0_1_t2_8 150.0 -1
+y t0_1 delay_t0_1_t2_8 0.141108462 -1
+y delay_t0_1_t2_8 t2_8 1.0 -1
+
+y t0_2 t2_13 0.141108462 -1
+
+s delay_c0_t0_5 250.0 -1
+y c0 delay_c0_t0_5 0.0800106 -1
+y delay_c0_t0_5 t0_5 1.0 -1
+
+s delay_t0_1_t2_1 225.0 -1
+y t0_1 delay_t0_1_t2_1 0.141108462 -1
+y delay_t0_1_t2_1 t2_1 1.0 -1
+
+s delay_t0_1_t2_10 225.0 -1
+y t0_1 delay_t0_1_t2_10 0.141108462 -1
+y delay_t0_1_t2_10 t2_10 1.0 -1
+
+s delay_t0_3_t2_13 150.0 -1
+y t0_3 delay_t0_3_t2_13 0.141108462 -1
+y delay_t0_3_t2_13 t2_13 1.0 -1
+
+y t0_5 t2_4 0.141108462 -1
+
+s delay_t1_t3_3 75.0 -1
+y t1 delay_t1_t3_3 0.068818571 -1
+y delay_t1_t3_3 t3_3 1.0 -1
+
+s delay_t1_t3_26 75.0 -1
+y t1 delay_t1_t3_26 0.068818571 -1
+y delay_t1_t3_26 t3_26 1.0 -1
+
+s delay_t1_t3_19 75.0 -1
+y t1 delay_t1_t3_19 0.068818571 -1
+y delay_t1_t3_19 t3_19 1.0 -1
+
+s delay_t0_3_t2_8 150.0 -1
+y t0_3 delay_t0_3_t2_8 0.141108462 -1
+y delay_t0_3_t2_8 t2_8 1.0 -1
+
+s delay_t0_4_t2_11 150.0 -1
+y t0_4 delay_t0_4_t2_11 0.141108462 -1
+y delay_t0_4_t2_11 t2_11 1.0 -1
+
+s delay_t0_3_t2_1 225.0 -1
+y t0_3 delay_t0_3_t2_1 0.141108462 -1
+y delay_t0_3_t2_1 t2_1 1.0 -1
+
+s delay_t0_4_t2_7 225.0 -1
+y t0_4 delay_t0_4_t2_7 0.141108462 -1
+y delay_t0_4_t2_7 t2_7 1.0 -1
+
+s delay_t0_4_t2_4 225.0 -1
+y t0_4 delay_t0_4_t2_4 0.141108462 -1
+y delay_t0_4_t2_4 t2_4 1.0 -1
+
+s delay_t0_3_t2_7 225.0 -1
+y t0_3 delay_t0_3_t2_7 0.141108462 -1
+y delay_t0_3_t2_7 t2_7 1.0 -1
+
+s delay_t0_3_t2_9 225.0 -1
+y t0_3 delay_t0_3_t2_9 0.141108462 -1
+y delay_t0_3_t2_9 t2_9 1.0 -1
+
+y t0_2 t2_11 0.141108462 -1
+
+s delay_t1_t3_13 75.0 -1
+y t1 delay_t1_t3_13 0.068818571 -1
+y delay_t1_t3_13 t3_13 1.0 -1
+
+s delay_t1_t3_28 75.0 -1
+y t1 delay_t1_t3_28 0.068818571 -1
+y delay_t1_t3_28 t3_28 1.0 -1
+
+s delay_t0_1_t2_4 225.0 -1
+y t0_1 delay_t0_1_t2_4 0.141108462 -1
+y delay_t0_1_t2_4 t2_4 1.0 -1
+
+-1
+
+
+# R 0
+# $0=$thruput
+# -1
